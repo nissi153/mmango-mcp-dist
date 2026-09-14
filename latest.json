@@ -1,15 +1,15 @@
 {
-  "version": "0.1.5",
-  "notes": "완성 알림음(완료되었습니다) 서버 내장 · shop_done_sound 로 끄고 켜기",
+  "version": "0.1.6",
+  "notes": "짤형 자막 15자 한 줄 내장(one_line_subs 후처리 제거)",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.5/app-0.1.5.zip",
-    "size": 1603794
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.6/app-0.1.6.zip",
+    "size": 1639119
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31599841
+    "size": 31597860
   },
-  "sealed": "gAAAAABqqGcEq7TlrvsMpsAEp6kJXHJC8StR7AFp0PW5w63NmxpIOHGk8A86X4XKNkStixQIPKIWAqZJTjcjbdxn2px6_7utXx9d7EaR5Pg1X2uAnwxY0vm_RCiCuVfsuck8jWyYnIO69L7hORoxZNbAyXIwbACS9NrJIiQBbce8uxl0-HrFhwaebKRVToUFJlXtlHhuOzYuh5SO-POP1Eq4kUr4Z5zDN9HzD3-ofo-T0fF52mZ66DvRoxmnokSchtM7IUoxPlLLt5Ko1MJN9R--vQ0go0HRZ2hLO8N0qUJxaiETeOaFbVAbmxiDld2-5nDoUK1d_hgBGFpN95943BwuoQPOz9hCtEDobFHAifFcrvued3zs5OEz_V6nNrqvQBGaIHsHdO3MXfzZgAq_srzK7handPZPBalvR368Ri0z13ui5DAU1MU=",
-  "published_at": "2026-09-15 06:28:36"
+  "sealed": "gAAAAABqqGhfJpfzdyq0HYCGEO6zio2piTXIQVEm0yLIoOkiUnsGcqGJLuvKlFujcxVCjplf5fSWk2vcS23fAma7x3F1c8zVFHqs_remB30lh-7DSaIODpy4aKKlcaOFURi_-7l-dLI8W3iK-ZFjaTK34MDAmMbmbDH8m9W8g7HShkS2zwVgH58-xq64rL_Ie-HNGTZZ45zW1RP_R1al-lRIc9H8Lxxf15bnewkqtPMXdqW9JFIv1gGJTImMXOzwP1tb-dcgKquQs0_PRSZq1SQv3gRuR_O2E0BWmXy_Gq61HnfeBOwEiuomJHXHExWm0FTr9yHIUaeFajOfxN247fq3U4rtigHHIEet3MIk2zdJQaWWsE4Cm2HFxx-YmwFd9-TM8H03nAm0AFjKZE3fYDLWW9Ov3SesW1t-3LWMPFokvq60lYOU9S4=",
+  "published_at": "2026-09-15 06:34:23"
 }
