@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "첫 배포 · 자동 업데이트 도입",
+  "version": "0.1.1",
+  "notes": "업데이트 왕복 시험",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.0/app-0.1.0.zip",
-    "size": 1417111
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.1/app-0.1.1.zip",
+    "size": 1417109
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31600442
+    "size": 31600580
   },
-  "sealed": "gAAAAABqp8VzK_20xzuj06x4u9-5VswakNEHeXTX3ZbEqNXQ9h42fdsMHJbIzWfLN_j44snVroFVDopl0fmuqjpnB6rWXefUn0szKiupgvIAV6bpxMhjAmAU_TcQ7pJCa5N5-kS2tcRIXheZ_uTYKZfabqd3oj5JMcdWVlGMXMVsDSWX0ODcFdd_iQLppUNaiEp-Xzx1DMe9NIUEpvc96RzlkP-VleXI2O6uw01JHhLyhFB5sCVA2lRNKXMnAzGwhB3vyAbc9GmaLWucIlGQ0WrKgncMV3YJm0PtE-8mSRkh8tOmtVvCAjK0O2TbnrZjBs6OclB5MMSiv1CnCH84zyi33KJRZMiZ-EGWYeoy-z2gED9nNMhFEKODfSTKFqFw64IP3fsY1YDoPbFO45GT2YgCgXJfpWgCzbVGzAtSTFFipf7x5CRT3fc=",
-  "published_at": "2026-09-14 18:59:15"
+  "sealed": "gAAAAABqp8YuGFUBPiNaGL1XTY7ghry_qIev9A0WXrJ-YLH6MjSQF8mpubM4zItgVNi5fdphfq1tYZI-oT28GhY_4VxVgyLjaIlqt1RfTmKk5nWI8RDxnC3KU0WN-PZW1HiwKIZqZKsKgQpkXM4oSGvRje4or0VvnvmtF62jrV1th5XJhdEW_8qgw6yUg-yrppMHnD-5DZwftwMGVRuZ2JYAm4SXjmN96IteVANJ85z1Z1PY5wk9OsTzX3pZhLJVpmWGTdQZllOMad-sQw2LZprGmaxvSNW7kva6wlXDU7URyhOhzw0JDIj1_cwTnTV0ew7T0wLDn2-LKhdnDFXeryPpYrcyw8i-2YfC0ml1jH8qDx0RmbJUO4JAIXuM4HFc4iIiJXJFOM0x5GW615a_XYQND0GSBLMJjddeC1FfZXDcO_sHbHMKvsg=",
+  "published_at": "2026-09-14 19:02:22"
 }
