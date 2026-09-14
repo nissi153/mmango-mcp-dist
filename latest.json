@@ -1,15 +1,15 @@
 {
-  "version": "0.1.4",
-  "notes": "짤형 나레이션 대화체 개편: 긴 문장·문장사이 호흡0.28·속도1.05·끝음 보존",
+  "version": "0.1.5",
+  "notes": "완성 알림음(완료되었습니다) 서버 내장 · shop_done_sound 로 끄고 켜기",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.4/app-0.1.4.zip",
-    "size": 1508367
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.5/app-0.1.5.zip",
+    "size": 1603794
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31597909
+    "size": 31599841
   },
-  "sealed": "gAAAAABqqEyfhDG0QqjRRhBaxbPHf3lXax1HGBYDJq0F7M3mYtA0tIh_8-lWSn1P2utsdRQatEMvBttNyHoDPE7ZKuqs3za51QVSBWCzTWfkCWrujxYkBGkD-oF3rK9j5e7g9WX0kovVSD60RHpotyJSvexO1HKG-fphNQdUy-OPV7N_QanhtiQjlDb-9cSHk65vh_lJoQ1SGIJ0tQaCudL3n1h4XPOiq-hZnmoQTpEyLp_M_LatOflrF5BIo8iaDztBHuEnjX34IvVo1dQrbSR5hcrX8bdJn9LllJ1NI2WvsU5SwRK977SnJg691WZOD_4641cGlTGapZM82PTzIhlURebmIdvUCZDpV5_ri48RwnBS2s9C6cslugw5bptNUbUnV-EBM5eLSNqmPRs1klF96s9P0jf2p4taZu3d7yEnNcPLp-lrBqY=",
-  "published_at": "2026-09-15 04:35:59"
+  "sealed": "gAAAAABqqGcEq7TlrvsMpsAEp6kJXHJC8StR7AFp0PW5w63NmxpIOHGk8A86X4XKNkStixQIPKIWAqZJTjcjbdxn2px6_7utXx9d7EaR5Pg1X2uAnwxY0vm_RCiCuVfsuck8jWyYnIO69L7hORoxZNbAyXIwbACS9NrJIiQBbce8uxl0-HrFhwaebKRVToUFJlXtlHhuOzYuh5SO-POP1Eq4kUr4Z5zDN9HzD3-ofo-T0fF52mZ66DvRoxmnokSchtM7IUoxPlLLt5Ko1MJN9R--vQ0go0HRZ2hLO8N0qUJxaiETeOaFbVAbmxiDld2-5nDoUK1d_hgBGFpN95943BwuoQPOz9hCtEDobFHAifFcrvued3zs5OEz_V6nNrqvQBGaIHsHdO3MXfzZgAq_srzK7handPZPBalvR368Ri0z13ui5DAU1MU=",
+  "published_at": "2026-09-15 06:28:36"
 }
