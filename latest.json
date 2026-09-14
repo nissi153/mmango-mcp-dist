@@ -1,15 +1,15 @@
 {
   "version": "0.1.1",
-  "notes": "업데이트 왕복 시험",
+  "notes": "업데이트/되돌리기 확정",
   "app": {
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.1/app-0.1.1.zip",
-    "size": 1418045
+    "size": 1421762
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31600856
+    "size": 31600539
   },
-  "sealed": "gAAAAABqp8dbgj3EZmm8aAGtVRGCc31aTkLauCoEk0ALp1UKi3pRfJGWNUapWtEoDB9oJM9OTsukz8AF2ftdeyqK9llpfnkH3ADHoVf2uc3m9cb8_ar2Xvb0p4XCmJOk5Bnn-KGX_1C9OofwVyUpCgeLAx0kWEl7rs1SOojcm8Cu2crKXKylUMvrmgOG7ijyvepD_SgLl8u5L0AYGO5TvVBUlZoBAHpwbIduRs8lI1JRgGyUFMI_qmK2KcMbNygHl28KnGBgdIPc81em6dBBmTs4zfejYLJ-cJuUoyHtroQoHplVU5h5tV_0561E0igfVI9NVXtubwTkoNcjTbO3bdSaoJXwL4Ut_LvqH0OPPcoLrUSUETKHSqqyYKFSeZPV0-34qleYwTzNIICjLsdfFhCR17QoPKGqK4dM7eGtGhQPk3HKwT-4FWc=",
-  "published_at": "2026-09-14 19:07:23"
+  "sealed": "gAAAAABqp8jmjfHIO0VnQ_C601xIYEUYyTa9-WA_Qm10o2Ekru9_F49ImkqwDnmDDo_R4LkERyueMFMhDRMYBodZ3o9dAU82uNH_s5wswUzC1ztu9ijfiN4UWBnFvN8VJYIEd0BNLjjZO2-WnaycnGc5tKEpj_irQbaVFxjADE1co_rlyDwQw5oVr-iD1AzDb4z_pj2ViL6KbFt8pjhqKeVrE3o1MBisJJ8aMenXa_E9NFbrBAja9SO4X_kPwzo8s4oESTtsptXKdQciYH_QvFw2NYe4G-cTRp7yhFuoiX5F2Xdr306QKo4GDE2xlMWwnGykomXUHabFOe9tMOgJ9_876IakyOMXq-svlX44Pb4WRcDthvbApUUkSdIKW9vJKBuoRXNkaTHemGenimZCF_4B34glc4ga5iXeZxzWsqW7iMuis0jV81k=",
+  "published_at": "2026-09-14 19:13:58"
 }
