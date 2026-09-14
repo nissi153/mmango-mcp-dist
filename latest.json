@@ -1,15 +1,15 @@
 {
-  "version": "0.1.3",
-  "notes": "짤형 끝 여운 1.2초→0.7초 단축",
+  "version": "0.1.4",
+  "notes": "짤형 나레이션 대화체 개편: 긴 문장·문장사이 호흡0.28·속도1.05·끝음 보존",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.3/app-0.1.3.zip",
-    "size": 1508027
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.4/app-0.1.4.zip",
+    "size": 1508367
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31599289
+    "size": 31597909
   },
-  "sealed": "gAAAAABqqAGqWVoj6l47PNfTqCVwLqgynF2NzwgPGImqcsiKiFLO_1sjNLfj4jgpF76oz1SrpuRNffeZlj6RCFHRTJIZ8WvHt_pLqCISXC7TxlKeu4LI6uRIW3zlklU0Mcz-6bzSev0M1b7Z6juTnzBr-k9y3q4Rx6bqP4DJe6_1rcaA4A5CppIyWqRP5t06nOcbPPFfIl5wnbEFWo9Yj_eYvlDVwoZ-ow1xme5DpySL9Ifwpsg1Bhehkt3N4X6vlMpZ42z9-NXVqtMMbD1NoFdgNV1JAsAJPjE1w3ZBc1ftOXa9Ue6YrkhyFlJu7uRhWsojwjTWZMIwzUgmlAHXpONxGJTIS0-yx6ZM3-X2IQGu3GWPQp-05yfmfNQ1wBOBAnXQnX0yj0oOcZrxtvS4KRvG_xDOv-B8Ve6RoZekP6Shu7_Epg7ry7M=",
-  "published_at": "2026-09-14 23:16:10"
+  "sealed": "gAAAAABqqEyfhDG0QqjRRhBaxbPHf3lXax1HGBYDJq0F7M3mYtA0tIh_8-lWSn1P2utsdRQatEMvBttNyHoDPE7ZKuqs3za51QVSBWCzTWfkCWrujxYkBGkD-oF3rK9j5e7g9WX0kovVSD60RHpotyJSvexO1HKG-fphNQdUy-OPV7N_QanhtiQjlDb-9cSHk65vh_lJoQ1SGIJ0tQaCudL3n1h4XPOiq-hZnmoQTpEyLp_M_LatOflrF5BIo8iaDztBHuEnjX34IvVo1dQrbSR5hcrX8bdJn9LllJ1NI2WvsU5SwRK977SnJg691WZOD_4641cGlTGapZM82PTzIhlURebmIdvUCZDpV5_ri48RwnBS2s9C6cslugw5bptNUbUnV-EBM5eLSNqmPRs1klF96s9P0jf2p4taZu3d7yEnNcPLp-lrBqY=",
+  "published_at": "2026-09-15 04:35:59"
 }
