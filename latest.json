@@ -3,13 +3,13 @@
   "notes": "업데이트 왕복 시험",
   "app": {
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.1/app-0.1.1.zip",
-    "size": 1417109
+    "size": 1418045
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31600580
+    "size": 31600856
   },
-  "sealed": "gAAAAABqp8YuGFUBPiNaGL1XTY7ghry_qIev9A0WXrJ-YLH6MjSQF8mpubM4zItgVNi5fdphfq1tYZI-oT28GhY_4VxVgyLjaIlqt1RfTmKk5nWI8RDxnC3KU0WN-PZW1HiwKIZqZKsKgQpkXM4oSGvRje4or0VvnvmtF62jrV1th5XJhdEW_8qgw6yUg-yrppMHnD-5DZwftwMGVRuZ2JYAm4SXjmN96IteVANJ85z1Z1PY5wk9OsTzX3pZhLJVpmWGTdQZllOMad-sQw2LZprGmaxvSNW7kva6wlXDU7URyhOhzw0JDIj1_cwTnTV0ew7T0wLDn2-LKhdnDFXeryPpYrcyw8i-2YfC0ml1jH8qDx0RmbJUO4JAIXuM4HFc4iIiJXJFOM0x5GW615a_XYQND0GSBLMJjddeC1FfZXDcO_sHbHMKvsg=",
-  "published_at": "2026-09-14 19:02:22"
+  "sealed": "gAAAAABqp8dbgj3EZmm8aAGtVRGCc31aTkLauCoEk0ALp1UKi3pRfJGWNUapWtEoDB9oJM9OTsukz8AF2ftdeyqK9llpfnkH3ADHoVf2uc3m9cb8_ar2Xvb0p4XCmJOk5Bnn-KGX_1C9OofwVyUpCgeLAx0kWEl7rs1SOojcm8Cu2crKXKylUMvrmgOG7ijyvepD_SgLl8u5L0AYGO5TvVBUlZoBAHpwbIduRs8lI1JRgGyUFMI_qmK2KcMbNygHl28KnGBgdIPc81em6dBBmTs4zfejYLJ-cJuUoyHtroQoHplVU5h5tV_0561E0igfVI9NVXtubwTkoNcjTbO3bdSaoJXwL4Ut_LvqH0OPPcoLrUSUETKHSqqyYKFSeZPV0-34qleYwTzNIICjLsdfFhCR17QoPKGqK4dM7eGtGhQPk3HKwT-4FWc=",
+  "published_at": "2026-09-14 19:07:23"
 }
