@@ -1,15 +1,15 @@
 {
-  "version": "0.1.6",
-  "notes": "짤형 자막 15자 한 줄 내장(one_line_subs 후처리 제거)",
+  "version": "0.1.7",
+  "notes": "납품 영상 자동 재생(기본 켜짐, shop_play_video 로 끄기)",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.6/app-0.1.6.zip",
-    "size": 1639119
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.7/app-0.1.7.zip",
+    "size": 1644808
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31597860
+    "size": 31597123
   },
-  "sealed": "gAAAAABqqGhfJpfzdyq0HYCGEO6zio2piTXIQVEm0yLIoOkiUnsGcqGJLuvKlFujcxVCjplf5fSWk2vcS23fAma7x3F1c8zVFHqs_remB30lh-7DSaIODpy4aKKlcaOFURi_-7l-dLI8W3iK-ZFjaTK34MDAmMbmbDH8m9W8g7HShkS2zwVgH58-xq64rL_Ie-HNGTZZ45zW1RP_R1al-lRIc9H8Lxxf15bnewkqtPMXdqW9JFIv1gGJTImMXOzwP1tb-dcgKquQs0_PRSZq1SQv3gRuR_O2E0BWmXy_Gq61HnfeBOwEiuomJHXHExWm0FTr9yHIUaeFajOfxN247fq3U4rtigHHIEet3MIk2zdJQaWWsE4Cm2HFxx-YmwFd9-TM8H03nAm0AFjKZE3fYDLWW9Ov3SesW1t-3LWMPFokvq60lYOU9S4=",
-  "published_at": "2026-09-15 06:34:23"
+  "sealed": "gAAAAABqqGxGjnWreD7_3X0BxJr6YZCXoYPbAR1Tekosm-jGGIB404NfeozslXeO5us0Fi3_QFR9ogkwlWAdMIwJyK8v44QXjmOF7ImIL-46JaFHhZ3zTQSDPwjyqFOzZ178eesAXX7b2hDgnGVtEYPHevEBrKLWg07sAab8_Nm59qCkhnIOkm7R5C4aeHg-QLwdFitNX7VPYrHZwtWmpv6Ot8NqzZjkV1b09wDeAAb-jfXLNFZ77N9x_8PtCQ6B3YOdWvVfPVRQZCrvw9gLl5YnwI0Z8eojGH7BMTIvIZMjg_cjxyJsFR_4x4DDV4AVOCcwvlCoIv9yOgzj-YrMeerssVtd3AlLs7wbP2DIDEgUz9yiXuFtq98UYPU4aGf0HACeBWN1cqUvswMGOFhnjTBMENlEiJH7QsVwp8kYMcS19Sd6HdniQtA=",
+  "published_at": "2026-09-15 06:51:02"
 }
