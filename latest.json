@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
-  "notes": "업데이트/되돌리기 확정",
+  "version": "0.1.2",
+  "notes": "상품 소싱 프리셋 shop_source·shop_trends 추가",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.1/app-0.1.1.zip",
-    "size": 1421762
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.2/app-0.1.2.zip",
+    "size": 1508023
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31600539
+    "size": 31598852
   },
-  "sealed": "gAAAAABqp8jmjfHIO0VnQ_C601xIYEUYyTa9-WA_Qm10o2Ekru9_F49ImkqwDnmDDo_R4LkERyueMFMhDRMYBodZ3o9dAU82uNH_s5wswUzC1ztu9ijfiN4UWBnFvN8VJYIEd0BNLjjZO2-WnaycnGc5tKEpj_irQbaVFxjADE1co_rlyDwQw5oVr-iD1AzDb4z_pj2ViL6KbFt8pjhqKeVrE3o1MBisJJ8aMenXa_E9NFbrBAja9SO4X_kPwzo8s4oESTtsptXKdQciYH_QvFw2NYe4G-cTRp7yhFuoiX5F2Xdr306QKo4GDE2xlMWwnGykomXUHabFOe9tMOgJ9_876IakyOMXq-svlX44Pb4WRcDthvbApUUkSdIKW9vJKBuoRXNkaTHemGenimZCF_4B34glc4ga5iXeZxzWsqW7iMuis0jV81k=",
-  "published_at": "2026-09-14 19:13:58"
+  "sealed": "gAAAAABqp-wQggzUC0rexYe1u00TNcBI66qXyoWQ00lMnh-_uYI4mCuwA7jvW6ntCsDmHmPOVJ7Ka1aKZNz87yJb286xrQinRVUPAo81Yz-yQZut4H-Vt2jHfC_LDsdp4Bwaww3J-Ip_LqjFX1ERCb7qeLaEqFlk3FTym92jVRe2ANlGg6AM-XeWhfH4tpIyaesLaOvCtXSI8TrtWNy047zVpy_LkTxDFY-NDUq-QuEOKJ5nkfCVflda6Ap67_rP_8NG65k_I4waW0-w83v0LRXZEFSGRmcqfdKiMueqqDmZ3eImGdDypkEyLt1CNzDPAH_o6ZTCTjjyPoKsWNc0VZtt2ItraE1MwUd-joN2UpIRlWg3NC2T6sWtagJp8-ptowTQ_xAohF0HcLCO1luCBw8FCgwsJ2Eoa1JZ-C3OXXs_hedtB882H60=",
+  "published_at": "2026-09-14 21:44:00"
 }
