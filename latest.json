@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "첫 배포 · 자동 업데이트 도입",
+  "app": {
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.0/app-0.1.0.zip",
+    "size": 1417111
+  },
+  "runtime": {
+    "fingerprint": "6f2c5987882206a8",
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
+    "size": 31600442
+  },
+  "sealed": "gAAAAABqp8VzK_20xzuj06x4u9-5VswakNEHeXTX3ZbEqNXQ9h42fdsMHJbIzWfLN_j44snVroFVDopl0fmuqjpnB6rWXefUn0szKiupgvIAV6bpxMhjAmAU_TcQ7pJCa5N5-kS2tcRIXheZ_uTYKZfabqd3oj5JMcdWVlGMXMVsDSWX0ODcFdd_iQLppUNaiEp-Xzx1DMe9NIUEpvc96RzlkP-VleXI2O6uw01JHhLyhFB5sCVA2lRNKXMnAzGwhB3vyAbc9GmaLWucIlGQ0WrKgncMV3YJm0PtE-8mSRkh8tOmtVvCAjK0O2TbnrZjBs6OclB5MMSiv1CnCH84zyi33KJRZMiZ-EGWYeoy-z2gED9nNMhFEKODfSTKFqFw64IP3fsY1YDoPbFO45GT2YgCgXJfpWgCzbVGzAtSTFFipf7x5CRT3fc=",
+  "published_at": "2026-09-14 18:59:15"
+}
