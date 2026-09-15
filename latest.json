@@ -1,15 +1,15 @@
 {
-  "version": "0.1.14",
-  "notes": "최종완성 mp4 옆에 같은 이름의 썸네일 jpg(후킹 문구 얹힘)도 같이 납품",
+  "version": "0.1.15",
+  "notes": "제품 소리(청소기 흡입 등): 대본 sfx 에 영어 검색어를 적으면 Freesound CC0 에서 받아 그 줄에 나레이션 밑으로 깔기. Freesound 무료 키 필요",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.14/app-0.1.14.zip",
-    "size": 1879181
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.15/app-0.1.15.zip",
+    "size": 1970592
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31598403
+    "size": 31598508
   },
-  "sealed": "gAAAAABqqUswsZuPGk-wE0Vm--WfA5fOmuc7x62YJRGnzRXVSm_XEC42R9ymsYYOOGhZD-bhg-umctgPv3WYSZjbGndGRlnTBRTnAsdKL0XFK25PHHRgOF2ZTGtimcOl9XSjYtr86BnY0RfildErDqpQBBjtM1cR9lFZ4mm0WgggLdK7CIrarH8oFtD0LUHgWeKa4MpwPeVP56971fgLeGWw94Ak3R71wbPTwl0ddD1yFOrSgwFafsGLIh06T8705PNlxxGv_8NEylKgqexVOu8F7IjvhN7yblQIadjhCoXfSc6eZjmVOixnV0DeEFxXYQKrTD9UyDxKVlAcG2HjTZ12n6hlXWPigZeggo9OVaw_8vp45Tsi1KJVL6PrKkMf_MrYOySCpiPIW0aUNW-TWxz1W_JwQCiBJHCAwBO4t74X-cryM7hHjcI=",
-  "published_at": "2026-09-15 22:42:08"
+  "sealed": "gAAAAABqqU-oh9OLIbU_PQjZNwfr7FVK0daYRqJL_3KOZbG9b0PEb-AUAFB_ki1MXpVLoBUx3U8DIIgq4RqvjVu9_IWenTomkko66h3VeYtNtDrs3NKOM0B6e11hPr7mlchswOjznjrPmTd4J1cWs-cPb_k7yJxS_5nb6f5F7q0_SAvVW4UM6YsfEh9HOZC_i5VqqnVpsmeK_bYSXGwIQWwnmzx466cX_oRA0jA4z6boyrhiINxTD-z0xjdh2KiUL4Xb8bmthN8OvDEvLlhbeYRg0VU4GGTT8upQBLzLTUdUiZuyoIYxJWvBaIsMdGQ20aX06OXFudY9xZw4ugDecWpuuLQ6TEQvKYMssUDs02d8dYQQ--zZKPNhaM0id4nWpqc0sPDvfVTgFGD9XH0lblpMGBUFjfsjdKnDtyphnP9WiiahhARi9cw=",
+  "published_at": "2026-09-15 23:01:12"
 }
