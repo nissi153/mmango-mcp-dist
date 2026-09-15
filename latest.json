@@ -1,15 +1,15 @@
 {
-  "version": "0.1.16",
-  "notes": "장면 효과음(shop_sfx): 컷별 프레임을 보고 물 흐름·물건 떨어짐·딸깍 같은 장면에 맞는 소리를 골라, 움직임 순간에 맞춰 다시 섞어 납품",
+  "version": "0.1.17",
+  "notes": "Freesound 검색어가 길어 결과가 없으면 단어를 줄여 다시 찾기(장면·제품 효과음)",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.16/app-0.1.16.zip",
-    "size": 2037000
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.17/app-0.1.17.zip",
+    "size": 2047188
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31597594
+    "size": 31597445
   },
-  "sealed": "gAAAAABqqVJ9ULL6WhZuchR_AWcROLetMURxtII_Wwf0uTyEyI9hghBsbRyEwdlKNhqwQ0OtZBIm7_4kZaNkVHqkwChkvam4B76TAuhulaKb5pjhRGbdiFnRcQa4DVTFdlmn1qHSyIebnECEb8RU1_hNAjan_1RKJg43m5-5m9vAC4L02ZdOk8FPtC5WxGa1EXB5mi0aqS7tHr07IqBFQrqIQTo2V3XZeUUxdsHgid7K4IRyZrzBtdC3KrGIUMpLW2mwCOM_YoxtLcVQgVwem3mOIZBBYMXuqJVfmfn-PoYaJen29NCcg0LaqLJr4vuK3vHxHeKzZaBVuJ4qdOYmN0gBgXcYFOAIh2ZV5G6hX94zKidbROc0PksLvGio0lHeslme2qiBSsJigpvt6hFJUGrwPf0K0vzyamvwdPWs99Zxv-Xg1HfNd3A=",
-  "published_at": "2026-09-15 23:13:17"
+  "sealed": "gAAAAABqqVzxVlNSUsoH5pSU3ywbA5-z_7LH90pV9KmZ4YTGuYJbZbWrr5K7YUC4rcTL2dpAy4t2Uo1D_1yBCAGmV9kqH3HbTuSJp7pTWlqOy8cV9Ol1oTCA7aoOmqRZW5UCgteR6NWygl70b0bTWQD9XMvXnPyuxe3n54rF2rAGpGKqa8eE7jxMG8fNm6cuIeLdI1GHY3lkbW9N8SdABV5zyAZa9Qixqcf21IO6HsNf2T9h14SGACDeAXLwGTl37U9SRubdHdu6AAk7v78xjfl3QBubP3yGb2J1cOV698AErvurF7yf04BLY3zwfGGCO6rWyCydsGDra-Noof4Ak73axF_dAvbchAblXJIbByaM6YJLx6_qBKEB7e6wJ8YtHeV2n6c5XLyX_oiZXv4vV4bfZylep7UhVDh03cMaMD-DzCtOeRJB6Ng=",
+  "published_at": "2026-09-15 23:57:53"
 }
