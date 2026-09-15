@@ -1,15 +1,15 @@
 {
-  "version": "0.1.7",
-  "notes": "납품 영상 자동 재생(기본 켜짐, shop_play_video 로 끄기)",
+  "version": "0.1.8",
+  "notes": "shop_setup 프리셋별 점검: Typecast 키 없음 경고, ready_by_preset(clip/gen), 효과음 0개 경고",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.7/app-0.1.7.zip",
-    "size": 1644808
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.8/app-0.1.8.zip",
+    "size": 1645943
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31597123
+    "size": 31600950
   },
-  "sealed": "gAAAAABqqGxGjnWreD7_3X0BxJr6YZCXoYPbAR1Tekosm-jGGIB404NfeozslXeO5us0Fi3_QFR9ogkwlWAdMIwJyK8v44QXjmOF7ImIL-46JaFHhZ3zTQSDPwjyqFOzZ178eesAXX7b2hDgnGVtEYPHevEBrKLWg07sAab8_Nm59qCkhnIOkm7R5C4aeHg-QLwdFitNX7VPYrHZwtWmpv6Ot8NqzZjkV1b09wDeAAb-jfXLNFZ77N9x_8PtCQ6B3YOdWvVfPVRQZCrvw9gLl5YnwI0Z8eojGH7BMTIvIZMjg_cjxyJsFR_4x4DDV4AVOCcwvlCoIv9yOgzj-YrMeerssVtd3AlLs7wbP2DIDEgUz9yiXuFtq98UYPU4aGf0HACeBWN1cqUvswMGOFhnjTBMENlEiJH7QsVwp8kYMcS19Sd6HdniQtA=",
-  "published_at": "2026-09-15 06:51:02"
+  "sealed": "gAAAAABqqKvFPAqEC1TMdiGtRGFrVY5eJ28446b97wdOEx2OBKYxfI7zRHvjOUHONj4AcKhgPaSEKlgaTo2qG22xs8m4Gk5cMXq9ji9uVUkxc74AZ3qirlpjJBkqwB-pI7mknEksI0uSKvCCmmDrP81zzhU7z-Ot4qPIhtFyATbYZdsqgPs_ovLfq1BHYs6egNOF4YbEYgy_hrRl6y9-tmzbOCexnN-E3G9XLtRhLaX2k6Pp7tJh3IYfx8TeeUothBKWSDHRdhcgkwyLnF3yQimWheN8IFuAfRHiKnF3OxQb1UDmVLN9a70qC4WJBhjkPiE_wZYqWKrqPfq6mdc0cpR0dZ2F7VNVRDiBay82Lr4Ht15v-WnbD42aBeePU3rU4xXoY1KD9LUuiWicQR1SwEhM3pIyXn2SE8LbKQILPcuvi6vm_22G3T4=",
+  "published_at": "2026-09-15 11:21:57"
 }
