@@ -1,15 +1,15 @@
 {
-  "version": "0.1.13",
-  "notes": "썸네일 스틸컷 고르기(shop_thumbnail): 후보 격자에서 '제품이 빛나는 순간, 한눈에 사용법이 보이는 컷'을 골라 첫 프레임 썸네일로. 짤형·생성형 공통",
+  "version": "0.1.14",
+  "notes": "최종완성 mp4 옆에 같은 이름의 썸네일 jpg(후킹 문구 얹힘)도 같이 납품",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.13/app-0.1.13.zip",
-    "size": 1875934
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.14/app-0.1.14.zip",
+    "size": 1879181
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31598390
+    "size": 31598403
   },
-  "sealed": "gAAAAABqqUmuxcN1aWmQH5nQn5RcBSE0EDghq3FELByq_X6uCjn6dRPonE9zV4p-nKHOLSO2vrmbdTi7aMwXexgo_Ot8B-e0ZeGOmtKEqAGxAgsfVC1XgbqO5hNzwCoTbyCiPdvAM17HQb-VhWuEt0xDOASa1ovaB2A4P6rhww69DqBbR7FcRB63EwR1UaIDhGmhsnnVQ52TRuEeHFGCj1EcP_-gJE8DPxDAuK6Yljf0TN9dEWue4p4xHGF6ihXAQie8ot37YC9X14CVwg_z9mfwtDS-R6xhB7OMUrkxHLPNZu0OrdKYwg5o9OsArIW7N4IG1jQsv-S4VxjfpiQkVgYtl-ps5d9t0ZaWt0k59QyjutC1tScyeFhLEQAq7VZN8T47niDn1I7RrrF_Vu9Hx27kefOcwEwagyNVbFs-V0pbW5KgjiuXlQE=",
-  "published_at": "2026-09-15 22:35:42"
+  "sealed": "gAAAAABqqUswsZuPGk-wE0Vm--WfA5fOmuc7x62YJRGnzRXVSm_XEC42R9ymsYYOOGhZD-bhg-umctgPv3WYSZjbGndGRlnTBRTnAsdKL0XFK25PHHRgOF2ZTGtimcOl9XSjYtr86BnY0RfildErDqpQBBjtM1cR9lFZ4mm0WgggLdK7CIrarH8oFtD0LUHgWeKa4MpwPeVP56971fgLeGWw94Ak3R71wbPTwl0ddD1yFOrSgwFafsGLIh06T8705PNlxxGv_8NEylKgqexVOu8F7IjvhN7yblQIadjhCoXfSc6eZjmVOixnV0DeEFxXYQKrTD9UyDxKVlAcG2HjTZ12n6hlXWPigZeggo9OVaw_8vp45Tsi1KJVL6PrKkMf_MrYOySCpiPIW0aUNW-TWxz1W_JwQCiBJHCAwBO4t74X-cryM7hHjcI=",
+  "published_at": "2026-09-15 22:42:08"
 }
