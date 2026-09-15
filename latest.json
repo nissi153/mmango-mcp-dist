@@ -1,15 +1,15 @@
 {
-  "version": "0.1.8",
-  "notes": "shop_setup 프리셋별 점검: Typecast 키 없음 경고, ready_by_preset(clip/gen), 효과음 0개 경고",
+  "version": "0.1.9",
+  "notes": "썸네일 후킹 문구가 얼굴·제품을 가리면 위/아래 15% 로 비킨다",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.8/app-0.1.8.zip",
-    "size": 1645943
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.9/app-0.1.9.zip",
+    "size": 1707644
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31600950
+    "size": 31598841
   },
-  "sealed": "gAAAAABqqKvFPAqEC1TMdiGtRGFrVY5eJ28446b97wdOEx2OBKYxfI7zRHvjOUHONj4AcKhgPaSEKlgaTo2qG22xs8m4Gk5cMXq9ji9uVUkxc74AZ3qirlpjJBkqwB-pI7mknEksI0uSKvCCmmDrP81zzhU7z-Ot4qPIhtFyATbYZdsqgPs_ovLfq1BHYs6egNOF4YbEYgy_hrRl6y9-tmzbOCexnN-E3G9XLtRhLaX2k6Pp7tJh3IYfx8TeeUothBKWSDHRdhcgkwyLnF3yQimWheN8IFuAfRHiKnF3OxQb1UDmVLN9a70qC4WJBhjkPiE_wZYqWKrqPfq6mdc0cpR0dZ2F7VNVRDiBay82Lr4Ht15v-WnbD42aBeePU3rU4xXoY1KD9LUuiWicQR1SwEhM3pIyXn2SE8LbKQILPcuvi6vm_22G3T4=",
-  "published_at": "2026-09-15 11:21:57"
+  "sealed": "gAAAAABqqPg547BGFOAkV4QXYQSwtVl0czckBkfzx8HllbmWIiu1h_IHSV3HSqXOmk5kWPyxhqmugVfW5pLkKjKBFDNWrgGz_9sYebSNw6TpQZJAto7wgr_fOtxF6Shnw8dqgxmCXKQg0XWd7n2sEQMBO3MVO9ggqcdTTWwlzMuUnYF9mhvaMPhEzRZ8Pl89Xq4eTACzI76eLv-Qi_2hbHzUNz0-sUI3VzofEhkp57yWsGv4yK1_vFvkrCpdQDPsxy9seN2t31XUtZ_IrxPe7RfWOlJKE4q8sG5ox-MvhxaKByBVcjC-OP5xRGu-s8ELYqJsIomar0kv9AVYa-IDXTWhnRg_146hPZQJ0JSWvorNoVVF_qU4jyYGMTkRoOHrDAp5D-6x14x2Z5R0SF1bILDsgahsaJGAl9ytQ4l0FZw0S22TZH53T2o=",
+  "published_at": "2026-09-15 16:48:09"
 }
