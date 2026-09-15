@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.19",
-    "notes": "업데이트 암호 시험용 판(기능 변경 없음)",
+    "version": "0.1.20",
+    "notes": "업데이트 암호를 매번 묻기(저장 안 함)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.19/app-0.1.19.zip",
-      "size": 2063614
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.20/app-0.1.20.zip",
+      "size": 2061712
     },
     "runtime": {
       "fingerprint": "6f2c5987882206a8",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-      "size": 31595824
+      "size": 31596255
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "YiYNSaOP71/XRefkBCmLSA=="
+        "salt": "ooO4h5wxODpr4u5qmmLJ8g=="
       },
-      "token": "gAAAAABqqWBpW5DqaBUD3SWVQe54D_Njm1hsAD42F5T6YeZDAuBzTfj9OqemW4K3w2SOZKoLWLGtp69vwU_W72Mhy73TII4EGt9iBduT6trSUbq3oS7XWwNR2SqAdzt6rBvW2cpyrdOp-Rz1Vki24pDuypDrgbjakT1AM9U3lzNTI-USqfKm1L24awkBImnUFunT0OxWXCV4y1w6pustNKluW-15TkokOpEF9uf8yP5Gmsi6_I48ghgH-DReLJ7pomiK2BkfjC3BgpE7QOhoGoWx--2sH27Wmm-lxMq9JuQDNMGg58I5Qo0IDzgYX1x58sn7ivnCXBBEEjcpl-T4A56ij7riFpUiHT8pdGkQ96AsnNBOWyDINma0UKxA6OXkvxa4Mqlo6HqvhC3Xh8LNn0VSNwddBa-aAcQgBSsn-MqUCzERPnfJIZ6qLjeN7GuBFMiEj0Em4Noi"
+      "token": "gAAAAABqqWHIMOqXVWTd12wk6O89H7xC7zkSLrFAE60QwlUi2HZyR8IxCZLPMXnj4WwQ_2NQmIb1XtXBaBIFjhv67P5Ig4zat3fxS_Rhvw1W4B--r3__FU4yhOCS6x61lzT_A7GRVfeMhfjLgfb2V6YG4zWAsP4Rvy95TDzrLUKCJFtBXQH5sjGBn0FcyZJOxiH_YY9JFI4g-QT5Kj0FLNnRQcaDoAD6_fZJk0flSrRP8l-hj8dFfnE9bJedMGjCoYFpgJUh_Z3Vt7B1VzMQgNt52DsGZy1j-cRlHBADBV66jKkxS_zw5JXULnvnAAre8i4a5uQz7xLL2QzHe5RByJdbFn5xnyq7WCpWFrHpEB6xQx87hk9u262-IfTmXGsCdtvHhRJMPFQR3nv3-MRXt0d0DP-a5tJuj7BxoEKh_O8GVcvpCvHb3t2OEkPFbPZS15PshmObCma5"
     },
-    "published_at": "2026-09-16 00:12:41"
+    "published_at": "2026-09-16 00:18:32"
   }
 }
