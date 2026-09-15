@@ -1,15 +1,15 @@
 {
-  "version": "0.1.9",
-  "notes": "썸네일 후킹 문구가 얼굴·제품을 가리면 위/아래 15% 로 비킨다",
+  "version": "0.1.10",
+  "notes": "말투 프리셋 better_pick: 생성형·짤형 대본이 유튜브 @better_pick 말투(첫마디·친구/엄마 에피소드·-더라고요·정보는 '나도' 남겨 주세요)를 기본으로 따름. 예전 말투는 shop_script(style='기본')",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.9/app-0.1.9.zip",
-    "size": 1707644
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.10/app-0.1.10.zip",
+    "size": 1774839
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31598841
+    "size": 31595746
   },
-  "sealed": "gAAAAABqqPg547BGFOAkV4QXYQSwtVl0czckBkfzx8HllbmWIiu1h_IHSV3HSqXOmk5kWPyxhqmugVfW5pLkKjKBFDNWrgGz_9sYebSNw6TpQZJAto7wgr_fOtxF6Shnw8dqgxmCXKQg0XWd7n2sEQMBO3MVO9ggqcdTTWwlzMuUnYF9mhvaMPhEzRZ8Pl89Xq4eTACzI76eLv-Qi_2hbHzUNz0-sUI3VzofEhkp57yWsGv4yK1_vFvkrCpdQDPsxy9seN2t31XUtZ_IrxPe7RfWOlJKE4q8sG5ox-MvhxaKByBVcjC-OP5xRGu-s8ELYqJsIomar0kv9AVYa-IDXTWhnRg_146hPZQJ0JSWvorNoVVF_qU4jyYGMTkRoOHrDAp5D-6x14x2Z5R0SF1bILDsgahsaJGAl9ytQ4l0FZw0S22TZH53T2o=",
-  "published_at": "2026-09-15 16:48:09"
+  "sealed": "gAAAAABqqSuAHEKWjOOAL_UVnwP-IZEscxTWmbX8aVXOBFel3fQI6UkAHulfGm1_0Zys_pMsys9mSuhiU9RQ6YewhEXHugb-_gcGdMPOSphYnoUBMOXZ-GgDxYksI3VtVIV-4ugWCBBVSvXXtJVbItURj43y8V4v3Rj44c9pJ7sfiZECM0xJTY8GPZTHNUqupq5-JClId-r9RbmKBs7MasYC8r5wV4wiA5gCJ3TB5-5hX6ukmZvFcdli5asEzPvt8aE9pDgcBH4gdSI0XoQJXwQC_w65U3qN4AG6ztMaYU5s2LbhkieYyyb1Orfbp8W4vZLhBPFRZWx8P_-LYyLzre51pIIggp9kscYxS4vLfR3mnZBni0X5m-g5uR9P4K4pSmH2M3L6ASpwoAWax7e8cPh8BcTVTFq3NMMCGuu7Uvmi2kAGcdYAPEw=",
+  "published_at": "2026-09-15 20:26:56"
 }
