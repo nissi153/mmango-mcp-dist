@@ -1,15 +1,15 @@
 {
-  "version": "0.1.10",
-  "notes": "말투 프리셋 better_pick: 생성형·짤형 대본이 유튜브 @better_pick 말투(첫마디·친구/엄마 에피소드·-더라고요·정보는 '나도' 남겨 주세요)를 기본으로 따름. 예전 말투는 shop_script(style='기본')",
+  "version": "0.1.11",
+  "notes": "짤형 끝 여운을 말이 멎은 시각부터 셈(마지막 줄 꼬리 호흡 때문에 1.2초로 늘어지던 것) + 짤형 검수가 정해 둔 여운을 끊으라고 짚지 않음 + 소재 격자·조립 결과 color_sheet 맨 앞에 쿠팡 대표 사진(같은 모델 다른 색상판 눈 대조)",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.10/app-0.1.10.zip",
-    "size": 1774839
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.11/app-0.1.11.zip",
+    "size": 1805932
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31595746
+    "size": 31596344
   },
-  "sealed": "gAAAAABqqSuAHEKWjOOAL_UVnwP-IZEscxTWmbX8aVXOBFel3fQI6UkAHulfGm1_0Zys_pMsys9mSuhiU9RQ6YewhEXHugb-_gcGdMPOSphYnoUBMOXZ-GgDxYksI3VtVIV-4ugWCBBVSvXXtJVbItURj43y8V4v3Rj44c9pJ7sfiZECM0xJTY8GPZTHNUqupq5-JClId-r9RbmKBs7MasYC8r5wV4wiA5gCJ3TB5-5hX6ukmZvFcdli5asEzPvt8aE9pDgcBH4gdSI0XoQJXwQC_w65U3qN4AG6ztMaYU5s2LbhkieYyyb1Orfbp8W4vZLhBPFRZWx8P_-LYyLzre51pIIggp9kscYxS4vLfR3mnZBni0X5m-g5uR9P4K4pSmH2M3L6ASpwoAWax7e8cPh8BcTVTFq3NMMCGuu7Uvmi2kAGcdYAPEw=",
-  "published_at": "2026-09-15 20:26:56"
+  "sealed": "gAAAAABqqTGo-XfhR-qWMGYR8ThU_YptUXOgw6KfswLLsW9_HJgXWLjpp04ZvO8DyosWbhpw91Q83LiY6aqsr3ea9ezE4O71Ae7a7V3NoR9XV5XnxxPpqNROk4K4Tl-kl6LXH5X-4kr8BKD_SGC21RN6-qU5Ac5VrEdbZTg8WG5PHRpgYZng8z5ooHzFA_sGgcV-j4LG8Kvgh8i3gL2cODpB6uYShe7dcG5rhvLWOFfMosbZscJLPbhRVOi-tXynJd9yrvStSq67QBANKdi8mRCSkn9QTHjxtBoWAKoaUfS1dw1SxbJp83nToE-iFTODvTlT47-pAPkeR6iCn7vATY1XB-GMTzXOWR7Nbc2BP9sc6JYwL5K00NwM0Xn2i5a4lhL8_X5B0MvHDzq8gAThzKcZXiwNdmOCe47qPe6GzEsL0n4j0-MbD3A=",
+  "published_at": "2026-09-15 20:53:12"
 }
