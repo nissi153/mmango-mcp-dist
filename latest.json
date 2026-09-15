@@ -1,15 +1,15 @@
 {
-  "version": "0.1.12",
-  "notes": "업데이트: 재연결 안 한 옛 서버가 이전 판을 물고 있어도 새 판을 끼움(WinError 5 수정)",
+  "version": "0.1.13",
+  "notes": "썸네일 스틸컷 고르기(shop_thumbnail): 후보 격자에서 '제품이 빛나는 순간, 한눈에 사용법이 보이는 컷'을 골라 첫 프레임 썸네일로. 짤형·생성형 공통",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.12/app-0.1.12.zip",
-    "size": 1810103
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.13/app-0.1.13.zip",
+    "size": 1875934
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31596681
+    "size": 31598390
   },
-  "sealed": "gAAAAABqqTQhJN6CSMzt9NM42ZGOBCdawA-rus0S5GBMD398PP7bgfOn0Hdf31gpVOs2100GSOWgVnYormd5xCabQMvJusrpXYvsKPRJtOp2sAyEMiyb2gQMl_REJSNRAmu9XJiGYah-hB8GiJ0vQPe7LxDgyNTrtF00tEAPbSefE0hQKu8ayistxwclhDuZRCjjMZFMeO6C3YtGgWcfRjo3IBAANdC9Xr_YgSSc7y9jQge720K-c3AJJb_mT_Ugx2maTxVdB11DBUMSvSx2wXwwgYXUEx5jovQppPyUk5MrjHB2uU5Jh1Nve69UhbQ_7U49Sl1t7NfGh6aCtvYKY9XQ61CgwCQiwrjW7FItwBVPnArq9IkDGSPtMII4vIz3v36XIgrd9OJ1fBqqrwvQtyyvvUXmTf3baaxcSCJ4v6A5pWdzrcjlt7g=",
-  "published_at": "2026-09-15 21:03:45"
+  "sealed": "gAAAAABqqUmuxcN1aWmQH5nQn5RcBSE0EDghq3FELByq_X6uCjn6dRPonE9zV4p-nKHOLSO2vrmbdTi7aMwXexgo_Ot8B-e0ZeGOmtKEqAGxAgsfVC1XgbqO5hNzwCoTbyCiPdvAM17HQb-VhWuEt0xDOASa1ovaB2A4P6rhww69DqBbR7FcRB63EwR1UaIDhGmhsnnVQ52TRuEeHFGCj1EcP_-gJE8DPxDAuK6Yljf0TN9dEWue4p4xHGF6ihXAQie8ot37YC9X14CVwg_z9mfwtDS-R6xhB7OMUrkxHLPNZu0OrdKYwg5o9OsArIW7N4IG1jQsv-S4VxjfpiQkVgYtl-ps5d9t0ZaWt0k59QyjutC1tScyeFhLEQAq7VZN8T47niDn1I7RrrF_Vu9Hx27kefOcwEwagyNVbFs-V0pbW5KgjiuXlQE=",
+  "published_at": "2026-09-15 22:35:42"
 }
