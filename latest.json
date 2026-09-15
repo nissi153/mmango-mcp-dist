@@ -1,15 +1,15 @@
 {
-  "version": "0.1.15",
-  "notes": "제품 소리(청소기 흡입 등): 대본 sfx 에 영어 검색어를 적으면 Freesound CC0 에서 받아 그 줄에 나레이션 밑으로 깔기. Freesound 무료 키 필요",
+  "version": "0.1.16",
+  "notes": "장면 효과음(shop_sfx): 컷별 프레임을 보고 물 흐름·물건 떨어짐·딸깍 같은 장면에 맞는 소리를 골라, 움직임 순간에 맞춰 다시 섞어 납품",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.15/app-0.1.15.zip",
-    "size": 1970592
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.16/app-0.1.16.zip",
+    "size": 2037000
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31598508
+    "size": 31597594
   },
-  "sealed": "gAAAAABqqU-oh9OLIbU_PQjZNwfr7FVK0daYRqJL_3KOZbG9b0PEb-AUAFB_ki1MXpVLoBUx3U8DIIgq4RqvjVu9_IWenTomkko66h3VeYtNtDrs3NKOM0B6e11hPr7mlchswOjznjrPmTd4J1cWs-cPb_k7yJxS_5nb6f5F7q0_SAvVW4UM6YsfEh9HOZC_i5VqqnVpsmeK_bYSXGwIQWwnmzx466cX_oRA0jA4z6boyrhiINxTD-z0xjdh2KiUL4Xb8bmthN8OvDEvLlhbeYRg0VU4GGTT8upQBLzLTUdUiZuyoIYxJWvBaIsMdGQ20aX06OXFudY9xZw4ugDecWpuuLQ6TEQvKYMssUDs02d8dYQQ--zZKPNhaM0id4nWpqc0sPDvfVTgFGD9XH0lblpMGBUFjfsjdKnDtyphnP9WiiahhARi9cw=",
-  "published_at": "2026-09-15 23:01:12"
+  "sealed": "gAAAAABqqVJ9ULL6WhZuchR_AWcROLetMURxtII_Wwf0uTyEyI9hghBsbRyEwdlKNhqwQ0OtZBIm7_4kZaNkVHqkwChkvam4B76TAuhulaKb5pjhRGbdiFnRcQa4DVTFdlmn1qHSyIebnECEb8RU1_hNAjan_1RKJg43m5-5m9vAC4L02ZdOk8FPtC5WxGa1EXB5mi0aqS7tHr07IqBFQrqIQTo2V3XZeUUxdsHgid7K4IRyZrzBtdC3KrGIUMpLW2mwCOM_YoxtLcVQgVwem3mOIZBBYMXuqJVfmfn-PoYaJen29NCcg0LaqLJr4vuK3vHxHeKzZaBVuJ4qdOYmN0gBgXcYFOAIh2ZV5G6hX94zKidbROc0PksLvGio0lHeslme2qiBSsJigpvt6hFJUGrwPf0K0vzyamvwdPWs99Zxv-Xg1HfNd3A=",
+  "published_at": "2026-09-15 23:13:17"
 }
