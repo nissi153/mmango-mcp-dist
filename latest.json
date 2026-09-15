@@ -1,15 +1,39 @@
 {
-  "version": "0.1.17",
-  "notes": "Freesound 검색어가 길어 결과가 없으면 단어를 줄여 다시 찾기(장면·제품 효과음)",
+  "version": "0.1.18",
+  "notes": "업데이트 암호 도입(다리 판): 이 판부터 업데이트할 때 업데이트 암호가 필요합니다",
   "app": {
-    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.17/app-0.1.17.zip",
-    "size": 2047188
+    "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.18/app-0.1.18.zip",
+    "size": 2063611
   },
   "runtime": {
     "fingerprint": "6f2c5987882206a8",
     "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-    "size": 31597445
+    "size": 31595761
   },
-  "sealed": "gAAAAABqqVzxVlNSUsoH5pSU3ywbA5-z_7LH90pV9KmZ4YTGuYJbZbWrr5K7YUC4rcTL2dpAy4t2Uo1D_1yBCAGmV9kqH3HbTuSJp7pTWlqOy8cV9Ol1oTCA7aoOmqRZW5UCgteR6NWygl70b0bTWQD9XMvXnPyuxe3n54rF2rAGpGKqa8eE7jxMG8fNm6cuIeLdI1GHY3lkbW9N8SdABV5zyAZa9Qixqcf21IO6HsNf2T9h14SGACDeAXLwGTl37U9SRubdHdu6AAk7v78xjfl3QBubP3yGb2J1cOV698AErvurF7yf04BLY3zwfGGCO6rWyCydsGDra-Noof4Ak73axF_dAvbchAblXJIbByaM6YJLx6_qBKEB7e6wJ8YtHeV2n6c5XLyX_oiZXv4vV4bfZylep7UhVDh03cMaMD-DzCtOeRJB6Ng=",
-  "published_at": "2026-09-15 23:57:53"
+  "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
+  "published_at": "2026-09-16 00:08:14",
+  "locked": {
+    "version": "0.1.18",
+    "notes": "업데이트 암호 도입(다리 판): 이 판부터 업데이트할 때 업데이트 암호가 필요합니다",
+    "app": {
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.18/app-0.1.18.zip",
+      "size": 2063611
+    },
+    "runtime": {
+      "fingerprint": "6f2c5987882206a8",
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
+      "size": 31595761
+    },
+    "lock": {
+      "kdf": {
+        "name": "scrypt",
+        "n": 32768,
+        "r": 8,
+        "p": 1,
+        "salt": "UHPp9lLGp2nIjZhjMnB9Ww=="
+      },
+      "token": "gAAAAABqqV9e0UD5U3ofPtbI8-t_KfQi863BHkRjixtFUAUcAANI1ru6njg9824wfpzc1Et_tdXEd51Xv2YxCgMwteHN50MdtoQrfD4qnV7sGWVzGTNovLB7si7_tKyCEByJTCkw6A5xRWfIHOQ7eha4W1MlSDgyIwI08xvCIsbFc0ZERsaKFwXuKRNTuCF9co5zTwc6Xc-24ChH8NcFyaVA70ytjixn3_y-I987PBEsrIBgZ0RmzkEfCgGKql3zHCJCqXLOtKOgtvjS8e9LzXkfKRtWf-Q6NRrUEc5ZtMZYOtjMG-11weOarmG8ly3Pc8h3dSttaHChT8-zPgf9FYvdYEPdb-8_ym5nRfCZXAKkspwnz7x4s7HQNGVa2Syir8mAzbp6ozJYdx8QcUyqOKA7UOyT9HHcjlD2gMng1i6nC8lH8ZTsnhs58fcrNOXVewQeH27ACJ7p"
+    },
+    "published_at": "2026-09-16 00:08:14"
+  }
 }
