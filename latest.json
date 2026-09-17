@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.24",
-    "notes": "완료 알림음·자동재생을 마지막 shop_done 한 번으로 모음(중간 단계는 조용히)",
+    "version": "0.1.25",
+    "notes": "효과음 정리: 예능 효과음 자동 삽입 폐기, 역할별 후보를 들어 보고 고른 것만 사용(기본 무음)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.24/app-0.1.24.zip",
-      "size": 2132950
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.25/app-0.1.25.zip",
+      "size": 2207845
     },
     "runtime": {
       "fingerprint": "6f2c5987882206a8",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-      "size": 31598116
+      "size": 31599647
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "Q/Jq78VMK8EM4yWaQ4Izug=="
+        "salt": "7ZN80xTzqnCzu57SkcGjOA=="
       },
-      "token": "gAAAAABqqehYbUKyfI_fUdXAInPAR2Ny_axfeBVmWM8m2lRtSoqQv-ykcvxg_7F_MzXmnzwhR0owRokOwdBCY7V1H0VdxY72t1lEW4mepZzs4r5YdW6yIA5M5uhXg9efduFraL8ExGIDBf70jkKTjT9I8wLzgEjySaqdoj9rQEm2BQ26fF6E8M-XL2MufWQx0wTpSHutmRRkaVamhDFmvOBcG8JpTgCZzXweD4l-ON-Ps4g9BeZoDz7BCYQlytLThs7mR3VEUWWQfK5i9qkrHxCS1YHLkJf_YvbhDD3CfZw9Jllp96JwkU6TSazWiI7h-7RSuHLLAzu5oyxhHyLjxzF2mK3MgM4b-z5-gLmFfUO6gY-F4E8QV-Bz6E-CKESBQsC2T9ZJwLwQ5HY22YDamSMWOOwkVuNX4kKeiQrm_7l1pV-OLTyXZqxWPTmwxRBQ1yl2VCWvWDug"
+      "token": "gAAAAABqq8xxMAKChuGtK0QNUte3BfdtyDkjEpgUS1MtwstMIGPSqeLl2GvC_gNQ6_FbhOpMeKohPHJ4mCIo2Kbr9qlezbmlJn5_bvwqeU3k01EP8zq98832UViQKpj4xMKN5DKtH68lIeOl-lfIKAB3JcqN4u5ihGPY5gBRc5aSMqGuGPNRk-YAetLVh7URbHQAzuZ400GArtcyurS1SUvZI_oTWm1caLkpFirqa-Puu2_ArF-0UYeY00poeMQ6FYvyngYzxn0sB1TE3inETM95Hjqp9d0ypssnCtob-Sqskg7CTEYClKhSubxxqFV5cr0kvQA6stiDw1FdSQ_AKxCByX7Gej1WQmY2beUbvUAQ0jFI9RuJwIqQFnpmYhGwWqYyNqkYpyfGx5uU0j3mNyMbXRQDZkhEK_6OVVAxvUffqiU2q04GHCJJq7mSDBsY4qbwnSI1Nxoc"
     },
-    "published_at": "2026-09-16 09:52:39"
+    "published_at": "2026-09-17 20:18:08"
   }
 }
