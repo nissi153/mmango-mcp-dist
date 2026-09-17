@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.26",
-    "notes": "제품 소리 자동화: 제품 이름이 소리 나는 물건이면 대본에 안 적어도 알맞은 줄에 자동으로 깔림(청소기·드라이기·믹서기 등)",
+    "version": "0.1.27",
+    "notes": "정치 프리셋 추가(정치한줄 포맷): 영상 링크 → 받아쓰기 → 구간 A·B·C 대본 → 두 줄 제목·중앙 1:1 창 조립",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.26/app-0.1.26.zip",
-      "size": 2234877
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.27/app-0.1.27.zip",
+      "size": 2388468
     },
     "runtime": {
-      "fingerprint": "6f2c5987882206a8",
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-6f2c5987882206a8/runtime-6f2c5987882206a8.zip",
-      "size": 31600650
+      "fingerprint": "109c564f52889dd1",
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
+      "size": 32662992
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "bKXj9oRVAZCcEoQu+PCU/w=="
+        "salt": "cF8M6ub0727Y7vkweiXbRQ=="
       },
-      "token": "gAAAAABqq9XdqWXQ6_DXvhu7Nv21H1k0R36iH0J3WIo0f2A98Wu2VQ0Ve44kh5iAGFdIqbexy56jwQNfqHeHTwYXZOtcuRHf6tRPH1ZAtCHbAvuy-NeQhuF8ppWyOd8E_3Joz3DH_52J8p0tnz2QpKC4UIkgl1vA_4qlI-YjTmvJeiMbziAupi88mWsrdfuEM_6C2xxfesrBEulZBq5UB3JRsalUBzPrHIplk3f_snW02Cetb6FfM-0TW0Gd7j2b2hMtlz5mpVjawHcQT3-g-1nY7I7kkqSjwH1LhJ4z_4zb3YrYOgKr7_PP7hZc2jWhh923hMjlS2YPgk5c-oPYDeZ_M5qelJlUF6rNKKg6LE27Ln8csX_7JnXnri9unTtwn-5oz1BxT05bGkC1KOgVnQqXT2vPfUMzBJlx0t9apVxF4Tc6hBhgafcMwsYanD2msyTNvd7EjM_L"
+      "token": "gAAAAABqq_-R3FvCBLBIdIUnaMwKIrBgQROyiMEdaIN7qz79P4HcjIFci3Vc6dA9mIDEPQwM4jNvQaRcu_F3cc8I_QnSupi_LapfeJgm_Py0k36zdzJcopg5DyyDepZNZzpbVWqLyn-oVy8ps0qFggV7oufdFW4UiW_rFK7wiftYQZlw7FbFZ7MjWHImtjdbO63rww-_TeFnhUFWqsmy483Fxs9QpjKSxhEbz6hzQWTNc-WFMxvByeth8AR5EoVBzlwb7BmgXSpl4f86VmootJHNc8z_QnyojzZbJgH8OIBdo6oo1WNt0Z9T_h5AQq3eMvRaoRVD-5YlYVLRWQ3rr3RbIT1I_BptqnvUk_4v2SjoAHc6p1GYlQFp1txqSvDWuzTKdyrDLO7gJZzj9jTplscrNYilP6H0pEXedkQAixOuQAyN2_-s45fcraa3ghFwy4MdpJmJO46D"
     },
-    "published_at": "2026-09-17 20:58:21"
+    "published_at": "2026-09-17 23:56:16"
   }
 }
