@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.35",
-    "notes": "자막을 짤형·생성형 같게 · 대사 Veo beta판·인서트 Kling 3초로 편당 4.75달러→1.7달러",
+    "version": "0.1.36",
+    "notes": "인서트 컷을 4초로 (쓰는 건 2.5초, 앞뒤 버릴 여유)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.35/app-0.1.35.zip",
-      "size": 2529790
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.36/app-0.1.36.zip",
+      "size": 2529797
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "Ia15mTQ6S0MQwmz3YbvKQA=="
+        "salt": "yiT+5UeTLr8RxsoM2stNVg=="
       },
-      "token": "gAAAAABqsANx6yYUpVAwPNquSF5YBidOuzrIUPxQNqyldBQt6DNDLGptS-YJpfUwz1PJTGtmCl-QEJL7sY-If6Zs5wiZ9GC-kxEMKZwd5pD6Lyxo0lMuwqX6nKG6TTTgSZ0Fzw1j5eXLAi_WQCLfX5IoZMSxpf8VSTBz7uKELwmFRT0IPdCcQpA_9olusF_6bDTKTH9Y7H066RLZUXReMJbpM0Qc2jVPV6h6PI6oKnCBXnCT2i_y6xHNgjwsoR39EsLzdjYpxZzFT5L7oSz-A0oRKGTNfyKTGbsd5Clwo8I7SydLmHBFZR6KhunYYGWL3FRjRrHkXXJKUVD39jywoUmqq4MoDsXkpoM_xtlJbTWfffA8e9a7tsO1hIUJGFHGV7NT1tpsOLaTcgAQJaCe2hy7wE96J9pYxFKtsV_GdpAKzf14FKG6P0KVthtne7n3KAsCeMEPiIHH"
+      "token": "gAAAAABqsAXzJL_oBTW4xt3Y6TI7Ks7rPTxwenpvxQMs95W1IpEZXu5GTWcjcsERDIKbiRDRIFNNpi5Le7ACrD-UAw7zvxlp0bCASdZStqRTcF0ofwT6o1IRLmIuU_N508WOBtnTU3d02KlzlPb9zIdS877vtFA6YvugFuR8DrM7huk2cjdXn43UDwVfMP2QZB7210XvB_j_dmm2fUlVNmnhLPWa-JQ2ecCCALCM9cF-58GqlCSWa-icxKk_-BO9EMhmJBKpDA8q_vTN6FIsG8B_r1H1xq9RqoV9NtdtgTiewktU5yFQj1c3b0nEgd4pLYTf6YZiITCU5GpRvkMTp9Q-4I-ulK4T5VcGbSHKJhJl4ORdNRImR1FxU18x1pbcinDnog4nYNv0z87y9uNkFEdkoJeozc4Z4u1C-osUvsIrQVuGkHPiWtCXlVFf1-3JxCGtkUkKQXpp"
     },
-    "published_at": "2026-09-21 01:01:52"
+    "published_at": "2026-09-21 01:12:35"
   }
 }
