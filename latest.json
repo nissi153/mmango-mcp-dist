@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.32",
-    "notes": "효과음을 ElevenLabs 로 만든다(Freesound 는 차선책) · 키는 shop_key 로 넣는다",
+    "version": "0.1.33",
+    "notes": "생성형 효과음은 Veo 가 대사와 함께 낸다 — 따로 만들어 깔지 않는다",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.32/app-0.1.32.zip",
-      "size": 2528539
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.33/app-0.1.33.zip",
+      "size": 2530121
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
-      "size": 32666904
+      "size": 32668077
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "nwN6rAw47d4JwTUP2nK3bQ=="
+        "salt": "rNSrojUryzVaRRXYf//XsA=="
       },
-      "token": "gAAAAABqr_KLBrxRMs-qWdlQAYuIqkx4QTTCyluJMVLkphsMUGqtLxStE196tqOKbzJEkOsbyiJaL1ChtMhL0YNwg7vZTuyUzQUIgVUZGADQ2C1rUfpvxlmVC0kjQ1KMm2y_YrAbDBPRSwwjAyHiamqT6BCGXpStA6kLexuSipGzl0p7md8XNkRMUPYd226xJfqhp03Se0415TaHlr0kadjIcDJfZOhIPZ_0LkO8gBm3HxJSoiE-U1d9ip7U9ZqneURsTkcsKYSA9UC09TZDcZ90851ICK_LOOw7Qo9ZbtIGLzNj_ijQlCq3lhaPJAyl74sGlyJTXPMQGP8AETlFdS88HsjNFtmrmzvd2_g0bqLn6h1rsLU-Ickt0NfGIqMCgvqPd1zJoogrepB2FoOqtzHkM7Kn-xl74gNxJtlBuWYWZl2-Yjcllu-1gHagv-SweJ3v5WosUsX-"
+      "token": "gAAAAABqr_YMtv2VOyOAtgfuWD2wUZ9UjYb-PVI8gK7S-USTSA_vY00qU6OFYAhJ4AMkGtP-JGKJ2XY-nHQTxueSFMbXNwugWMfS4KApILmt8tAZ8T47ifFsQz9FENAHzc8mSyTrVMLbbGuLcUkX_PiJQkl1fOLCbgFVza7wzPdVBR6xLnsVdPngeo2zsjkJyDAEERmmeehrp1IZPu9Dh_gE1VZaupW1n1ZCGirYPINEAOjOw4mSITzlOB5g3sxHG9JDbYhRztHElAIeRTWi-ojc74gM0yLLZTzeEOF3ZWbNVvFQqhQ94xkMUygzqgIOu_m3kQsvwxrbNzA6NvSFOkgm-08otfBFlCUe0097KvffctRXIpCaKEngKOGza57HBLOkiG5t9shhR7zu9h7EGst6c8qYEl9ehXpm83ocHhyc1j56cauqgx626Z0LkiLwB-nblWF-Ay8D"
     },
-    "published_at": "2026-09-20 23:49:47"
+    "published_at": "2026-09-21 00:04:43"
   }
 }
