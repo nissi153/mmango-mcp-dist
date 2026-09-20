@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.28",
-    "notes": "짤형은 샤오홍슈 로그인부터 — shop_product(preset='clip') 이 맨 처음 로그인 창을 띄우고 로그인 확인 뒤에 진행한다",
+    "version": "0.1.29",
+    "notes": "유튜브 업로드 도구 3개(yt_login·yt_upload·yt_verify) — 스튜디오 화면을 몰아서 올린다(API 안 씀). 기본 비공개, 올린 뒤 되읽어 확인",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.28/app-0.1.28.zip",
-      "size": 2395396
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.29/app-0.1.29.zip",
+      "size": 2461706
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
-      "size": 32663346
+      "size": 32663936
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "95jKFN/6B6U4fgQOws2hUA=="
+        "salt": "tpUoufGhUgLxYHFNYuE3JA=="
       },
-      "token": "gAAAAABqrUNYabmoLrK6IVv1cXQRPurT52JbZEPeKSyC8iLcbwcyzdnFmeKrWN3jmkApdDcOhD9gX7qlXx5TNJ0XjX5nooMNIMhlG2jS2zl6XVz6PuruspGJVhmkmHdC_2Km0iWb38ANI3d07JTozL5_doDqya8o0WwUCopN0a9Fyi9lpu3C1P7973ZiPB0zBgsWV9Vyy2J6CmDnx6Za9hBxNcOPv3FeSN-bA9Y35MxjXLytJ6LEct1JldMqeGEFnsw75au8yMTZk9xVwxKbLNSKfdz0C_eG6d4TfYh3z6T9uifWH6eDdDsnuCkI4P8GcXsRnglQ6Ovt-4m1QfyjGTFmS-s1Yu8XSziVHlcu53u53PfqgPkbTt54uimvEkdXK7tXJ9IUL05Krt0uxWbVeoSaJvyG7rdoTF163_QoZUUHD7ThutxMUB_TSdn8FGnjMAh1CXsTIlk3"
+      "token": "gAAAAABqr6FZr_fW6T0ThEaIm12p5dh8CQYoUMbxojLiQNEzi_vyHlFHOrN4p7JeM1I79jJLcoXUyDYQ-JmC1A0rJYKzYE1U_GLzEtRSxjv7KRRh2qLWnWEMQ93fwGo58C1-WSsmEyNCg2shVdKxLnBS3CP77EblFaQSO37k1A7tunKxK90VyVNcY8EyIOqdJsKGMkQC8Tudr8_flVcaYvy5vhzv3_VElMrWZY8TRWecOldifI2DUUX8N-IJayF5b0QTtmxTbTC95LAgczxjPVwuDnTtQZ-x1jsB4xG_xjFuzmE9kHbv7qGmUOADcFNBITFBYAKAqUwJ1manR9zJGVwVozBuxI7X0D5IdIx6HmWU1T0iUHq5m82Z4BMgjuc2MpE3srgdl0RdmyevgA-YELQD4nAHXDYH_7QLUxVasyPcQrTBEHR25knW4YCoNormPAeB1PBpcPpo"
     },
-    "published_at": "2026-09-18 22:57:44"
+    "published_at": "2026-09-20 18:03:20"
   }
 }
