@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.31",
-    "notes": "업데이트 불능 수정 — 런타임 zip 해시가 올라간 파일과 어긋나던 문제",
+    "version": "0.1.32",
+    "notes": "효과음을 ElevenLabs 로 만든다(Freesound 는 차선책) · 키는 shop_key 로 넣는다",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.31/app-0.1.31.zip",
-      "size": 2468302
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.32/app-0.1.32.zip",
+      "size": 2528539
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
-      "size": 32667487
+      "size": 32666904
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "wH5GR6e3k5B8X3LI5Qpl4Q=="
+        "salt": "nwN6rAw47d4JwTUP2nK3bQ=="
       },
-      "token": "gAAAAABqr941Cip9-yTcbEgXwPTMXvLeEGfRae5Jf1VG9_AloyWAGWzWyJOCmgD4F9lZRzt16tI00eWwK3TsCnciABOeEpHFZRz6iGjTDar_BXwpW5uDelzbpp6BlVPot5uq4xbQfhs6cdt9Hw-3jGmSaGQ3VZJGSLFqGGfKELQCnfIznaE1q0w5Fp5nwxwxalJQ6UQKFhIn1VY5YGOYwaN5AB2RJJItBofc9-IHPHA_yisWH1_7seAprS2YajV0FGZ5EWD3I3aWiphn7qfXbB3M74yw5RjbCxOYYrq71r_-UVZKPzmxlsPcbuMq6V_wK9dJjNzZhb1GRo7y10pCANkLCr0SRKygC61zx0nBI95xSrMPkoYhIRcpAuAzKQ1W9esACUmKDC_iFAtoKHIKmc-XZreIzjbH_ODuRPsot-CmRE6p9NqWqGhH9IGwam-oxdtjOGxX74GS"
+      "token": "gAAAAABqr_KLBrxRMs-qWdlQAYuIqkx4QTTCyluJMVLkphsMUGqtLxStE196tqOKbzJEkOsbyiJaL1ChtMhL0YNwg7vZTuyUzQUIgVUZGADQ2C1rUfpvxlmVC0kjQ1KMm2y_YrAbDBPRSwwjAyHiamqT6BCGXpStA6kLexuSipGzl0p7md8XNkRMUPYd226xJfqhp03Se0415TaHlr0kadjIcDJfZOhIPZ_0LkO8gBm3HxJSoiE-U1d9ip7U9ZqneURsTkcsKYSA9UC09TZDcZ90851ICK_LOOw7Qo9ZbtIGLzNj_ijQlCq3lhaPJAyl74sGlyJTXPMQGP8AETlFdS88HsjNFtmrmzvd2_g0bqLn6h1rsLU-Ickt0NfGIqMCgvqPd1zJoogrepB2FoOqtzHkM7Kn-xl74gNxJtlBuWYWZl2-Yjcllu-1gHagv-SweJ3v5WosUsX-"
     },
-    "published_at": "2026-09-20 22:23:01"
+    "published_at": "2026-09-20 23:49:47"
   }
 }
