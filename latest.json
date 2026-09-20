@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.30",
-    "notes": "YPP(수익창출) 채널 업로드 — 공개 상태 단계까지 닿게, 광고 적합성 자체 평가 제출",
+    "version": "0.1.31",
+    "notes": "업데이트 불능 수정 — 런타임 zip 해시가 올라간 파일과 어긋나던 문제",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.30/app-0.1.30.zip",
-      "size": 2464817
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.31/app-0.1.31.zip",
+      "size": 2468302
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
-      "size": 32667196
+      "size": 32667487
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "wvntoc8kTgXG4tW/Bd44jQ=="
+        "salt": "wH5GR6e3k5B8X3LI5Qpl4Q=="
       },
-      "token": "gAAAAABqr79YGpY9_fcngEJlQb5rY-A0TFTz0uNk-ADT3kuGzViXc02J1c_MpyWUWqNHVuInqwuq9P9219bR_2SWzhQXGnQU6zmDxFANBDwI8yd-rzPugG8LhGdn62nNPaib3gIMTmrq__XvKyCdD8wZmUlJVeWW-5baT0LNgE3_FyBmQCImyHST62kpaOkygrxvuUqomF-SH5S51cawgKjKcXVAvBtAZdhCpUyCkEYwFc6GM1-1eQQkeBLgeuMmWovPFeA_Ku9UfhdAMOwBXEVyS7vaPeAz8EKxl1ZgliAisKX_br9-Rl7k5r_tJN0XOd7CFDZpYKFYMAk2URNDQ7tn61U8gmS3NadVjpMXb7FIlIE_AlijKadZHnhxCHavcV-Yh_NERIYHBFGSk6qa-JiSsE2uSsScslLHJi4ShiDzPhe5Z3mk10tyxE9aMNnJHjh3Lgh7gugZ"
+      "token": "gAAAAABqr941Cip9-yTcbEgXwPTMXvLeEGfRae5Jf1VG9_AloyWAGWzWyJOCmgD4F9lZRzt16tI00eWwK3TsCnciABOeEpHFZRz6iGjTDar_BXwpW5uDelzbpp6BlVPot5uq4xbQfhs6cdt9Hw-3jGmSaGQ3VZJGSLFqGGfKELQCnfIznaE1q0w5Fp5nwxwxalJQ6UQKFhIn1VY5YGOYwaN5AB2RJJItBofc9-IHPHA_yisWH1_7seAprS2YajV0FGZ5EWD3I3aWiphn7qfXbB3M74yw5RjbCxOYYrq71r_-UVZKPzmxlsPcbuMq6V_wK9dJjNzZhb1GRo7y10pCANkLCr0SRKygC61zx0nBI95xSrMPkoYhIRcpAuAzKQ1W9esACUmKDC_iFAtoKHIKmc-XZreIzjbH_ODuRPsot-CmRE6p9NqWqGhH9IGwam-oxdtjOGxX74GS"
     },
-    "published_at": "2026-09-20 20:11:19"
+    "published_at": "2026-09-20 22:23:01"
   }
 }
