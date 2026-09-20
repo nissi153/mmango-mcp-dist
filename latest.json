@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.29",
-    "notes": "유튜브 업로드 도구 3개(yt_login·yt_upload·yt_verify) — 스튜디오 화면을 몰아서 올린다(API 안 씀). 기본 비공개, 올린 뒤 되읽어 확인",
+    "version": "0.1.30",
+    "notes": "YPP(수익창출) 채널 업로드 — 공개 상태 단계까지 닿게, 광고 적합성 자체 평가 제출",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.29/app-0.1.29.zip",
-      "size": 2461706
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.30/app-0.1.30.zip",
+      "size": 2464817
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
-      "size": 32663936
+      "size": 32667196
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "tpUoufGhUgLxYHFNYuE3JA=="
+        "salt": "wvntoc8kTgXG4tW/Bd44jQ=="
       },
-      "token": "gAAAAABqr6FZr_fW6T0ThEaIm12p5dh8CQYoUMbxojLiQNEzi_vyHlFHOrN4p7JeM1I79jJLcoXUyDYQ-JmC1A0rJYKzYE1U_GLzEtRSxjv7KRRh2qLWnWEMQ93fwGo58C1-WSsmEyNCg2shVdKxLnBS3CP77EblFaQSO37k1A7tunKxK90VyVNcY8EyIOqdJsKGMkQC8Tudr8_flVcaYvy5vhzv3_VElMrWZY8TRWecOldifI2DUUX8N-IJayF5b0QTtmxTbTC95LAgczxjPVwuDnTtQZ-x1jsB4xG_xjFuzmE9kHbv7qGmUOADcFNBITFBYAKAqUwJ1manR9zJGVwVozBuxI7X0D5IdIx6HmWU1T0iUHq5m82Z4BMgjuc2MpE3srgdl0RdmyevgA-YELQD4nAHXDYH_7QLUxVasyPcQrTBEHR25knW4YCoNormPAeB1PBpcPpo"
+      "token": "gAAAAABqr79YGpY9_fcngEJlQb5rY-A0TFTz0uNk-ADT3kuGzViXc02J1c_MpyWUWqNHVuInqwuq9P9219bR_2SWzhQXGnQU6zmDxFANBDwI8yd-rzPugG8LhGdn62nNPaib3gIMTmrq__XvKyCdD8wZmUlJVeWW-5baT0LNgE3_FyBmQCImyHST62kpaOkygrxvuUqomF-SH5S51cawgKjKcXVAvBtAZdhCpUyCkEYwFc6GM1-1eQQkeBLgeuMmWovPFeA_Ku9UfhdAMOwBXEVyS7vaPeAz8EKxl1ZgliAisKX_br9-Rl7k5r_tJN0XOd7CFDZpYKFYMAk2URNDQ7tn61U8gmS3NadVjpMXb7FIlIE_AlijKadZHnhxCHavcV-Yh_NERIYHBFGSk6qa-JiSsE2uSsScslLHJi4ShiDzPhe5Z3mk10tyxE9aMNnJHjh3Lgh7gugZ"
     },
-    "published_at": "2026-09-20 18:03:20"
+    "published_at": "2026-09-20 20:11:19"
   }
 }
