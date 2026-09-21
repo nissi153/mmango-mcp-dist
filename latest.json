@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.38",
-    "notes": "효과음 피드백 반영 — 만든 소리 레벨 자동 조정·넘친 큐 알림·옛 납품본 정리·sfx 빈 목록 존중·스냅 끄기",
+    "version": "0.1.39",
+    "notes": "제품 기준: 별점 4.5·후기 100 미달이면 진행 전에 묻고, 가격 1~3만원은 권장(묻지 않음)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.38/app-0.1.38.zip",
-      "size": 2555897
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.39/app-0.1.39.zip",
+      "size": 2556558
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "OlMGOb5z1FFL5upWuLFaiw=="
+        "salt": "kIqFPaXC9kLDg6F04ANKKQ=="
       },
-      "token": "gAAAAABqsI_uoywVzI-P7CjNmUNOnDTEUvwVFMcPexus_6NCa4vtSSOC1ptCZ3hCBLzNYAlJmsn__x5PZrcEcmq6wWyoKgI4dfHV9pWtxtAbaCkjjNW-eJblTOl3sYYfj8cFEjjchNxd6WsdWsTVruFxVBL0HNE4LlR7cLmBa9TyLuHQEHuDio-fyN_wylC7hv0PAd-Cz9nA7zua-DLAy4Zu38yhlHZA0ICAB8PbLERxlQlIGzULEzWwuoVUxdzBsTZqXmBVDJYrNfChyMCO5RW5vb0IOknfz5Jpherj7pHp4k3XetnSIMHva8k_twzVUOiBR8wtfoprZyB0NgcukHrDAOpcHpIfqMOdWpn7BdRbv5Lo2yH7JQ3nF4GlZsUZh11nxkmKGWodteD0CB0Unlf_ziVCM57CEdlp3Z0S6F9WHHhjS7zjutDnwgnOGF9T1LQV9_gYRaLT"
+      "token": "gAAAAABqsK0xg-KcXMEfxOc6Zz5sca4ygBn5VNcHA-HLHFjHzWcQyybwvaRQAI6vnO6_4fzP_o8hz8kY6T1MVtXnXL-FLNAVvrgU-OU4S_pgoYtwg7CbAqklcOxLJQp7MnLUtAKJbpXefuQcJLEFfhU2eK6hUJf0IIb9PZiMLsTzrFftmCz8U4NgAcChrjoHSDE_p_YfgKqhm45nmcMOjlPEbuA48rIiCmyNpBcX6j9nOyiTfzkO60E1TW9o1IFl3J8UywFLCtIedv2iSuJQkBvcTvzDs6trZZGZYOsYIazgleLScate_XzzSOC2Iv22t--6taAm6B_doO6b3pMiOoeKendL_LYg46jkm4MODeQm7yPxdG69_3d_1mMwwrIXJl7VlOBjQsipaKPLhaamhNCM3YbmKHXidRI5R-TwSCfz37pWkM0q8LjE9Bwi_Yb8dFaMc1y_mrAX"
     },
-    "published_at": "2026-09-21 11:01:18"
+    "published_at": "2026-09-21 13:06:09"
   }
 }
