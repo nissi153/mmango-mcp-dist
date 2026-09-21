@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.39",
-    "notes": "제품 기준: 별점 4.5·후기 100 미달이면 진행 전에 묻고, 가격 1~3만원은 권장(묻지 않음)",
+    "version": "0.1.40",
+    "notes": "0.1.40 — 0.1.39 와 같은 내용(제품 기준: 별점 4.5·후기 100 미달만 묻고 가격은 권장)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.39/app-0.1.39.zip",
-      "size": 2556558
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.40/app-0.1.40.zip",
+      "size": 2556559
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "kIqFPaXC9kLDg6F04ANKKQ=="
+        "salt": "DOz/S0rf5nVnydW+7+2/ag=="
       },
-      "token": "gAAAAABqsK0xg-KcXMEfxOc6Zz5sca4ygBn5VNcHA-HLHFjHzWcQyybwvaRQAI6vnO6_4fzP_o8hz8kY6T1MVtXnXL-FLNAVvrgU-OU4S_pgoYtwg7CbAqklcOxLJQp7MnLUtAKJbpXefuQcJLEFfhU2eK6hUJf0IIb9PZiMLsTzrFftmCz8U4NgAcChrjoHSDE_p_YfgKqhm45nmcMOjlPEbuA48rIiCmyNpBcX6j9nOyiTfzkO60E1TW9o1IFl3J8UywFLCtIedv2iSuJQkBvcTvzDs6trZZGZYOsYIazgleLScate_XzzSOC2Iv22t--6taAm6B_doO6b3pMiOoeKendL_LYg46jkm4MODeQm7yPxdG69_3d_1mMwwrIXJl7VlOBjQsipaKPLhaamhNCM3YbmKHXidRI5R-TwSCfz37pWkM0q8LjE9Bwi_Yb8dFaMc1y_mrAX"
+      "token": "gAAAAABqsO4NTZpVQUqzYNefIVU12UdhO1otKP_mgSpcMF710xASO3ezAuNIoAxnnAwQg0Xn8ApKIsoAn5hCPxEPGel2AGGhlJ5-SEgYdZ5_Ti27eeHkvEVK4cgSzxfJKE_Lr2aEBarwntrq8EOvB8Iqhc0K2ElMU_uSNaEPAxhjakPz2DPWpWvX9Lcjpoidr-nIg0ywgZRU3vnWoSqD4cLgHWoHii2Kl7pxlhI4mMmusvNyW0PBwhaBp4CZGbV9ttNmjsVuCd5OS3Afko6Qzi5yOMIG4INZqxpmtFo3E8utLXaV8ZSxtkR_-EIjBHcE2IpHmHdt9kqQ6G2NIl21_-AibQdBjTa0GZH-MOO654dnxwRYKEmyHpbQBLzeR9Uycy0-8Yb8ZZH94bG7z2cfg9OiyAdvTGRIulNxsm8CDkBZW1b2obNxB8AV84_CKZSo-slapJ2kmZmR"
     },
-    "published_at": "2026-09-21 13:06:09"
+    "published_at": "2026-09-21 17:42:52"
   }
 }
