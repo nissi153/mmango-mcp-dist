@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.37",
-    "notes": "자막 차림새를 한 묶음으로(짤형·생성형 동일 보장) · 테스트가 유료 API 를 못 부르게",
+    "version": "0.1.38",
+    "notes": "효과음 피드백 반영 — 만든 소리 레벨 자동 조정·넘친 큐 알림·옛 납품본 정리·sfx 빈 목록 존중·스냅 끄기",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.37/app-0.1.37.zip",
-      "size": 2533554
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.38/app-0.1.38.zip",
+      "size": 2555897
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "wxlhh4VMLI7BAj4iVGu4YA=="
+        "salt": "OlMGOb5z1FFL5upWuLFaiw=="
       },
-      "token": "gAAAAABqsAtflavjrQ8vpWDt8YwPjaPbOJqdXEURBMB-kczJ0NNN_Hjw1i3xEVhp3tvHp3eonlAtyqT6ZLFIkHX7J-x9u6RSvYgGuMDMBYwLOL43V9x5lXGn4Nm19UeE_cvP5HHA6IevuGOiBDR5sF1vflfZOmZRb3NR6S5HPHkT1DyhjPGKTSf3zrkWDgUZsUupN7u1f_rnCanoOFlvIzKk7MlqITMzjp24ceoJWygWfM4_kfz8AgwKDaYHvigH9KLsWG7VkmUP3N5WX-b3UAXOq-tfuXnUEDCGTv30B1o9KYSpRx5gYcmzd_4ykO5F9ImGnc5cfYzvBy1HozBzXQTrUBmukMaTvp5WO5j2bSmbZOx8ucG8kcOjEZbsRxRojwsuMYZNsJjDXLD_XidZ4GpNdGxxCezLjUlHCLDwWJ7Qlwb16ycVXlOUQTxSFnWX4jID1_-okSlL"
+      "token": "gAAAAABqsI_uoywVzI-P7CjNmUNOnDTEUvwVFMcPexus_6NCa4vtSSOC1ptCZ3hCBLzNYAlJmsn__x5PZrcEcmq6wWyoKgI4dfHV9pWtxtAbaCkjjNW-eJblTOl3sYYfj8cFEjjchNxd6WsdWsTVruFxVBL0HNE4LlR7cLmBa9TyLuHQEHuDio-fyN_wylC7hv0PAd-Cz9nA7zua-DLAy4Zu38yhlHZA0ICAB8PbLERxlQlIGzULEzWwuoVUxdzBsTZqXmBVDJYrNfChyMCO5RW5vb0IOknfz5Jpherj7pHp4k3XetnSIMHva8k_twzVUOiBR8wtfoprZyB0NgcukHrDAOpcHpIfqMOdWpn7BdRbv5Lo2yH7JQ3nF4GlZsUZh11nxkmKGWodteD0CB0Unlf_ziVCM57CEdlp3Z0S6F9WHHhjS7zjutDnwgnOGF9T1LQV9_gYRaLT"
     },
-    "published_at": "2026-09-21 01:35:43"
+    "published_at": "2026-09-21 11:01:18"
   }
 }
