@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.42",
-    "notes": "인서트를 CapCut 배치대로 — 대사 2번 구간 전체를 Kling 5초 인서트 두 개로 이어 덮는다",
+    "version": "0.1.43",
+    "notes": "짤형 자막을 짤형 CapCut 프로젝트대로 — 생성형과 분리(후킹 학교안심 지우개·검정 외곽선·위쪽, 본문 감자꽃 44, [광고] 표시)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.42/app-0.1.42.zip",
-      "size": 9142144
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.43/app-0.1.43.zip",
+      "size": 9487233
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "dqYWoa4b185y96RQLGM+Jw=="
+        "salt": "a1cwksPDDKisNCl5N/CZgA=="
       },
-      "token": "gAAAAABqsiULjRlGxsfk9rSwOKh6XNTQ-f7POUlOu0YzZe1iVfWSx_qmVs2LDPJrUemr5HkXTykLttOONqy-taLYKpoUSgaPauv5mJ4ZUswtuxR1sjJN7aStFWKAl3fajEWB1GxOMV1kL7zBjR3pX5LAVP-PswieiPDLjO5oZdTpnwGYLfOvCzrHMRBcfDo5GDar9bqVyFimxFLsHn1QjP0lemO64AiqJKdFssKeGDME5XDShjmS1ZpKGmGeZqu85OTrvc77qJ_6LnRFVUTUMo388IlVLsP7TCYJPaBNra4uFhwOGi6_ZUc1C4g4MXtHew3pN1S3lZFuamNgV1EAgIlfTjzEcSmTPgm7yu2ICvzhulFtG3jQhiXiL_C_veqT_MGpHUlcu0vDNaqmUDeruKQb2--O23LGJrMC3nF7hvvWmS03ghs0KjrXU1_WYJZ2IrqnS4oTpYde"
+      "token": "gAAAAABqsirMqdlTpSFq42pTj5jr7ddsR9onfL79BgdGCwmAGP51SUILmxuxYLF-9p7zaUyGzl1wNboQYfjzHx5h2oN0k0P1UGERhJFmhXU3fp6fwz-0tLKAAO_K6yD2dUvK7eFAKwhTE4PRItaMq614s3gkvpLaq8iPhIzff2kTbXGvmPwnEu19IwIdXvnB5Af3VPDwQQx_BHvZdWp3C2TXdeI6caj47ld3FOTOvf3bS_uD84EZIRoFSOXk6LecmlfdEcD0ClhwTyhkHGiWihxRbbFa9ymFQNEzECA88pcdNoabnMFD0uTkMEn27rstaIaQCBjzlsEPHKNemRBbHQq5Qfw2ohsS78Ejy7UzjpxVxSL5fyPoWVIoGJfiyHgwaZHgwr_3QS1Dw-GC9JMMqXTUPrgE2AARNymM48RFkSNF1yai4mByVanaZn2PWIbWOCu_0YVuiY_h"
     },
-    "published_at": "2026-09-22 15:49:46"
+    "published_at": "2026-09-22 16:14:20"
   }
 }
