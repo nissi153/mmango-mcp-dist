@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.43",
-    "notes": "짤형 자막을 짤형 CapCut 프로젝트대로 — 생성형과 분리(후킹 학교안심 지우개·검정 외곽선·위쪽, 본문 감자꽃 44, [광고] 표시)",
+    "version": "0.1.44",
+    "notes": "짤형 효과음 3~8개 — ElevenLabs·효과음 보관함으로 채우고, 모자라면 알린다",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.43/app-0.1.43.zip",
-      "size": 9487233
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.44/app-0.1.44.zip",
+      "size": 9495046
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "a1cwksPDDKisNCl5N/CZgA=="
+        "salt": "+cqqhKKBkzT6vkDZOjnFtg=="
       },
-      "token": "gAAAAABqsirMqdlTpSFq42pTj5jr7ddsR9onfL79BgdGCwmAGP51SUILmxuxYLF-9p7zaUyGzl1wNboQYfjzHx5h2oN0k0P1UGERhJFmhXU3fp6fwz-0tLKAAO_K6yD2dUvK7eFAKwhTE4PRItaMq614s3gkvpLaq8iPhIzff2kTbXGvmPwnEu19IwIdXvnB5Af3VPDwQQx_BHvZdWp3C2TXdeI6caj47ld3FOTOvf3bS_uD84EZIRoFSOXk6LecmlfdEcD0ClhwTyhkHGiWihxRbbFa9ymFQNEzECA88pcdNoabnMFD0uTkMEn27rstaIaQCBjzlsEPHKNemRBbHQq5Qfw2ohsS78Ejy7UzjpxVxSL5fyPoWVIoGJfiyHgwaZHgwr_3QS1Dw-GC9JMMqXTUPrgE2AARNymM48RFkSNF1yai4mByVanaZn2PWIbWOCu_0YVuiY_h"
+      "token": "gAAAAABqsixyM66MXlRJ2sRzcvA0mUQ6jiAD0TQvkmukC6wN9SpTdCWG4FIZf-ZsNDjYZiVMQqCsyLvlPKkBwiZEoL8Nu4ARldN_8LpjZz1hdYJcR5ccORr9q9KqRxWakSGf_09camHyNuFxrNZ8bTAfzkDUwyHT6in3fGoq7P6FNCM77Jjq3AWersLqneHsG6fj0SlTeO377XaEwaZVh4d46rrI_c33f09cA-N-ckQbkniQs5yorQbMd1Nu7ACfbsBKtlVwWCfrGDEzCqDgusi2lHbBlnw2UwGKWn-R4WbTSyZsmbSWX-1rxoh2PDUS7hQp60hKqzX7_uLhKoiOo7PWmWcPK1cH9sl7r9xsEJWPxThu3Hxg8HONundB610Rrmms8inPKxByVwqiF1TYkMs5OI78fYPiboVYbfEwJJdevnD-VCyCGd_j_FFE2xjxcYw6wQA96tak"
     },
-    "published_at": "2026-09-22 16:14:20"
+    "published_at": "2026-09-22 16:21:22"
   }
 }
