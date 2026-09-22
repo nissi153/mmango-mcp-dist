@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.41",
-    "notes": "자막 차림새를 CapCut 생성형 프로젝트대로 — 본문 감자꽃·퍼지는 그림자, 후킹 KCC간판체·분홍 강조 (글꼴은 앱에 실어 자동 설치)",
+    "version": "0.1.42",
+    "notes": "인서트를 CapCut 배치대로 — 대사 2번 구간 전체를 Kling 5초 인서트 두 개로 이어 덮는다",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.41/app-0.1.41.zip",
-      "size": 9133238
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.42/app-0.1.42.zip",
+      "size": 9142144
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "10joAx2gJAxgYmpPFd+Njw=="
+        "salt": "dqYWoa4b185y96RQLGM+Jw=="
       },
-      "token": "gAAAAABqsiJjtaMaGlzAIwGnDOadRVb-zjVOJyboqv4RdaMAmEqkRdTbytO5my3-0ag75xRmP8k8DWCGmQFodr9z236rZkAbEFb3GQ-J18GCzeOwBegfmm6bjq1x_d1uISEJTd2rvdLfwyGxWexyIbklUI0DRpez-5FY8dePuIF1nnuNgbKHrPJVivqtRvHFn1tQ1PJpTztM0UeuRntyLPTHaCEvxylFZx0FA9o-Weu7HaVVGzUsmYk1_MP0TBXvTBklPBbhruiJGDBItqDTkJhS_mHJSEQGoSd0Ra6IhgRk5Js7JNlGGZQKm5cUJf0zenhHfmlYb-3lQB_szp3zhoL1AzUwNcq1RQvQAM30f9UbbXu_Y1HCu7ZPL4IP6k7tR-U6unHi8k4wCmDOKGqSLoQYUHXayKgfSLCbD4IAqIxTykAl6Etl2rJTYwqhxH_qlb6vjwLlhIwt"
+      "token": "gAAAAABqsiULjRlGxsfk9rSwOKh6XNTQ-f7POUlOu0YzZe1iVfWSx_qmVs2LDPJrUemr5HkXTykLttOONqy-taLYKpoUSgaPauv5mJ4ZUswtuxR1sjJN7aStFWKAl3fajEWB1GxOMV1kL7zBjR3pX5LAVP-PswieiPDLjO5oZdTpnwGYLfOvCzrHMRBcfDo5GDar9bqVyFimxFLsHn1QjP0lemO64AiqJKdFssKeGDME5XDShjmS1ZpKGmGeZqu85OTrvc77qJ_6LnRFVUTUMo388IlVLsP7TCYJPaBNra4uFhwOGi6_ZUc1C4g4MXtHew3pN1S3lZFuamNgV1EAgIlfTjzEcSmTPgm7yu2ICvzhulFtG3jQhiXiL_C_veqT_MGpHUlcu0vDNaqmUDeruKQb2--O23LGJrMC3nF7hvvWmS03ghs0KjrXU1_WYJZ2IrqnS4oTpYde"
     },
-    "published_at": "2026-09-22 15:38:27"
+    "published_at": "2026-09-22 15:49:46"
   }
 }
