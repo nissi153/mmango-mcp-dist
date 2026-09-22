@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.40",
-    "notes": "0.1.40 — 0.1.39 와 같은 내용(제품 기준: 별점 4.5·후기 100 미달만 묻고 가격은 권장)",
+    "version": "0.1.41",
+    "notes": "자막 차림새를 CapCut 생성형 프로젝트대로 — 본문 감자꽃·퍼지는 그림자, 후킹 KCC간판체·분홍 강조 (글꼴은 앱에 실어 자동 설치)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.40/app-0.1.40.zip",
-      "size": 2556559
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.41/app-0.1.41.zip",
+      "size": 9133238
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "DOz/S0rf5nVnydW+7+2/ag=="
+        "salt": "10joAx2gJAxgYmpPFd+Njw=="
       },
-      "token": "gAAAAABqsO4NTZpVQUqzYNefIVU12UdhO1otKP_mgSpcMF710xASO3ezAuNIoAxnnAwQg0Xn8ApKIsoAn5hCPxEPGel2AGGhlJ5-SEgYdZ5_Ti27eeHkvEVK4cgSzxfJKE_Lr2aEBarwntrq8EOvB8Iqhc0K2ElMU_uSNaEPAxhjakPz2DPWpWvX9Lcjpoidr-nIg0ywgZRU3vnWoSqD4cLgHWoHii2Kl7pxlhI4mMmusvNyW0PBwhaBp4CZGbV9ttNmjsVuCd5OS3Afko6Qzi5yOMIG4INZqxpmtFo3E8utLXaV8ZSxtkR_-EIjBHcE2IpHmHdt9kqQ6G2NIl21_-AibQdBjTa0GZH-MOO654dnxwRYKEmyHpbQBLzeR9Uycy0-8Yb8ZZH94bG7z2cfg9OiyAdvTGRIulNxsm8CDkBZW1b2obNxB8AV84_CKZSo-slapJ2kmZmR"
+      "token": "gAAAAABqsiJjtaMaGlzAIwGnDOadRVb-zjVOJyboqv4RdaMAmEqkRdTbytO5my3-0ag75xRmP8k8DWCGmQFodr9z236rZkAbEFb3GQ-J18GCzeOwBegfmm6bjq1x_d1uISEJTd2rvdLfwyGxWexyIbklUI0DRpez-5FY8dePuIF1nnuNgbKHrPJVivqtRvHFn1tQ1PJpTztM0UeuRntyLPTHaCEvxylFZx0FA9o-Weu7HaVVGzUsmYk1_MP0TBXvTBklPBbhruiJGDBItqDTkJhS_mHJSEQGoSd0Ra6IhgRk5Js7JNlGGZQKm5cUJf0zenhHfmlYb-3lQB_szp3zhoL1AzUwNcq1RQvQAM30f9UbbXu_Y1HCu7ZPL4IP6k7tR-U6unHi8k4wCmDOKGqSLoQYUHXayKgfSLCbD4IAqIxTykAl6Etl2rJTYwqhxH_qlb6vjwLlhIwt"
     },
-    "published_at": "2026-09-21 17:42:52"
+    "published_at": "2026-09-22 15:38:27"
   }
 }
