@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.45",
-    "notes": "생성형 기본을 구글 Flow 구독으로(EvoLink 는 차선책) · 생성형_Flow_매뉴얼 추가 · 업데이트 뒤 작업 폴더 문서(CLAUDE.md 등)도 새 판으로 맞춰짐 · 키 파일 BOM 수정",
+    "version": "0.1.46",
+    "notes": "도구가 실패하면 오류 문구가 그대로 보인다(전에는 'Error executing tool' 만 나왔다) · 자세한 기록은 ~/.mmango/logs/tool_errors.log · 쿠팡 수집 실패 진단 강화",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.45/app-0.1.45.zip",
-      "size": 9700573
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.46/app-0.1.46.zip",
+      "size": 9722690
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "VBHha80e5w8LIwopl1TgFA=="
+        "salt": "8mlyo3Z1Ry8QuZtNMFAHyA=="
       },
-      "token": "gAAAAABqv7wVFUXqJwYCppBxBXoJu_jJ8OgUwlgnQP1b3aleA30cZXtRqFrOs5WQ-nH7cDIwOp6PdfmOXg2XkDBl08HNkkUCQphK6bpz2xNwwXC-ZgzYD5kaC1Zy9lmtNo9MJQwCdv8o8iY586Z2UI5lfiemeWSlwwXQDJR-2uDUsuGZF18TN53f6VNN29bWVPKDV5_wbEgR6rl7UQ2yXfN4g92h2mSjxirqupCmxzNmLtTN_pc6_ETpE9F0dcHU8SCEn0uiweEilro_I9H93jZ2VERxNyYWQu5W_8oZzypNk4orlW41_dzC32vHVQUxUL2uup6CAqvvwQwDjoKK8Z27GP8hqolkLutz_zkjqgniJRqr4S-Zk3utYkLbJfEHhTzYtHV1ZHirmzzpejgOLUjKuBTMGtA9XI7PKp6df5Qs2uNHl3IUilyesfgjemPB_JZ3_wt4bYrC"
+      "token": "gAAAAABqv8NJ-MgBu1xtlLBkeZ2F3qLs5EcAKLHQqXlkWQr7lPU_56yuAa5An_YHRnkpDK_zxUqHZwB43xzk0se4Nf3nqb0UB0Zpl0UWcCNFCXlUSC2EPNfsm2SfXsgi5F9AKskD-os5WuK4fAD9BpfzSOnLoNLSIVAP4XvAvyDLiO4KTezZtaqMHMOeEKZPN0fIaP4YYDu1WKM8H2S94QGYwYmDyIqlnDk-fx6iHjYAte2Qjy9P-Z2rRfKsTc0QDa-h12khiHlMH5nMPmLc4lycpTMnqwJr5lz86Hqrnp61qGwzovTl8Y3ANyNmurD_SSzP38UJPoEIx4bK-uD4GMdb3R9dhZMRSUB6kbSStO1LFzmr7TZZ5-LlXcO8uVq7itVdQBWuBOpG187d5r9x-Kun1D5DmyDfKVm72BouMXGaUxOSdHINGln2cgG0XJE3Td2AIjPpafNR"
     },
-    "published_at": "2026-10-02 23:13:41"
+    "published_at": "2026-10-02 23:44:25"
   }
 }
