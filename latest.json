@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.48",
-    "notes": "영드(movie-drama) 프리셋 추가 — 드라마 장면 짜깁기 60초(장면표 agy 16병렬·박힌 자막 띠 자동 제거·인물 확대 130~180%+Real-ESRGAN), 프리셋 이름 정리(쇼핑-짤형 shop-clip · 쇼핑-생성형 shop-gen · 영드 movie-drama)",
+    "version": "0.1.49",
+    "notes": "작업루트 이름을 맹고MCP작업으로 — 예전 이름(쇼핑쇼츠작업) 설치본은 그대로 동작",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.48/app-0.1.48.zip",
-      "size": 12990681
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.49/app-0.1.49.zip",
+      "size": 12993508
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
-      "size": 32681329
+      "size": 32681326
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "peufmJ7R1ONJILClCekQ5A=="
+        "salt": "KOSMyz2vENax1DHELabCUg=="
       },
-      "token": "gAAAAABqwk_KJZFA2ipjdsW9e9Nl9uxtYxQy7-wQA7VjYP_BV7e9drLUjP3Qz9rx5e5gpqvTS5LywUYFEAh9RHoQJQis7tTis9mlt5xJMrEEhVd5TQ1pZWzCxvQRyRMzhSOy35y7h2HtVZk93ViS0o2K4EtTihImYNIqJyZUCZZeKwAaEG1LTWOcTJGs8sIwatqTz__lY1nuk9ajn6zyamFxuG4a67_lYb6tBynV3ZkE0P3yT3yESTQ6JWz0CVdONZvaJbA8-Iad9nu4knGt252e-kz-3ENibu5xqlUzH_Vv7GogzjtkqgT5A95GLBoJbRVQxA0t2jXnZlsYY4HvfIkqsUCLHIsfa5e9T9Uc2D53LFcZrSAC8k7YG4Lidx4wcZqWkdJ6deK3UdhYrFlF1-W_3hCSvQ95oul1YHWeCZ5reanZ8q1fA4XjB5QVktyMVXyLeCKkbCUP"
+      "token": "gAAAAABqwmiv5Bjc-CPzq7w0ba6pW2hpQhwrLJ7NvEuNY4RdKEJk_eup_FUvKkDl3fhrdztpFtmVBJgYxIljF7DurU1ywFeFTvGQLHqqqZ7GNPs-mUqCnIc90GxrFBjMKFywQHRgG_ePq0ADaZb_6Q_DdoS6Hw7W5X5KlZb7RzjqILsbh_6rzNmcgbmg79mYEQUxBX_5zmDT7PsMLwCF3PyO2jqzng7_30h2e3v1QtLgTQ8S8TVnuGWW8UtKhC_LmgQjDU76l1T1-z3iTeToDxzOnfKAL5DMVO9gZzkIaKiQEng7RJPzVqQBJM1ckzK7gbiofgvDsNDko8V2PFD02eXHSUpPVtSd55UcasJRyM0XRsru8I09w9l5-YexpgEqoG7JZ_B1jZQBbgrblUH29tJAlFAivhuy9jZlayoOJOVuTcxMeTHZYcpSfhnMVPvfnCMyX3Ln5mFQ"
     },
-    "published_at": "2026-10-04 22:08:26"
+    "published_at": "2026-10-04 23:54:39"
   }
 }
