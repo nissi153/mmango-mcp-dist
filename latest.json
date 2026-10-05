@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.49",
-    "notes": "작업루트 이름을 맹고MCP작업으로 — 예전 이름(쇼핑쇼츠작업) 설치본은 그대로 동작",
+    "version": "0.1.50",
+    "notes": "영드 — 원본 화면 좌우반전(기본 켬, yd_build(mirror=False) 로 끔)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.49/app-0.1.49.zip",
-      "size": 12993508
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.50/app-0.1.50.zip",
+      "size": 12994497
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "KOSMyz2vENax1DHELabCUg=="
+        "salt": "Z5uF9ccs/3NE5XxUj6YXrA=="
       },
-      "token": "gAAAAABqwmiv5Bjc-CPzq7w0ba6pW2hpQhwrLJ7NvEuNY4RdKEJk_eup_FUvKkDl3fhrdztpFtmVBJgYxIljF7DurU1ywFeFTvGQLHqqqZ7GNPs-mUqCnIc90GxrFBjMKFywQHRgG_ePq0ADaZb_6Q_DdoS6Hw7W5X5KlZb7RzjqILsbh_6rzNmcgbmg79mYEQUxBX_5zmDT7PsMLwCF3PyO2jqzng7_30h2e3v1QtLgTQ8S8TVnuGWW8UtKhC_LmgQjDU76l1T1-z3iTeToDxzOnfKAL5DMVO9gZzkIaKiQEng7RJPzVqQBJM1ckzK7gbiofgvDsNDko8V2PFD02eXHSUpPVtSd55UcasJRyM0XRsru8I09w9l5-YexpgEqoG7JZ_B1jZQBbgrblUH29tJAlFAivhuy9jZlayoOJOVuTcxMeTHZYcpSfhnMVPvfnCMyX3Ln5mFQ"
+      "token": "gAAAAABqwzAVqwkUiTdXBwzBzPE1H-ldAenMaDz30xtl9qx_I9xP46JZ3F6hU6rFSzKK09Ue1-lTIMJDK5wancxtW4t2GdYXKzv0JCX4i2sybW5U90kyaXNEGDp-_PtKizN8EJtYbNbsuYqBRAKjLTkR2bXXEHt4pd2g42eu1iRrtNGgMeutJZbUdzIbMMxD1jhJNtEoDR0NL63HQR5dWKtIoepeD92__bEbRdlpf3eyd9OnbqKZ7vKEGoDhsjKHxeTotCM0BSYifLmt1G7UBQ4P1X3BehUFAXMxCJpofER55RQfVgVHJt1mvdNwN3MtQf0mRYdWVwBfBqFYBny12RE3iGrwp8I0eulGuFN0DMk3AL7DQ7iAc1KlPLY6Pb4roze0wtdkpK8DZCirEm1bkvjPYYlXHKraiUfT8R1DzZO9G4ENx-LHcWBtVoUgGZufOQHv8n0nb_FI"
     },
-    "published_at": "2026-10-04 23:54:39"
+    "published_at": "2026-10-05 14:05:25"
   }
 }
