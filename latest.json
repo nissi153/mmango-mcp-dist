@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.50",
-    "notes": "영드 — 원본 화면 좌우반전(기본 켬, yd_build(mirror=False) 로 끔)",
+    "version": "0.1.51",
+    "notes": "정치 프리셋 새 형식 — 뉴스 링크(MBC·JTBC 등)로 60초 나레이션 쇼츠(정치한줄 형식), AI 삽화(Flow), Flow 영상 권한 거부 시 Ultra 등급 재시도",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.50/app-0.1.50.zip",
-      "size": 12994497
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.51/app-0.1.51.zip",
+      "size": 13684313
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "Z5uF9ccs/3NE5XxUj6YXrA=="
+        "salt": "sWZGEClZkbZ098hOCJ1eSA=="
       },
-      "token": "gAAAAABqwzAVqwkUiTdXBwzBzPE1H-ldAenMaDz30xtl9qx_I9xP46JZ3F6hU6rFSzKK09Ue1-lTIMJDK5wancxtW4t2GdYXKzv0JCX4i2sybW5U90kyaXNEGDp-_PtKizN8EJtYbNbsuYqBRAKjLTkR2bXXEHt4pd2g42eu1iRrtNGgMeutJZbUdzIbMMxD1jhJNtEoDR0NL63HQR5dWKtIoepeD92__bEbRdlpf3eyd9OnbqKZ7vKEGoDhsjKHxeTotCM0BSYifLmt1G7UBQ4P1X3BehUFAXMxCJpofER55RQfVgVHJt1mvdNwN3MtQf0mRYdWVwBfBqFYBny12RE3iGrwp8I0eulGuFN0DMk3AL7DQ7iAc1KlPLY6Pb4roze0wtdkpK8DZCirEm1bkvjPYYlXHKraiUfT8R1DzZO9G4ENx-LHcWBtVoUgGZufOQHv8n0nb_FI"
+      "token": "gAAAAABqw8AJGKF97Jzzsx9Zc5uzLNX-hTCzaF866ZejkGOSzAx63jgNGVKI50TEScCO_dgvSa7doRI4ScVEPjeIrhwQO7l65_7t-zhSRNZHqapodh-EnTyZXskejN95kD4XuIilqWrWV4FB3G8p3ncFJbfSvjRR0V4YJmuGspTEnDDVcY1xMgjU2AUkkorSfhDEhvPss6ur4LuVhwu-qNtMQg1XhxgPYOYvvYrHr_YcDboHtK7BngDO-LPt13BY4nagy3DWKtqgrPL-MX1PgWcjqvyEUUAqzKF8rEl85kGk0pubDI50d6tgVjOf7bOEli2ickpejVTba8hDiS1GkTPVMo51fVfNliPYOUNqDESekpi_6mUqXBOTNI8LappeTOljwCe_XRHgow5L38eFRWFTQF4xDnZLp10mHnb81Hg8yJ4tgpFiuQ_O18wTrtxbPBIFsAyPq1Rb"
     },
-    "published_at": "2026-10-05 14:05:25"
+    "published_at": "2026-10-06 00:19:37"
   }
 }
