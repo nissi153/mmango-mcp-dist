@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.54",
-    "notes": "작업 폴더 = VS Code 에서 연 기본 폴더(프로젝트 폴더)로 명시",
+    "version": "0.1.55",
+    "notes": "인생쇼츠 자막을 북플릭스 크기·굵기로(92·가로 100%·검정 4.5+흰 0.9)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.54/app-0.1.54.zip",
-      "size": 23502040
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.55/app-0.1.55.zip",
+      "size": 23502094
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "sleZQ84waR2E22RWYXBixg=="
+        "salt": "KFFyT+e/YAecvMFzzFSvLA=="
       },
-      "token": "gAAAAABqy0IKv_5-soH5JnutgBvTNg8kMjO4BhNMgCh-g53IwE2VO78d_4O00vhxFrHOJFowkYcadUiI9HuQ5gkODi_ngs_viE4HyE2nAbDFZ4b6rqFK-ozvTItu-gMmMUBDAgu8HEc92aK88iMdp73p62ULDrVPcrDQ0D_t6r2-EfNQSFjuHtg0GvF7mIsBkNmThri-b7SB8b1nJKQuC7Y9BeUSP27Vp5nZNjXh0bcMNpJQQDKfZiVTUQ5n0g-Z-ijt9NNsBfFNzjRZdk2cVL4kzKCBzm0p4sLJsDbltR-eMRlXTNwbo6hkfiZJxVvlczUHOkvwBE6VjxYW5dJ21YCvOPzuaZOaNe8g7H2Xah3zms_tbjPUH5TSbhCGipo8SaRNbqX4z1UTsGWKXi294TPX7-uZ8n42ldcIVyWbpmhBN_rgLU1TjsVodEd7s-GLtwVq5CXXFVVp"
+      "token": "gAAAAABqy3cPowMTMiqYmuCJ-1mZsgWfCSWdsXc298q9H4qhoyplEMzQrXpexXMz2_GDlfK-j5eZKOrw3Pu9pqONqXUj13UgEGO1ksfUQFImtieuglhilRTNCl5wBBOwgbpj_JI1xx5NS6KuxNGunfgvgN18-ixLIhbeKI1bfjfHgxAeP6nRZ4AY5E2vdxKoeW9RNoXRDBHr5G4g0REWI7dKpdu79n4-Jj4p3i1A9ad6vcsr32I4RdDk2SKmTxOvAfWNVhS6tlvY_5ChFIsxd7YC446vMnymQf428yKULKqLrssCMJbiisXhvhJFAfSUtCcgufm6PP6Ga--1JyU-jSFFzrSGlkERI1cTCoR8r20Qpi5esBI0M1LZVr14ibllJu3IqT_imxAzLpLF5qRUeeJ4adY65xsLEovestiqkkAkBNx45NfMCKpSF7oVsfV0_S24B3Ii4Ik7"
     },
-    "published_at": "2026-10-11 17:00:10"
+    "published_at": "2026-10-11 20:46:23"
   }
 }
