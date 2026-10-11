@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.56",
-    "notes": "인생쇼츠 자막 크기 92→87",
+    "version": "0.1.57",
+    "notes": "0순위 규칙 점검: 롱폼 장면 중복 렌더 고장 수정, ffmpeg 시간 제한, OCR·색 점수·검수 중복 제거",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.56/app-0.1.56.zip",
-      "size": 23502122
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.57/app-0.1.57.zip",
+      "size": 23527191
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "7kDTrDceZ6BG919ZFolhxw=="
+        "salt": "vX4cFw7e0+vMmexXMa9ifw=="
       },
-      "token": "gAAAAABqy3-cuNGG26tC96BZrH3SzFHWQGDV12Ql6XpYS9aE2ldP7cYl7ceyN4WVFiRbT3faAzZJpkY_dzIkam8aegg5V3miWdsQtVHTr0Ldib8fZxqxjt4mVPVzjK8AdorXotiZSNpXEQeMOXNSVLpLbPZ7UiMsPckVHRIDhwFz1a9GZyTHrRYzoN0ZhxT6VtV1X7PQzbpXuFP1mjLYn0fcvKi4i8SCQ0_dXwnm3wkeVmHV1Gf6UWS022SKw9W8MDczVF8Ij2VpnrhJpnQl6W9F_Q20T0eDNwj_QgvyYcjFV8oZK5tQI4-fnNs7HeBbFAuKQoyN3K_sv9USfPpjRHwtJLGG4CW1ZZ5MyB6ogK0j_Fwax38bwPIZsjgcfjsda4GRkI_WamZ2RU2LKUcZ9zurGuOf_K55vB6as4tq_rsVfwVZmpecvD4ELr8a-rfHeK6Z8oe2ZHgS"
+      "token": "gAAAAABqy5E9vIkp3zRD3h3CsdnsAsMj-4vLTOXbiK0to8h-culrxrzerBCRlgMFRVQC8TQmtrfxj0Ufp4zznUUpRSkyWIpSkTH6-Mabkgr_zsG29SigDVTYViuyzgb7pulTRcc6J-FjqEe7wcK85hYTiK2ydxF-XsVhpkneErTDLhHXC9D9rNz1VMm_1RXxbJDplQPMfPac7cssgU_Zk2SeK5Y_aHtokBfNbzIOWXnu4Gml9jAB6AWSKxGPn9iJJaJeuioOjSbWGcj7pia71F9F3laJ4EXmwPvBLK9SRnfYZxlV0kDMG6SWoq8vDugI0FSh3HtFfcugfy6LMDlYMV6M38LFGba8M3X5bKCHEwRVPWhtwSkXT-xjDXfFtAG6y5Ot826HHp5QjXFqKyNxkmX8VuH1Nrrq6PVplU-hmzO7kIa8hFcNdlhFybez4-hb3uNeXrvr_i8R"
     },
-    "published_at": "2026-10-11 21:22:51"
+    "published_at": "2026-10-11 22:38:05"
   }
 }
