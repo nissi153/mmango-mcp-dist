@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.57",
-    "notes": "0순위 규칙 점검: 롱폼 장면 중복 렌더 고장 수정, ffmpeg 시간 제한, OCR·색 점수·검수 중복 제거",
+    "version": "0.1.58",
+    "notes": "중복 계산 정리(색 점수 디코딩·길이 재기·나레이션 길이·롱폼 문구 찾기), 나레이션 캐시가 앞뒤 문장 변화를 반영",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.57/app-0.1.57.zip",
-      "size": 23527191
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.58/app-0.1.58.zip",
+      "size": 23536111
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "vX4cFw7e0+vMmexXMa9ifw=="
+        "salt": "MgSxjOeknvwwXuWYMFkwYA=="
       },
-      "token": "gAAAAABqy5E9vIkp3zRD3h3CsdnsAsMj-4vLTOXbiK0to8h-culrxrzerBCRlgMFRVQC8TQmtrfxj0Ufp4zznUUpRSkyWIpSkTH6-Mabkgr_zsG29SigDVTYViuyzgb7pulTRcc6J-FjqEe7wcK85hYTiK2ydxF-XsVhpkneErTDLhHXC9D9rNz1VMm_1RXxbJDplQPMfPac7cssgU_Zk2SeK5Y_aHtokBfNbzIOWXnu4Gml9jAB6AWSKxGPn9iJJaJeuioOjSbWGcj7pia71F9F3laJ4EXmwPvBLK9SRnfYZxlV0kDMG6SWoq8vDugI0FSh3HtFfcugfy6LMDlYMV6M38LFGba8M3X5bKCHEwRVPWhtwSkXT-xjDXfFtAG6y5Ot826HHp5QjXFqKyNxkmX8VuH1Nrrq6PVplU-hmzO7kIa8hFcNdlhFybez4-hb3uNeXrvr_i8R"
+      "token": "gAAAAABqy6N98p4oEXpT7h8z2CmIRyLoPfJfMfrrayCCleO_OjdEAWRdvzTNoA05uL2qhUa2SPRzla1_uVPMTa7NVr9ijs1zEyGC_xJzKpqxhZ9W22cOBtswcM2Xi3W6Wp_J2m4KprAzfuVQxYdb2T0N45WgrP7IzB057Bg8MOm1BC31sfbzpwIxbJ2RFIQeL__esj0zaTc-n_rcnsgnKyddAmyyIelf6i22qvbUDzbEVn2kDrj9_Z70Ml9MgsI_YhIPEBAZqWJTv4CUbgVD1dZPVmEQwNK4n2VXkU5OqAL0qsCBiqb2OBVUsSJifChVp_nTVaxWGf9ok6WUrDyYaZbGwzQL_q6iDHk3665UAGIj8aN5LjEw6MbUCTmN0X7p70DSlvA3mAiHEmy9neq0YHkbhapa1Y3EZjS5tsiDMO2TLWQ5PZBlOMUhgfR_Irom_Mu-VOAPFhrt"
     },
-    "published_at": "2026-10-11 22:38:05"
+    "published_at": "2026-10-11 23:55:57"
   }
 }
