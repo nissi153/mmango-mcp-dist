@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.52",
-    "notes": "새 프리셋 셋(공학쇼츠·해짤·해설형-롱폼) · 영상 생성 전 Flow 프로젝트 주소 받기 · 짤형 소재 기본을 빌리빌리(로그인 없음)로 · 빌리빌리 자막 띠 피해 9:16 자르기와 제목 거르기 · 정치 나레이션 조금 느리게",
+    "version": "0.1.53",
+    "notes": "인생쇼츠 프리셋 추가(주제 하나로 1분 인생·돈 에세이, 명조 자막·현우 목소리), 자막 넷플릭스 규칙",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.52/app-0.1.52.zip",
-      "size": 18498301
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.53/app-0.1.53.zip",
+      "size": 23501062
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "BJU45dgqTQolTXpzYOfm1A=="
+        "salt": "FiUDeyKLc09kTR9evj3L3w=="
       },
-      "token": "gAAAAABqx72ceX5rIwQI6xI0KElXr5isrbtxsJwbeWHzyEJlDUswKuWtFg1BfUHwOvrz1mXKEz6hJyUS8OrkNpFqNOpBbDkb82-kgfyjVrbvDiMWYWWXTdFhByUMCpETZXDYX_kn2wx8LhGOaeMrKaOpYbtD4h7hEDTOQaFegNvB1E0tVoVkPWKkYA0eg6Wawvqdtx9AgcDjR6JkKlPqqjZFQ4UxI4tjkhKWPFLYQB8fAzkslTrOfeSpBO3F1jm3rCvFaZqTgmF8Bm5GWhuDlth1boRyv4UNsVSDAwgMFLskjnazVoxP-xp9DTcdZyuFdb1zuLIIXzy_aEG2Et3MxJP8vttPiuPEGxzrXRo3zAeVLtC05Yr2286BLlKHhhm5wo5ayexb4h6GZLEtlAMPQIbt5Hm_ivLKCnieUtCoSPZk1nYkeWnQHeSYLbwcx1AvKnq-JcakWn3l"
+      "token": "gAAAAABqyzjRUcJphY35w5VQdcaERTSs1lA4Pakcy93qffD9GSNSRoeyfQw_Xr8xQ4eV7MKvpfS6e46efzHZyCZdI9H7uIY51I6ORi_9Ch8Em4GnQQH1zuloXJ_e-RUZkwWXKTNYBPtsWo14FGIOaYHtJwNdma0T5YiUn-thjxjJSH8rFHBj_TQGCCYwTJS2wuMsoslsOa_jOnxpKPiF7S08WfJam09nNrORBprV8gj1tPFlA-rNLxd330TelBIgsEAKc1JeXvGE6jP6wHimBfoPW78o3Mi6oziGzTbZJpkHNh_88H48n9M2dTJsoEulM14pgiXFdB5yDPu7hfSAUb9pwQwqMst6RzU6vPD7K8mje4A-GDObcZLo2r7WKKU30qvabBQFi9GDJ_HwRMWgKtARLIDUt6A-XvLMMncUCwSSQnr5xACzHWWnnQKqQ30iKLdx12MidKX5"
     },
-    "published_at": "2026-10-09 00:58:19"
+    "published_at": "2026-10-11 16:20:49"
   }
 }
