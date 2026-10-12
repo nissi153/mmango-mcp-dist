@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.61",
-    "notes": "런타임 zip 을 빌드마다 같게(pyc 절대경로 제거·검사 전 zip) — 이번 한 번만 런타임 다시 받음",
+    "version": "0.1.62",
+    "notes": "유튜브 기본 예약 공개(하루 1편 오전 7시) · #shorts 금지 · 성경쇼츠 요절은 강해 본문의 일부",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.61/app-0.1.61.zip",
-      "size": 23646907
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.62/app-0.1.62.zip",
+      "size": 23664052
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "nM5uSJH/+2ps08JLawwZfA=="
+        "salt": "rjC+LCnTMlK89lYP9gMbpg=="
       },
-      "token": "gAAAAABqzCkiBGxcItx1YeQ9BRrleT3qQD7n_0X71n5cafNog3QBs-089XdODJwjACAq6MM114wPxikl2uTqqJPN77EPuk66Ubi5ao-iFRgPX6Ze7Roo2yKxQQbcisZBOVZrKw5ol0VL7ohLqY9zpFjOiDF6s33VMgn6hFwQXrgbrsMhqJ5MUjzvhOZ5LlDdjy7wrAepbHr4vY4B_66MRunC0wNADisoPjI5wH-f-hTCl9TJc-wTSF4CKIMXYR91Bd5v0cf75c7lZtbE5vQOMWQyQGizbY3eNGnKlp-nhZkW0DKPQ5pr5BOgOvcFGOLevOrBJ3zecTTtbFQZbc3U0_VEMHdxYXk_dl1FcfbVJO7JAEKwqqms_g8Hz5LHKPGnQp_wX1Ankqt837Pn4eqPxmw6UUgfwaa9ipVzS5RgXG3qpkIW-TpB3y8VlbShAN-e6vQkzHIaDv4q"
+      "token": "gAAAAABqzUqKq_b30ridQM3jgyQIeooVGqnP9I_0-927f5IyrCSkRgh9tnvzjGJxl0v1rtsihbvzzHf-41SgObSj7ujG0tYV5V8vK1-29HMUY74Q0oUMCv6exXJHqBKazu_U8UHQpApdxXwKABRtjwrw7La8n2ZL5oMlCeE1a2ze0tc54H8YZhquVYJSm5Ie6or2_sVNLvInFC8BNDEX5plQQgiE_v2q6_sFMH2Qc2MQtaAcNvmuinFw2xsoRkKZoKyYDkEcLbP1L_TsMo6lvIu9oudv3zyYiXTzfktGZAcaow9xfQz0MIXF-3sNu7OTTNm2QILAYAdyPj-Vm99J3fi4Hb9jsauTxYSSPGvpWQkDyj5Ja25U5-NW0idrfn5IrUGQde5eEALUe4UvsmknQfqOwzG-J7ULyPhdx9e4J3biKRqjsi1ME2LNLMgVBfG3odxlvUPGFIAU"
     },
-    "published_at": "2026-10-12 09:26:09"
+    "published_at": "2026-10-13 06:00:58"
   }
 }
