@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.60",
-    "notes": "성경쇼츠: 하나님·예수님 얼굴 금지, 현대 인물은 서양인+현대 문물, 장절 글씨 키움, 길이 계산 실측 반영",
+    "version": "0.1.61",
+    "notes": "런타임 zip 을 빌드마다 같게(pyc 절대경로 제거·검사 전 zip) — 이번 한 번만 런타임 다시 받음",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.60/app-0.1.60.zip",
-      "size": 23647378
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.61/app-0.1.61.zip",
+      "size": 23646907
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
       "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
-      "size": 32681329
+      "size": 32595318
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "triNZRxnDamCc2MkqCdgXA=="
+        "salt": "nM5uSJH/+2ps08JLawwZfA=="
       },
-      "token": "gAAAAABqy7Gbae4m3kabJPRHkA8YxrSsyypCv1yQfsnu2KKSVwQOO6eWtEJkRGnrOKryNbAF_Emx2q9nJ92bsneqAyk-w6rQglSSKIcjSUW_UBMPG1zjnHy6wxcC3N0a7b3bjULyaUk8B9KmMsgCLp691t3cj-7flByrUlKvgIaECef-8R6UKdq0MY9c8YsSv5AJZlSCfyFTkPjfsJKEy06FRMltjKHauB3qk_cEoPN7v64Wd9dEmlY_YXcKT-ktL-SMVWdBHIKGtmqhwruOUo7aJKi-K5UuhqmQnJ40S3A6p_CvUTbl66jYZX0-5eMpHtLJjGu_QjKjLOq1kVV1vT-koyF17wd5aRnEeyv2CEPjedkJbU3sI8YcD9LsSgQVwKtZkfOvkaDghOt0fcwjYhC-knHLe7yXmojs3sFDlUMP3dxtjOTTEXc-7D3iKgkairJoYuky0hr_"
+      "token": "gAAAAABqzCkiBGxcItx1YeQ9BRrleT3qQD7n_0X71n5cafNog3QBs-089XdODJwjACAq6MM114wPxikl2uTqqJPN77EPuk66Ubi5ao-iFRgPX6Ze7Roo2yKxQQbcisZBOVZrKw5ol0VL7ohLqY9zpFjOiDF6s33VMgn6hFwQXrgbrsMhqJ5MUjzvhOZ5LlDdjy7wrAepbHr4vY4B_66MRunC0wNADisoPjI5wH-f-hTCl9TJc-wTSF4CKIMXYR91Bd5v0cf75c7lZtbE5vQOMWQyQGizbY3eNGnKlp-nhZkW0DKPQ5pr5BOgOvcFGOLevOrBJ3zecTTtbFQZbc3U0_VEMHdxYXk_dl1FcfbVJO7JAEKwqqms_g8Hz5LHKPGnQp_wX1Ankqt837Pn4eqPxmw6UUgfwaa9ipVzS5RgXG3qpkIW-TpB3y8VlbShAN-e6vQkzHIaDv4q"
     },
-    "published_at": "2026-10-12 00:56:11"
+    "published_at": "2026-10-12 09:26:09"
   }
 }
