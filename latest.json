@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.62",
-    "notes": "유튜브 기본 예약 공개(하루 1편 오전 7시) · #shorts 금지 · 성경쇼츠 요절은 강해 본문의 일부",
+    "version": "0.1.63",
+    "notes": "10번 성경해설형-롱폼(bible-lf) 프리셋 추가 — 주제 한 줄로 8~12분 성경 해설, 지도·자유 이용 사진·AI 재현",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.62/app-0.1.62.zip",
-      "size": 23664052
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.63/app-0.1.63.zip",
+      "size": 24031775
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "rjC+LCnTMlK89lYP9gMbpg=="
+        "salt": "GWo0lXRmkKYeD5kTACMLgQ=="
       },
-      "token": "gAAAAABqzUqKq_b30ridQM3jgyQIeooVGqnP9I_0-927f5IyrCSkRgh9tnvzjGJxl0v1rtsihbvzzHf-41SgObSj7ujG0tYV5V8vK1-29HMUY74Q0oUMCv6exXJHqBKazu_U8UHQpApdxXwKABRtjwrw7La8n2ZL5oMlCeE1a2ze0tc54H8YZhquVYJSm5Ie6or2_sVNLvInFC8BNDEX5plQQgiE_v2q6_sFMH2Qc2MQtaAcNvmuinFw2xsoRkKZoKyYDkEcLbP1L_TsMo6lvIu9oudv3zyYiXTzfktGZAcaow9xfQz0MIXF-3sNu7OTTNm2QILAYAdyPj-Vm99J3fi4Hb9jsauTxYSSPGvpWQkDyj5Ja25U5-NW0idrfn5IrUGQde5eEALUe4UvsmknQfqOwzG-J7ULyPhdx9e4J3biKRqjsi1ME2LNLMgVBfG3odxlvUPGFIAU"
+      "token": "gAAAAABq1bdVLnQMaPr-1pCV0iPdmAXhCa6jA3XXjp0w4mRUTxyHV3CuA6vTLKCXjHX00RKlsrhisA05CrxlHaKKwXWBei5wCJ6SlxpKxYDhFnZmBwLUl30W7PejVsCFnoDhFeMXnY8B1AUp3CE_AgDaGyap6HeQwmpuIP6BnkQODAh4AXKp-jo-dtP-Ryx6_g2BA5Xgr2GeWuqtEWluMeqOEE2_wwn0fJDQHblLIXBYLnhto2eCw4R-Bd3RflXfrP4AUlR3XznQ8cv1Pimr5LLHmVOCTdd44xF6TDmGrChUu6_n58Ay9iRc68pd5LFMn_ruYo0MPG0G3UHe-R2xk1zKCVGfrAVqgwoO5Ic4CHhijaoUXhhq5BeRFNBlBQbAtqqGKLDN9G6fhqhQvHzzBjBHDFCflnz3OUmFIgWPpD9ES2jyB6m5ErhRh5IMoJnBqF4bILwTwAAu"
     },
-    "published_at": "2026-10-13 06:00:58"
+    "published_at": "2026-10-19 15:23:17"
   }
 }
