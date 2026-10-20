@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.66",
-    "notes": "성경해설형-롱폼 머리줄을 「성경백과 | <주제> 한눈에 보기 N편」 꼴로",
+    "version": "0.1.67",
+    "notes": "성경해설형-롱폼: 라이언킹풍 2D 애니메이션 화풍 · cast 인물을 Flow 로 그려 페이퍼 누끼(person 장면·곳곳의 people) · 누끼는 Cloudflare(bx_nukki_connect) 우선, Replicate 예비 · 위키미디어 429 수정",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.66/app-0.1.66.zip",
-      "size": 24037803
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.67/app-0.1.67.zip",
+      "size": 24196847
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,11 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "0jViIFv62ExEPkXFEVa+/Q=="
+        "salt": "g/rABSwj6JaN29X+i28Lqw=="
       },
-      "token": "gAAAAABq1sA5Qz5C3z1fWjH7PIHw-wIQ5VCOUUiIMDy6oBd--brQHpGhVAKigbaQ_t6kt6E1taAdLyDXy8ppLQlDsU36Tu3TWYrzzL8mnUdKaD-sWTkxJF2-AJcVmGTNIZ_u6K7B558f7NfjqfrDV3_7twK39U-zy3Es5aqu0bB2XRy-zoA7q0DjJqB-howmPb9CEknz_lfEzz6Z6w-05_FeUEK8QP95eRtDJlhkRu2IJg5u6Q_HPy-RtdnOxwK90GDkhzmMfW5AWeBsW5jhpVpEy9DueIf0HrfOTUmE2YoTqhMY7_9dJG8TEnSfRiv_2sTW1NlCvogdpQFpyTyI2g9g7inbqzyXvCooXIeHSE5-MfC5DV5CLeCeEm-EXfVpGppVuIUibfzu5YKRLpD1RImWsjVnwVTzCqHecEbox55-BlQMShMTEf3xqWNhHWSP9rAcJ48h1bzW"
+      "token": "gAAAAABq1uIxYBEhhdRIcuSHLdo46PJ7zi1FSR-gKfZKbk3Pu9edTNC5AkInhvziW93bocyp1NcqvxP_2PMKRn_J1wWsK_nK8NueKaGRamNTZ_wC3YQdFQrf9S8Y2NM9U3G4kwdLCvyv5wyw7SWysikhW5YdgtiZ7EBjea8hSQx8NsKY8z-Kmwn5d95foEJP13eXRfRHk_UTEaIUIhLM3quF6BX-q6ql1IRRq_F0988jjgyKOhJlUxzAoJ3ec7Q4MqlLlNByJ5PXMBKKx-XY0FC7rP86HcC8Q2GV5eCHWFG4PM3rtgHOxUbHOxTMrp5giQtCvLrxDXhy92y2UwMt0q7mHB2egDe_kj6ZLd3REs-7TXpVhq24KY-qygKDqFTwdURpEGRxv4OMrq34DWT62y3ww0FdvpCl6rELmUAfH6hZKJy-_wUp0Z4oaKaKDLDE_gtgPdt3IkFX"
     },
-    "published_at": "2026-10-20 10:12:09",
-    "password_changed_at": "2026-10-20 10:13:29"
+    "published_at": "2026-10-20 12:38:25"
   }
 }
