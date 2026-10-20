@@ -30,10 +30,11 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "/7AbatPiEwGTceot2HrtpA=="
+        "salt": "0jViIFv62ExEPkXFEVa+/Q=="
       },
-      "token": "gAAAAABq1r_pUG64dToxUnxKDcwANSsPRvidLpqcKKKWwdArfDx3_ymM-SgObweBQluAbZuLzqWUaeBZT8SdHIuz3CknVsjFLLM1xj6vkVHA_YpksW4-E9jxpNAQVEAT8UVzAcTBvAtWErVdAx6Iox0ApWv5VdtPFcRlezLQ2cU_rUwMK_iTTRWSkIlRB6yerReaUYOFNvFd0LnHx8il-qlEFt4mWT4MdkRvGD_7GRCYNxmxDpzFZL7whO-mqp557_pGcwl2FmJJFcSn5-qjHTY-wN0aq8NR1zgXJqV6U0S7X07lVeJl2g6Pcug9t6pgafgb9rOjcUY-A-C0Z9VCO6R3OxM6Qw9TsESFv_TuaEt12UjZ8xCxuA5HT5nOwA1NVmnjzBkeF1UXcw8TgbU29VztIT_gsvYb6cHmbI_tjLeS_2GOx6pgOmm1GDwe3fKEWz53TRXSnsa8"
+      "token": "gAAAAABq1sA5Qz5C3z1fWjH7PIHw-wIQ5VCOUUiIMDy6oBd--brQHpGhVAKigbaQ_t6kt6E1taAdLyDXy8ppLQlDsU36Tu3TWYrzzL8mnUdKaD-sWTkxJF2-AJcVmGTNIZ_u6K7B558f7NfjqfrDV3_7twK39U-zy3Es5aqu0bB2XRy-zoA7q0DjJqB-howmPb9CEknz_lfEzz6Z6w-05_FeUEK8QP95eRtDJlhkRu2IJg5u6Q_HPy-RtdnOxwK90GDkhzmMfW5AWeBsW5jhpVpEy9DueIf0HrfOTUmE2YoTqhMY7_9dJG8TEnSfRiv_2sTW1NlCvogdpQFpyTyI2g9g7inbqzyXvCooXIeHSE5-MfC5DV5CLeCeEm-EXfVpGppVuIUibfzu5YKRLpD1RImWsjVnwVTzCqHecEbox55-BlQMShMTEf3xqWNhHWSP9rAcJ48h1bzW"
     },
-    "published_at": "2026-10-20 10:12:09"
+    "published_at": "2026-10-20 10:12:09",
+    "password_changed_at": "2026-10-20 10:13:29"
   }
 }
