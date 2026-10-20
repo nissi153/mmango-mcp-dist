@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.65",
-    "notes": "롱폼 프리셋 최소 길이 8분(해설형-롱폼·성경해설형-롱폼)",
+    "version": "0.1.66",
+    "notes": "성경해설형-롱폼 머리줄을 「성경백과 | <주제> 한눈에 보기 N편」 꼴로",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.65/app-0.1.65.zip",
-      "size": 24037664
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.66/app-0.1.66.zip",
+      "size": 24037803
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "fFETmJfSMwhTg1E9QgzB9g=="
+        "salt": "/7AbatPiEwGTceot2HrtpA=="
       },
-      "token": "gAAAAABq1iHS1RFM3gct00Lmeqo1XZVWjvFo9GiAJlDXOMo-mt-e4oeKqW009Y9yUSwOByb3cZyO2UOrLN7YD_lCfj5mOGUsBQtouKYFKishu2F5wX4VmB7laMs0hhfoYSQ8QPsa19z0doo9UD8nrnPe73RZPSpYP-8WmptzRekAfPZ-hESG8xiL7kEft7P4EjiV0jGo3zCGLQIee72muYYD79SEAF_Vjeqd_x0QKioruqkDPmB3fBpnfIuXTwniJ3mx-V3nLOdXjXMpL94nCJYdxmhsDWYK-Uv7Xuz3VnjvES_qkxq2jAUqHyR3ssjipBRqamvP-JyPjAAMDqh-e3Ic-NE3BAIWzavl4yB59O_u6G3qS_ppX_WCzJllwQQCmRGm9KjjQF4dODsycX6eW9_NmzsxlLAJp09ztwP540HSkiWhhMa0JQtrrlxY3qZf3Ker67v0dnPd"
+      "token": "gAAAAABq1r_pUG64dToxUnxKDcwANSsPRvidLpqcKKKWwdArfDx3_ymM-SgObweBQluAbZuLzqWUaeBZT8SdHIuz3CknVsjFLLM1xj6vkVHA_YpksW4-E9jxpNAQVEAT8UVzAcTBvAtWErVdAx6Iox0ApWv5VdtPFcRlezLQ2cU_rUwMK_iTTRWSkIlRB6yerReaUYOFNvFd0LnHx8il-qlEFt4mWT4MdkRvGD_7GRCYNxmxDpzFZL7whO-mqp557_pGcwl2FmJJFcSn5-qjHTY-wN0aq8NR1zgXJqV6U0S7X07lVeJl2g6Pcug9t6pgafgb9rOjcUY-A-C0Z9VCO6R3OxM6Qw9TsESFv_TuaEt12UjZ8xCxuA5HT5nOwA1NVmnjzBkeF1UXcw8TgbU29VztIT_gsvYb6cHmbI_tjLeS_2GOx6pgOmm1GDwe3fKEWz53TRXSnsa8"
     },
-    "published_at": "2026-10-19 22:57:38"
+    "published_at": "2026-10-20 10:12:09"
   }
 }
