@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.71",
-    "notes": "정보기술-롱폼: 남자 아나운서(입 3컷) / 성경해설형-롱폼: 중년 성경학자 아나운서(입 3컷), 인물 누끼는 오른쪽으로",
+    "version": "0.1.72",
+    "notes": "it_build·lf_build 가 'TypeError: Expected dict, got list' 로 멈추던 문제 수정(아나운서 렌더)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.71/app-0.1.71.zip",
-      "size": 27770501
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.72/app-0.1.72.zip",
+      "size": 27769739
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "LleNb1aHlNS6hS9QItv8Dg=="
+        "salt": "yEeKCQPxWsz7Qn+GVDTJtQ=="
       },
-      "token": "gAAAAABq2YsyNYdv1QegoRTBbP_XlfX9E9nw9OSH4sQpyk7MxkQ7Tl1xVjx8TMaghkFF4r4X52x8l30ABdqeFd4UdH2CQSwDbUhK5LbLYmtIp0w9DsCYZwIX-jQEr_w3GXJIqYuzWm3cNL5Lg6FAIjV_XIOpouW7pI9kvlGzpJtyCJvj50OQXcZid6DZhkpQZ0pfvrA7Rw3X1OEmlZ7R3OwyREiVsOlAixXatZ_nbN_i8ucOc5zUxApcmF18-6zOccP7eRXsWgsU-xHUNe4UCMhpeaWEymPWyBenQQR4_Xl7lb94VlKkhi82VxrZxfYjFuJubZuPUXE8Hqb4PO4Hbpph66ngUIxSF1a-fM0e8pBYpCuYx30bVnAZKU5fELwWi0nW4THvxQmQUr-JH-1HhcBC4EONkfV9FqXtWiCTZv6hAlF3e4jHN-bNu701VFYCui9VmHkC_F9K"
+      "token": "gAAAAABq2ZBX-_QcYDvMROSylGaYQkP-nvSCLfbj8bMYPyWweXN8XbbHS7mGj_sqppxHZUMvMQw0atcsDha6pmK1ArHJu0NdnBMtpQALIYZRu47RDw3_TRuabYh0kTjokd9Si2VNw2fAnVoWwsu-bHaS2BSzNBRxMlT7aPdPwYeMtMPNH93XkqiwiNuYadNF4jdnSJbI-j5RLt3-Ice6-mALRKBCNGfD_ZaDrUuheKAfOulKjieTeF1DQGJjnjdaAvFn-soA9yt51vMbYlmHB1ySLv5kWS3R3mj1T7NiXf4-G8o1oTQLF576DoWno7eOpOrqfeyF8TlOilHhkeHfj6bCE2U-reQ-CXYJ00y0afs8CstfpK1PJz6iiJ7f4K0aWMxZH-yLFYdN8msDmSXaK_kdqyJTL5jyUXJ4cwbYQLIriDFDncK5lzpkIJB5fnwkIkCzuTT06SXx"
     },
-    "published_at": "2026-10-22 13:04:02"
+    "published_at": "2026-10-22 13:25:59"
   }
 }
