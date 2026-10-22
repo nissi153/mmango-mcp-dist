@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.74",
-    "notes": "1인 아나운서(정보기술·성경해설형-롱폼) 오른쪽 아래로, 아나운서 뒤로 글자가 숨지 않게(출처 표기·키 큰 패널·꺾은선 차트·인물 그림 비킴)",
+    "version": "0.1.75",
+    "notes": "롱폼 아나운서 흰 테두리 제거 · 작업 폴더 아나운서/ 그림으로 바꿔 쓰기",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.74/app-0.1.74.zip",
-      "size": 27769532
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.75/app-0.1.75.zip",
+      "size": 27848302
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "CQteYuAzVrW6aw6A5GVgRw=="
+        "salt": "GW0PLI9FlgJJIrUsAMMzEQ=="
       },
-      "token": "gAAAAABq2gLOXzm8ofYlE9yFgN0tfUfRPfGNSo9A9JcdcOc2ZMfY3jBkYFe1uNgMkXR-5QsXLPdEa649mJFsLVSAI_o5-TvgZ0vq7BTpZ44yqFQ7eSCe9g_-le8lpzFrZF2iFH4Nesuhw741B4gus3X4vpheK2oj84VI5qhttloUTyZsIwGe3SmhLnVlWlHc8nk0AaVI4TMvVDeuU_PX6QXFFwSU9z5gJpEpm91J4wEIAiFNKoXK5zCr58cq4obO8Q5mEZRlDVCeUHfrWqybYpID0QjdUU1FvWjr2fBjNRIaKL9J5_PFDXAlt3yasI43W6CktwJ48hAo-A04VlcyMP2p_ro7BGQ0P9cn-4lSK6Ukm1GbuKQ95CnkMmWXszhtlQoQ88zbatPGOaPUG-hOLBxNp9ttEfVra02a8DRTlKSXAGLc2lTI45eOME6r7HF882yuzxKmjL4W"
+      "token": "gAAAAABq2g_kAPl-SjKdlstHnXCWEsOILk3-1VA7aNs_SXKwTKCCG60kxMHbbOkE3kvBn5D6LA6KzasKcyYQ_jDvEEnO63EAT-PLskzf1-dv60lUizUNWdSYP-6YynfbjBSRUzC6ZVJhzmwlSpKVwMkLvmRu3-F6HqZzioAlYXHJDMv95zr_zCzWU2ZGr4UTKV3bZMWUc4ungQQckZQ4XQ2Fy0CT9mvVU1494Qb4hfOP35SfCcVAHSSc8jc3ADqtXenFoFe2xHppTzoq4bcseDWoqMFP86L8Ib07mcgoBTu3WFLrV49Zv6At_mQXyY2NrqJzMZGRkxExoxItA2S-N8fStsDvv1tbxy1k1CgFK63YFmsxPwVRgMgsOZYj63-rldRdrRdj3t4JpxHcpNWjichRBb-oUj49bfsVUEKzBep4VIB0cls0iQkQ7DbQGlj8AT8j5PXh_0ZO"
     },
-    "published_at": "2026-10-22 21:34:21"
+    "published_at": "2026-10-22 22:30:11"
   }
 }
