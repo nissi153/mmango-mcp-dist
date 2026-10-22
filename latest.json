@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.75",
-    "notes": "롱폼 아나운서 흰 테두리 제거 · 작업 폴더 아나운서/ 그림으로 바꿔 쓰기",
+    "version": "0.1.76",
+    "notes": "정보기술-롱폼 인물 장면 — 실사 누끼(위키미디어·회사 공식 홈페이지·공식 유튜브)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.75/app-0.1.75.zip",
-      "size": 27848302
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.76/app-0.1.76.zip",
+      "size": 27881596
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "GW0PLI9FlgJJIrUsAMMzEQ=="
+        "salt": "FC0xZB5iklG7JYIo48dZiA=="
       },
-      "token": "gAAAAABq2g_kAPl-SjKdlstHnXCWEsOILk3-1VA7aNs_SXKwTKCCG60kxMHbbOkE3kvBn5D6LA6KzasKcyYQ_jDvEEnO63EAT-PLskzf1-dv60lUizUNWdSYP-6YynfbjBSRUzC6ZVJhzmwlSpKVwMkLvmRu3-F6HqZzioAlYXHJDMv95zr_zCzWU2ZGr4UTKV3bZMWUc4ungQQckZQ4XQ2Fy0CT9mvVU1494Qb4hfOP35SfCcVAHSSc8jc3ADqtXenFoFe2xHppTzoq4bcseDWoqMFP86L8Ib07mcgoBTu3WFLrV49Zv6At_mQXyY2NrqJzMZGRkxExoxItA2S-N8fStsDvv1tbxy1k1CgFK63YFmsxPwVRgMgsOZYj63-rldRdrRdj3t4JpxHcpNWjichRBb-oUj49bfsVUEKzBep4VIB0cls0iQkQ7DbQGlj8AT8j5PXh_0ZO"
+      "token": "gAAAAABq2hc3pdQXFvVi9XSmB1y7_2mtkY_9-Vf4Ot9KkhL_vyxDu5EsnbdthNUPNeO5pyCNqRafpdmsIL-QCNUEgGRHgIkJvjByZG2I_rmW4c9YHcczZJgjJFKyxbUjgD6fFk9JttSOVljELBVU_63UskvEZ0G25_hQOOjpo8ezh6wQHOWg2KgYtyyBYM49MhnqFNI-nGzW3rXLo_WDs6JUbmjWhGEW2KRVXF1hchLGK-GM-m_4n7ya4jZsmTQPcrmBNEs_VtgpRMn6ATZTE4h2Iw2UctdUidt5DdLfW-XLyj-1_Gus9GFBVi834YnkQbLgpv6Mua_DKyZcMTwg3rNkeIEBRXlBz4ZoFIxXkx8ZqPqBsFAEe4hhZx_rqrsuQ28uDNa-CB31yCiNKUKyn-K_-ebODz0KM4VAnh68t6MSYWEc-32-8fwml4KmFkuUDlNy6XrVmLzj"
     },
-    "published_at": "2026-10-22 22:30:11"
+    "published_at": "2026-10-22 23:01:27"
   }
 }
