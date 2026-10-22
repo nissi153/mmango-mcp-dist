@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.69",
-    "notes": "정보기술-롱폼(it-lf) 프리셋 추가 — 다크 테크 톤·도표·실사 사진·AI 이미지 / 롱폼 선 그리기가 조각 경계에서 사라지던 문제",
+    "version": "0.1.70",
+    "notes": "해설형-롱폼: Gemini Notebook 2인 오디오 자동 생성(lf_start) + 입 모양 남녀 아나운서 / 정보기술-롱폼: 첫 10~20초 요약 / 절대규칙: 자막은 숫자, 나레이션은 한글 읽기",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.69/app-0.1.69.zip",
-      "size": 24374539
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.70/app-0.1.70.zip",
+      "size": 26232736
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "5OKp7naPvYJUW+scYLjz9Q=="
+        "salt": "6b6AobZDU8Lxbgh3Fv5KMA=="
       },
-      "token": "gAAAAABq2NoDzQqWLaGPlVxbRD0QaWq9gbw3-_fiZDN7QXgn4mStJbv4ryCW0poRPJ5wpv7bwag0rKrWt9RcUnTyp0rEJ8wFKOFitExCtuHAy9O2ADtO9b9o0VOjoISyO6WPwDb-fnJlbuzyl1AkFABmdulKgGrW_-4K2AqPLejPW1yyoLLbbA7sjpnd--aSmT5AbmnpbcO-boBkA5YcJUjNmxCSB_bliI18L9erIuikjaZz41395srPPQdM1cUz4da0yNNCCI9b--AkHXJ9gzYsc2COewvy6oXUEOy_ErBU4S8yNAYtQHdt3KFvRYtyV_GBIFAOwTBB5qEHZbR9uS7XnDAVlHX0MWXw7TjfQop4mn2x6hxCrL0MrxGKTEeDMuiNdKMdbfoB5Xo8Ekj8tG66jxEowaJ1VMWo3mNdHQ0KNPRlXmhhPI4dy_qaBGkLAf2Vx79WXjuK"
+      "token": "gAAAAABq2XMLjgK7pafBfmnRwIC9BasHcObz7DBQFaKqEFVT9ABk4o_cw-Y8F8sQ5OVbPTBfrbpuzxigfdikSkClt27VwuAesd1Xp2WRojZZVibvScihEzP87EeLYPGiIr8t7wMUJQB2HHGX7sayrma5HeCWeSSAfaTCqgETY1ISTBIu4TnbTeE5nTv0qcMBvOvLiNWbWSBD-QYvyuGGS_dSFuXyF9T1RbpMsZ4JNQIH61B-wPl46Z38L08PEGmXIiBIIQiO0lLjYFrOIgnVQqMrydknCKRXT7N2sFAHA_zJ_xW5dXKyrK9ZxEAYafuX9cfYch0VteRLy2E1bqGXBmWKRNZTpfXilaEbmJvfYmMO4ae_Mx0XqwlmqNQNgvj4HFTUzjRXY2rJKiNBrqjXWJK0sqDw6ebSGdNtRg9pvm6YnuIooR-60lIqmXH2tilUK99ayyhkXd_N"
     },
-    "published_at": "2026-10-22 00:28:03"
+    "published_at": "2026-10-22 11:20:58"
   }
 }
