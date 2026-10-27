@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.76",
-    "notes": "정보기술-롱폼 인물 장면 — 실사 누끼(위키미디어·회사 공식 홈페이지·공식 유튜브)",
+    "version": "0.1.77",
+    "notes": "롱폼 렌더 GPU 인코딩(NVENC) — 첫 깨움 지연으로 CPU 로 빠지던 문제 수정",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.76/app-0.1.76.zip",
-      "size": 27881596
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.77/app-0.1.77.zip",
+      "size": 27888191
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "FC0xZB5iklG7JYIo48dZiA=="
+        "salt": "pYroD1EWzMGIA4f947FFwQ=="
       },
-      "token": "gAAAAABq2hc3pdQXFvVi9XSmB1y7_2mtkY_9-Vf4Ot9KkhL_vyxDu5EsnbdthNUPNeO5pyCNqRafpdmsIL-QCNUEgGRHgIkJvjByZG2I_rmW4c9YHcczZJgjJFKyxbUjgD6fFk9JttSOVljELBVU_63UskvEZ0G25_hQOOjpo8ezh6wQHOWg2KgYtyyBYM49MhnqFNI-nGzW3rXLo_WDs6JUbmjWhGEW2KRVXF1hchLGK-GM-m_4n7ya4jZsmTQPcrmBNEs_VtgpRMn6ATZTE4h2Iw2UctdUidt5DdLfW-XLyj-1_Gus9GFBVi834YnkQbLgpv6Mua_DKyZcMTwg3rNkeIEBRXlBz4ZoFIxXkx8ZqPqBsFAEe4hhZx_rqrsuQ28uDNa-CB31yCiNKUKyn-K_-ebODz0KM4VAnh68t6MSYWEc-32-8fwml4KmFkuUDlNy6XrVmLzj"
+      "token": "gAAAAABq4F_xxqO_GhKPGtykvhWXsmqMbvK6OeC88fa1wWrMTw1Asz4_oatqaKoqEew_2-xBoGfIlvUNjmTi3-c9l6Fs6PZ_bT6FCIIMDvGUtL4ha0LwPXS1F3kuE85O7nSJ17mivgIl3ZXtpduqhsMEzD8uYrwBk1Wd0Dl9K_pcYE6zy6W4N4N2N2INtvc9BqaA-cJuf1dWXwc4auqAWuFKbrZWZzKi53PprvH-J2P4J4mhs7GHGZPaWFPrEPy2aF6yjhgJUf030TcHzUpcZNnrD-PVfCykwwAcSsZdibM77HAz68jy0zW4irE7rA_2qggrLX23imo5bpOSH_rUmsUQlVsf2tj883fB80j6DzojtwoAGaRcbRzcYkItPTj6psFqQgZ06NYBm-1XwGK16Tu_zQS2tAln5Xee-7dirLcFyxWCFu18212YrhztG9F3S-eWY0dm633H"
     },
-    "published_at": "2026-10-22 23:01:27"
+    "published_at": "2026-10-27 17:25:20"
   }
 }
