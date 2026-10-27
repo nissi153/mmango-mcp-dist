@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.80",
-    "notes": "ElevenLabs TTS v4 기본(막히면 multilingual v2) · 동시 요청 Creator 기준 5",
+    "version": "0.1.82",
+    "notes": "인생쇼츠 영어판 자막 글꼴(Pretendard Bold) 앱에 싣기 · 옛 작업 폴더 이름 찾기 제거",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.80/app-0.1.80.zip",
-      "size": 27956192
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.82/app-0.1.82.zip",
+      "size": 29046745
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "MoodA7TDKXTGzEUgF5x4KA=="
+        "salt": "6ZX3hTnOFmht9uvR78ON7Q=="
       },
-      "token": "gAAAAABq4IKzWKMQajKxq5SLOBjPnHa2ICrVeOMaR2QrvFtJKpG5Cr8nctXt8rD2husfm2lSmoYLHvDpH4o622_wb1f8EualI0E-20ZIuq4rrqVgX1U1NeLWad3k5U7FFwmC10wXYQRtKy5l9jzM8-JY_nMpLD3lt6WhGm8kM-PJDimEAhCamrCXR-y408LwNZHm-0sJBVfDu6Bf13LEtIlS6QlaCbgOmYnTbKH00uO8n7qz_GpSBW3XKjFZJS3bjTAYwnJfKA3UAOJ0zeD1UZ8ZqV4_YuicVHB8AUdqHOc_8uZPC-b3JIkEe4UoVTjyV4tcaw1DcnmwAHjKlRPT97bboWf-wlaD50RR5Jjscf5CvB8eLzQ99Pi6-t2X0h63j2ji4lBH2EASahUdAm18F6S1DEEaXu-ZBYpNtfuc9ExhL5tzNyYFqpeWhN4-aiXs882MwP4xyoU6"
+      "token": "gAAAAABq4K8nLbX2qF8TCPfDjF1UPZdMl6Fd4DDgWgoq4JTgUW8nNZn-2umGY6vakxQti5CISLFYxQFzDF-CZdbuHatZVbrbjagBBrXor7QNKdJcXXPnibt5lEA8acAwkPQ8cTUE3l5AKEYJuURk89bzhQfigE3ioSwqNG5Qob9k7LnEd-VxxsNwfQhdQ5Bd8kAdhc02G3yJSNk7D0ororPJCkPQmrhG5OXv21P1PEuTNkBVp1NK5q6I6uQ9dVzq5UCDeI5XFEyjhFAyIcJkbDmjUJroTmS5hV2C9WqmPz-93SSvOO3apkyKPQzHHB9R9rzG2pQD7BsDKcI37M6dsVpos7-kEvs10K3GaIW13mbNs1RrWz1A1Zh5MWODY5mi0RvOAwsymGUAU3ZtTTV2kzkMvfBxwRuKY02MejqyDAFkEPfWof8zDSQOwBetJDBARUArWZNmON1D"
     },
-    "published_at": "2026-10-27 19:53:38"
+    "published_at": "2026-10-27 23:03:18"
   }
 }
