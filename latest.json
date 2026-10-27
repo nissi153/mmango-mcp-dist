@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.79",
-    "notes": "인생쇼츠 영어 대본 — 템포 1.0·낱말 기준 길이·아포스트로피 유지·제목 폭 맞춤·결과에 TTS 엔진/목소리",
+    "version": "0.1.80",
+    "notes": "ElevenLabs TTS v4 기본(막히면 multilingual v2) · 동시 요청 Creator 기준 5",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.79/app-0.1.79.zip",
-      "size": 27950621
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.80/app-0.1.80.zip",
+      "size": 27956192
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "OuIEFVwrS0YWsa1CY9uvmg=="
+        "salt": "MoodA7TDKXTGzEUgF5x4KA=="
       },
-      "token": "gAAAAABq4H1JF2rVthroZxZfNX1Fc0c3jmuSxFMQQr7cVwEtMGA8wwKOkONOi0innZmRDG6Q79eqByJ8HMuWd63ss7eKIQ4oWxDGoDm03S_ScaW0FdfnUUGWhF2IqFq991QGsDyOgJ-cGzXcxTJqYL4AVqnJCoiGWp5sZOPU94GiEXfmMePgK8bFgHNLXNO3wQCv8f6GU8ACp0_CITQu7nN_3u1Aq7qnNQvtKMhx4F0seXXn-uAjawSUXWyHalIsv0hPkXAgx4fy9YLIXRjO5x9pG-PJEBWq6a_b0Za_cUsfDDUYxJULFZgvSxorFEMZfvPFZurEb6CGmD3PbGlps7uEFxF07HP50aLbxxfdYQ49Sc5nfpHLCfOT88FJQhYQP3Z_kSXLtjk4GKbhEezxVsZddJ7FWxLnWlH6GrBHhfLmKn1XWD4wHY3Kdp4C67g0cFrXmpnX_Uju"
+      "token": "gAAAAABq4IKzWKMQajKxq5SLOBjPnHa2ICrVeOMaR2QrvFtJKpG5Cr8nctXt8rD2husfm2lSmoYLHvDpH4o622_wb1f8EualI0E-20ZIuq4rrqVgX1U1NeLWad3k5U7FFwmC10wXYQRtKy5l9jzM8-JY_nMpLD3lt6WhGm8kM-PJDimEAhCamrCXR-y408LwNZHm-0sJBVfDu6Bf13LEtIlS6QlaCbgOmYnTbKH00uO8n7qz_GpSBW3XKjFZJS3bjTAYwnJfKA3UAOJ0zeD1UZ8ZqV4_YuicVHB8AUdqHOc_8uZPC-b3JIkEe4UoVTjyV4tcaw1DcnmwAHjKlRPT97bboWf-wlaD50RR5Jjscf5CvB8eLzQ99Pi6-t2X0h63j2ji4lBH2EASahUdAm18F6S1DEEaXu-ZBYpNtfuc9ExhL5tzNyYFqpeWhN4-aiXs882MwP4xyoU6"
     },
-    "published_at": "2026-10-27 19:30:33"
+    "published_at": "2026-10-27 19:53:38"
   }
 }
