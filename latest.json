@@ -13,16 +13,16 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.85",
-    "notes": "0.1.85 — 플리-롱폼(pli) 프리셋: 구글 Lyria 3 노래 10곡으로 1시간 가로 플레이리스트",
+    "version": "0.1.86",
+    "notes": "0.1.86 — 런타임 정리(0.1.85 와 기능 같음)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.85/app-0.1.85.zip",
-      "size": 34276920
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.86/app-0.1.86.zip",
+      "size": 34276917
     },
     "runtime": {
-      "fingerprint": "d725e61cd179ad9b",
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-d725e61cd179ad9b/runtime-d725e61cd179ad9b.zip",
-      "size": 35756491
+      "fingerprint": "109c564f52889dd1",
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/runtime-109c564f52889dd1/runtime-109c564f52889dd1.zip",
+      "size": 32595318
     },
     "lock": {
       "kdf": {
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "jQH0ie7U2HSU+CKXzuMTWg=="
+        "salt": "FROCG8yk7Go4Etyp8t29Qw=="
       },
-      "token": "gAAAAABq4fN0G9tFuvL5Q7AzVJ3GKUFqcGao6eXPRBuYnjmkNNB0ZKjuscwSm5e5hRB6AeJByhv7AvZvL9itSCj27TsTs0ArXM23jFzBCDuQNig7enMzUm1_VeMPK3YE-EcO9f5NBGKGOUv1bbJP97300aPxJCnAqpA14DwOhVEsmdgZqkJznmHxOLoCSFnMvMAtEq8Qmk11HAw9yFp-twwO_075NK4Q4K9jh3wb853bb_5Z6FBQJm-lsTr4u_8n0LvgfP3zv1ueWOYQgCka8ETYC6bCv7CiC7H5Dw0Zb9MVqAsl6lxXmaGPyDPIJxmxQoenAI7rJ5Xk9Yh3hMdyZqnexlLXDtHAcnQGn3s_cdFlZkXIAQctDTwBQSiP21gnjh_0qPByCOsqhOVL2eKyR1AnTDX41CSbhtAYgSfw8qk1FbXv8yIu66cTyhusKn1YPtPpsmWTtOT7"
+      "token": "gAAAAABq4fS2fHNyzPcNXbn9_V8obrYfRjLyXSqEzQTwintNhTbbGcb493pXZqWN5XBwVTjBpni1R4xlnc5i1hhT3EFIpgLcgwSNx34RofBghhuPGav2z96REaXTRVe9E1cXAqQPJl4WmsSVxEAfWsq8AN__1Inho6NmyI39jfJM5c8gJeD0j7YKXI3eogc-8CWjZ-TvWSCOsKyQC800DWXm9UWHGgnlPY4k2gXgFEQEhsc9fjn7ww_X5476KiNRkS_EDY3egOQViIV0PGCsY2Ff_7XfcsOIzd3B56xbL0nJ7PofW2X6IZfqNaCwthcPniStYCdfrv68xRMKFaRjELqc6EXngG0MO66jZtFXZPfvgYDz2HHc7N3TZl4WmZQlUxallyJLwQpPZRShP7TIjIRSIfJOHlczneU3SHnrWl-q8Q5T4Ebviw3urgxmpqHEEwXS1tBXFph5"
     },
-    "published_at": "2026-10-28 22:07:00"
+    "published_at": "2026-10-28 22:12:21"
   }
 }
