@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.88",
-    "notes": "중간 작업 파일은 작업루트/<프리셋 영어 이름>/, 납품 폴더는 프리셋 한글 이름(쇼핑쇼츠·쇼핑-생성형·영드)",
+    "version": "0.1.89",
+    "notes": "쇼핑쇼츠 소재 찾는 차례: TikHub → 빌리빌리 → 샤오홍슈 웹 로그인",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.88/app-0.1.88.zip",
-      "size": 34324292
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.89/app-0.1.89.zip",
+      "size": 34325543
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "BaCgGujt/+it6NzNaLuNmw=="
+        "salt": "xxqU/FIKlbc5d55dGGOVGw=="
       },
-      "token": "gAAAAABq4tPLztNFm-fPXv56NkG3lHKkMufQbpeLh5ZvZ0QY1fIcpGdElt96GiZ4iwP7LafJ9n30894mvxqZIL9mMUk7bXAd47VeQ8Mmf3krB5J4kAXV6I8DpzUyuMq2zUOh_Nt73DEG30Fh5lbDsw4ntvw8NUiwmHKgkDxzCXd97Pa45GDzngCPsZ5wQGWkJqtPC4MAeGyrgBz0E8M2N6gKe0gGPl7xtTqGnTIbKQdfwZr3zWvPTI3J5etlZ8bmdzKv5ER0MU1AFhQBFBat5dfeIBlS5sGahb5Oi_0u8Wrb2fGecal6jC46C2TKc3Qd2VA-4UxmMcFhID3v8kQVMQQmE-HG1Z_a3I9SKQ5cDOdDaD6PzJtE_wvAK_YqMfWndit95a6HgU3GR6g7pUgcBVmpf4XygURG9sstvnpy7scLtWrjNXrNvP0rIrHLAk-_8an-aRvRzbpV"
+      "token": "gAAAAABq4udsiMVA7cYAMQwBC56F_Y4gkMb5E6DsKr260vmABUmTRUy8pqx5lYeU2RieITyAt0-HD6dQVUoBGjg5lTwnReSAXvpRglg-6R323f1hta1VyDgdW0gVu5yVy6RCqUCL08OLdPqUsDNfosCJlQSHuQ9R7p0MrcNwYbMTXezEoif5ba8vvV2VZEHWlF2x9DWabHbAYEo7W0TvqWGEFfaXXPnKHi8PS7-6r1dnLiOIBRc6dosg5XXU9LINMVhze8KYE1oYvvg36C692gSFmFBSZ_4g1rRR6IkiKZzVKqeppDe4PxmbkRwYZLkWebuTeuqVUw86ueC2MRPQbHyM_DwMcGYELCrThkpfxvvyfqz_HJwCtke9qo3ncpyMt6dIc52NrgnRAQOI7vyIWkMb0WwP2IZNYOTvafvRJokFDoVeODEQHs_vF9Weu5tjXmIuyC8RnRv3"
     },
-    "published_at": "2026-10-29 14:04:11"
+    "published_at": "2026-10-29 15:27:55"
   }
 }
