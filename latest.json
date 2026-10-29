@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.93",
-    "notes": "로컬 배포형 삭제 — 서버 배포형 전용(처음에 shop_login 으로 승인된 구글 계정 로그인)",
+    "version": "0.1.94",
+    "notes": "중드쇼츠 TTS 를 Typecast 로·성별·연령대별 성우, 설치 시 Claude 데스크톱 설정 작업 폴더 맞춤, 새 설치 폴더 이름 맹고작업",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.93/app-0.1.93.zip",
-      "size": 34432806
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.94/app-0.1.94.zip",
+      "size": 34454455
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "+SWmfBC4xDDuPaJiHUOpEw=="
+        "salt": "V9ru7rVE+rtF/q04jMEN1A=="
       },
-      "token": "gAAAAABq40joCsNDT5WFHrPVFD1I4hoj3BCDU4QkX4osA7Hz-Z3PEX2S5mM0f7sfUlZfwBrHrO4J61wHHOZjyMVBHo425gnZDN3SCxrFhLZF4Dgamv61Q2uCDrgxEAXox-8ZvmarYy6KEWzDsN8zegClyOEqJHcs0dyMlA_9zvCVV9-nyuzYzmTfdzVV9jk3c23SfO_hFYJ_oNalsPwdU9rKhQM4XiwqvtbU2M8IXLAmpzM2v-YuVTXIcO81YIfAAIbSKXbKGcaEXsyQ5XwQByE3oIH70mQBGQYbDjC0p_6wytmgQsII5qKed8ubwvIMay5NWC7Tt__XYwVn_WHgs490l1XrCwvlALycBPP6Jfje-l99xIQvBT4EIeWsvExKcCckPFybbGEbFejlW0_IdysD3w-YKsY0T81BQ6aQexjlmKNVg_UGB9XvOTtEZ78v8fd5NQZaJaad"
+      "token": "gAAAAABq4175XHhV79D-nVYE9zTzGOhlNE4hKSSDMX76lfRZz2fQEosaYSQEZWjjo4_O-vbJ168u0ffONhqQywQs4OVmGZNFs0pnYpxGpDko2OJ6GwxvdaMZv70gBV37pWrXkRpmCYvIdDjdfGIgcIRcl788Vx4of2RrVGam-7spX7OemKS4T4TIdt7iuy_q0j85eQx8pFfdL2Z4BSO_ESvbSzcIY-Xc_Jz7QaJ2beRko4HyzK0ovGi_8-jZtWnR4Tmjoaj8u0Grg1s64uxpuT-RzyKVlgLfV2Tr9otqBQOf1-siStH1zK9beV8_Dc-M6DGBiiJksmfhHE05meyl7dSFFSmE8SWqt_BXbO8BcceJKq3VI4bQpmE09aVQhKPbzChfr6dsnY78fbbHzV_6KiZwcRx6Hyj7GIAD89YPGS-AtMarvR9KdwyL-B52aDAz9eqFlPHVINBU"
     },
-    "published_at": "2026-10-29 22:23:52"
+    "published_at": "2026-10-29 23:58:00"
   }
 }
