@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.86",
-    "notes": "0.1.86 — 런타임 정리(0.1.85 와 기능 같음)",
+    "version": "0.1.87",
+    "notes": "TikHub 열쇠가 있으면 쇼핑쇼츠·중드쇼츠가 TikHub 로 찾고 받는다(없으면 예전 길)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.86/app-0.1.86.zip",
-      "size": 34276917
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.87/app-0.1.87.zip",
+      "size": 34322842
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "FROCG8yk7Go4Etyp8t29Qw=="
+        "salt": "5P8L+fWBdVncWc7sFtVOIQ=="
       },
-      "token": "gAAAAABq4fS2fHNyzPcNXbn9_V8obrYfRjLyXSqEzQTwintNhTbbGcb493pXZqWN5XBwVTjBpni1R4xlnc5i1hhT3EFIpgLcgwSNx34RofBghhuPGav2z96REaXTRVe9E1cXAqQPJl4WmsSVxEAfWsq8AN__1Inho6NmyI39jfJM5c8gJeD0j7YKXI3eogc-8CWjZ-TvWSCOsKyQC800DWXm9UWHGgnlPY4k2gXgFEQEhsc9fjn7ww_X5476KiNRkS_EDY3egOQViIV0PGCsY2Ff_7XfcsOIzd3B56xbL0nJ7PofW2X6IZfqNaCwthcPniStYCdfrv68xRMKFaRjELqc6EXngG0MO66jZtFXZPfvgYDz2HHc7N3TZl4WmZQlUxallyJLwQpPZRShP7TIjIRSIfJOHlczneU3SHnrWl-q8Q5T4Ebviw3urgxmpqHEEwXS1tBXFph5"
+      "token": "gAAAAABq4seFo7Jm2sfYYTCF9hwUaAmhrbwGNgVDVMzUvAKBciUL2kxvw0B7Tl5_IgLm4H3ZGZj_J5I3DL5V5X3_C9H46kwdM9itJaMaN0D3MaB8awqPaJfmYPK-gKJXSzaOTEz6N5wUzpeUE9T5NpUtJ8G0M41JBQEifObE2eAKw1OIn-FeqKZ1TXyBq_OxqZmC92X0uXAKAYagasNENx5Q7q1feX6nECoiKMZNLDH7PClW2PqPKv6DjqrdtXwswSMa-SLn-a-XXA78ApMA5dG6k-ASKyeZ7iQUzY6XtAFhYJsTRouO-MnPbXLkG9wKPJqBbjhh8Tb09_pTeEMt9AmhZeFB1GEaVVXRyay50g7r9PV1qEBMJMwdWb_SA-ZS0le3IlrgyYfMzgFjvQe2msx9pzF_VgJDdHZAnskRprF17FUCcSQ5yFZVtrl63F_NfvBx65dIdrlv"
     },
-    "published_at": "2026-10-28 22:12:21"
+    "published_at": "2026-10-29 13:11:48"
   }
 }
