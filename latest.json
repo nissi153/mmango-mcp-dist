@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.95",
-    "notes": "업데이트 암호 없이 승인된 이메일 계정(구글 로그인)으로 업데이트",
+    "version": "0.1.96",
+    "notes": "렌더 인코딩을 GPU(NVENC) 기본으로(안 되면 CPU 로 자동 전환) · 감춘 프리셋 이름을 중드변환으로",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.95/app-0.1.95.zip",
-      "size": 34459357
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.96/app-0.1.96.zip",
+      "size": 34479294
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "APKwBjEgAgO751tLP+pKuA=="
+        "salt": "yCKAtwWGgZ6PMyKxVThGhg=="
       },
-      "token": "gAAAAABq42O1Rg9DFKubELCGz3M1RRpddQZCQLMmO17AKacjrN2MfJVnyBvZs93rYSk7xmfckYP7nlpkEWI0Dn8nLygb2Wuz56xlZIIxNFO0GBZwHxFzPZgbajGWAzqqy6wYYw_Ekyzg2g_MZVz5vV9musqaCgGaf2jkaNJOtEBupLXeMWEXL0pQrYv-soBuXt7ameubz_tErIgJBn9ooAsMKV2btsdz0NsgFjC0PfgUlyHFBIVew0qcdBq4kPqTxnQ00rGOWWX6NrqcNckv9YQf2oviF6zAAWW9sJSWngHY4FxjvSbLljLw8QS1s2uzK5apAbega2DIgdCwmOmdMiQTNqleMwtyhrEt7pZDyJ_hY_ZRo0jXZALg7uust67pXMr6Kj73Q8uDADNj8n24UmA-BZc4dcY6JOVjx-FfPIHHm4hZAK_DgSc5fU-bH_lMcu1yLpv0GQDr"
+      "token": "gAAAAABq47oG5f-j8wiR6BmNrSCzLLX75Wch4T4IvZ6naoOL6zJg2D5U5qTlLAupi1sZbw60AJa4hrGqvz-YmAkIvl_JPS7bUtKjDrB4m616Sl8VajYlaHSnDGWU5pLk19eVnw3kC4RfUheGrG8_F6-C1YBRW4fwfy34DK3yg6poK84EkfpP5Z8kguHFu8UkAAkDL6Bz6-w9Negyxi9TZ6GQ_huVu9PFGdkwP2KGpL7Elq2RBFbKTWZIVRFDd85UgSqdZCy3ysl485Jf-U8oYiEnLV-yusIPD_4yzPa4QHas3qJDyE_YUp2BZLUvGv8UpuOkV977oUY_JlLUPQEK1F9PcCAdDYwO1tUx8Tj4E_qLBYUi_IjKxIpPRINQteqNMSY-nRslYSq8nL6yNvmawczEkTejmrGM93SHegzgBa2FowYdH0k7sT1Og8JKvIuc9Oe3EZmlPA3j"
     },
-    "published_at": "2026-10-30 00:18:12"
+    "published_at": "2026-10-30 06:26:30"
   }
 }
