@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.91",
-    "notes": "중드쇼츠 dz_blur — 중국어 자막 줄만 좁게 블러하고 한국어 자막을 블러 띠 위에",
+    "version": "0.1.92",
+    "notes": "봉인 지시문을 묶음 한 벌로(로컬형 그대로) + 서버 배포형(승인된 구글 계정만, shop_login)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.91/app-0.1.91.zip",
-      "size": 34433835
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.92/app-0.1.92.zip",
+      "size": 34627150
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "3Ds3PH2xWOSBRYU4keJgbQ=="
+        "salt": "MsXS1B0dzgrAOAeF+NkAMA=="
       },
-      "token": "gAAAAABq4zKi-wllxTyZOFgEikW1eWtiIr_diJvZDjqD9-XDcPDYxsmGCtXtWTKTksVGt7d2ZtnMELj4rptnWe6TvSqTmgHUQJ1qpLHF2YQ4rlAs33Q9nnR7MtXLX5nPnQryFngJUrgKuReqUlg2EHJ12pHPdxUjDZyxoZvtOPY1-U7XjAO04_PmJTPwsQAuZhKbmDw1wBcRV1B6I_eXem3b5RTZM96SGu6Bez7HkHOKADYaujIpmeDgFL97F3rArHqFlwfl6stE4b1juWbzKbKhI90QPTPTGvXF4QBZLuvjxTbbmQi18_8a6z6p13eHJMsV1Pfv0WL9YrtlVWodOISmzUwc0FBJJQ2UGbXEla9u3TS4X9jy8ZbgwiKuREiO6uHUFxtDysKI9nKtCq3fhAhjNIUosf9Oz9mm81d2epRtKoj67lM9U8gQaNjIdsoQ3H_OilCyMTq7"
+      "token": "gAAAAABq4zrQHSuT0Va89vFkM-TLq6zq2r5pIWsffo7kWloE346pt61j-Pu5S9RZvNxOu8JZIR1S_VpmbzCjkWdju_sZsU68wbZJZ4jC0Soai_Djy-b6SmSvLJLy6C_xJnATbH9jP6YvBDsW1txmfeuES2gDUruFJv-XL6CzXzkgMIxo7PjLU_bcTGnWn6G77I9f2MJwNJNxkyRjikBgJqslrMePxNN8TqE55C8KEF94gBDGTb1KVIQq7solh7yQr-i07uJMl2AL1hbkw6x09XKGJ8sLuIL3Oboeidqw7FY3iUS5sUEdynsS4bfrQl4GELcp5MCcSNvqOwbuWlitcbQ1GkcTxnmOjOaq1feN3zIFAzBEUlKABs-eQbfVd9Rcpn45dBindb7boHsb7YF9unMU7tLX3V904XYcC9wzXOC2pucL-oSkSvK_WxdVso4a1eYBvWf9KjOU"
     },
-    "published_at": "2026-10-29 20:48:49"
+    "published_at": "2026-10-29 21:23:44"
   }
 }
