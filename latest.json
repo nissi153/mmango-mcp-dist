@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.94",
-    "notes": "중드쇼츠 TTS 를 Typecast 로·성별·연령대별 성우, 설치 시 Claude 데스크톱 설정 작업 폴더 맞춤, 새 설치 폴더 이름 맹고작업",
+    "version": "0.1.95",
+    "notes": "업데이트 암호 없이 승인된 이메일 계정(구글 로그인)으로 업데이트",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.94/app-0.1.94.zip",
-      "size": 34454455
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.95/app-0.1.95.zip",
+      "size": 34459357
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "V9ru7rVE+rtF/q04jMEN1A=="
+        "salt": "APKwBjEgAgO751tLP+pKuA=="
       },
-      "token": "gAAAAABq4175XHhV79D-nVYE9zTzGOhlNE4hKSSDMX76lfRZz2fQEosaYSQEZWjjo4_O-vbJ168u0ffONhqQywQs4OVmGZNFs0pnYpxGpDko2OJ6GwxvdaMZv70gBV37pWrXkRpmCYvIdDjdfGIgcIRcl788Vx4of2RrVGam-7spX7OemKS4T4TIdt7iuy_q0j85eQx8pFfdL2Z4BSO_ESvbSzcIY-Xc_Jz7QaJ2beRko4HyzK0ovGi_8-jZtWnR4Tmjoaj8u0Grg1s64uxpuT-RzyKVlgLfV2Tr9otqBQOf1-siStH1zK9beV8_Dc-M6DGBiiJksmfhHE05meyl7dSFFSmE8SWqt_BXbO8BcceJKq3VI4bQpmE09aVQhKPbzChfr6dsnY78fbbHzV_6KiZwcRx6Hyj7GIAD89YPGS-AtMarvR9KdwyL-B52aDAz9eqFlPHVINBU"
+      "token": "gAAAAABq42O1Rg9DFKubELCGz3M1RRpddQZCQLMmO17AKacjrN2MfJVnyBvZs93rYSk7xmfckYP7nlpkEWI0Dn8nLygb2Wuz56xlZIIxNFO0GBZwHxFzPZgbajGWAzqqy6wYYw_Ekyzg2g_MZVz5vV9musqaCgGaf2jkaNJOtEBupLXeMWEXL0pQrYv-soBuXt7ameubz_tErIgJBn9ooAsMKV2btsdz0NsgFjC0PfgUlyHFBIVew0qcdBq4kPqTxnQ00rGOWWX6NrqcNckv9YQf2oviF6zAAWW9sJSWngHY4FxjvSbLljLw8QS1s2uzK5apAbega2DIgdCwmOmdMiQTNqleMwtyhrEt7pZDyJ_hY_ZRo0jXZALg7uust67pXMr6Kj73Q8uDADNj8n24UmA-BZc4dcY6JOVjx-FfPIHHm4hZAK_DgSc5fU-bH_lMcu1yLpv0GQDr"
     },
-    "published_at": "2026-10-29 23:58:00"
+    "published_at": "2026-10-30 00:18:12"
   }
 }
