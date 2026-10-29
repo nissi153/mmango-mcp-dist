@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.90",
-    "notes": "중드쇼츠·중드유통 자막을 뒤 상자 가운데에",
+    "version": "0.1.91",
+    "notes": "중드쇼츠 dz_blur — 중국어 자막 줄만 좁게 블러하고 한국어 자막을 블러 띠 위에",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.90/app-0.1.90.zip",
-      "size": 34328512
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.91/app-0.1.91.zip",
+      "size": 34433835
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "IXALXnFYPS4uQo8wlxJpNg=="
+        "salt": "3Ds3PH2xWOSBRYU4keJgbQ=="
       },
-      "token": "gAAAAABq4umiQgjbY5g6IlWUU9yYOu2x0JgL2VYKpd_y_RLExqIu0I0vy0AYzEXjmZkWe9g2Ngc2-EH2J0O27PVid7cOCq72ar848Ht6AybK3L_NFIwFBxhdhdggPTlckanxZhzfdtQfMTqYcw3CbOUMzKchNshEJizPKN3QmcsjC1jRlmooxzB_g747FNo_hQM4A-7igzVTlAldeNbJru3vTRNvMS_p442RuJAFYTQkCovRBQTPKx2Q3XYfhtL5KkuVCayiRDGk4mW1QPKr4lx0jduviIMmC-tf2uDPybXCANvuuPkQTfMm9nbi11m2MU2j5JiO_P-C_m5zxFNsMj8wrLwdkAOACcsjyGsVJZ593LqScZ4EEQlmoSd-kYeVOOk0bgGy3OLH6Wv-B_6EbtD_lCjhUocY26z1BXEk14bNec6l3AwqV8Z_DBsAv3o4Gr9CezWGEtEk"
+      "token": "gAAAAABq4zKi-wllxTyZOFgEikW1eWtiIr_diJvZDjqD9-XDcPDYxsmGCtXtWTKTksVGt7d2ZtnMELj4rptnWe6TvSqTmgHUQJ1qpLHF2YQ4rlAs33Q9nnR7MtXLX5nPnQryFngJUrgKuReqUlg2EHJ12pHPdxUjDZyxoZvtOPY1-U7XjAO04_PmJTPwsQAuZhKbmDw1wBcRV1B6I_eXem3b5RTZM96SGu6Bez7HkHOKADYaujIpmeDgFL97F3rArHqFlwfl6stE4b1juWbzKbKhI90QPTPTGvXF4QBZLuvjxTbbmQi18_8a6z6p13eHJMsV1Pfv0WL9YrtlVWodOISmzUwc0FBJJQ2UGbXEla9u3TS4X9jy8ZbgwiKuREiO6uHUFxtDysKI9nKtCq3fhAhjNIUosf9Oz9mm81d2epRtKoj67lM9U8gQaNjIdsoQ3H_OilCyMTq7"
     },
-    "published_at": "2026-10-29 15:37:22"
+    "published_at": "2026-10-29 20:48:49"
   }
 }
