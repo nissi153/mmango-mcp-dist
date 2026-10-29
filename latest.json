@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.92",
-    "notes": "봉인 지시문을 묶음 한 벌로(로컬형 그대로) + 서버 배포형(승인된 구글 계정만, shop_login)",
+    "version": "0.1.93",
+    "notes": "로컬 배포형 삭제 — 서버 배포형 전용(처음에 shop_login 으로 승인된 구글 계정 로그인)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.92/app-0.1.92.zip",
-      "size": 34627150
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.93/app-0.1.93.zip",
+      "size": 34432806
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "MsXS1B0dzgrAOAeF+NkAMA=="
+        "salt": "+SWmfBC4xDDuPaJiHUOpEw=="
       },
-      "token": "gAAAAABq4zrQHSuT0Va89vFkM-TLq6zq2r5pIWsffo7kWloE346pt61j-Pu5S9RZvNxOu8JZIR1S_VpmbzCjkWdju_sZsU68wbZJZ4jC0Soai_Djy-b6SmSvLJLy6C_xJnATbH9jP6YvBDsW1txmfeuES2gDUruFJv-XL6CzXzkgMIxo7PjLU_bcTGnWn6G77I9f2MJwNJNxkyRjikBgJqslrMePxNN8TqE55C8KEF94gBDGTb1KVIQq7solh7yQr-i07uJMl2AL1hbkw6x09XKGJ8sLuIL3Oboeidqw7FY3iUS5sUEdynsS4bfrQl4GELcp5MCcSNvqOwbuWlitcbQ1GkcTxnmOjOaq1feN3zIFAzBEUlKABs-eQbfVd9Rcpn45dBindb7boHsb7YF9unMU7tLX3V904XYcC9wzXOC2pucL-oSkSvK_WxdVso4a1eYBvWf9KjOU"
+      "token": "gAAAAABq40joCsNDT5WFHrPVFD1I4hoj3BCDU4QkX4osA7Hz-Z3PEX2S5mM0f7sfUlZfwBrHrO4J61wHHOZjyMVBHo425gnZDN3SCxrFhLZF4Dgamv61Q2uCDrgxEAXox-8ZvmarYy6KEWzDsN8zegClyOEqJHcs0dyMlA_9zvCVV9-nyuzYzmTfdzVV9jk3c23SfO_hFYJ_oNalsPwdU9rKhQM4XiwqvtbU2M8IXLAmpzM2v-YuVTXIcO81YIfAAIbSKXbKGcaEXsyQ5XwQByE3oIH70mQBGQYbDjC0p_6wytmgQsII5qKed8ubwvIMay5NWC7Tt__XYwVn_WHgs490l1XrCwvlALycBPP6Jfje-l99xIQvBT4EIeWsvExKcCckPFybbGEbFejlW0_IdysD3w-YKsY0T81BQ6aQexjlmKNVg_UGB9XvOTtEZ78v8fd5NQZaJaad"
     },
-    "published_at": "2026-10-29 21:23:44"
+    "published_at": "2026-10-29 22:23:52"
   }
 }
