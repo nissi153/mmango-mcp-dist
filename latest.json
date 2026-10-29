@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.89",
-    "notes": "쇼핑쇼츠 소재 찾는 차례: TikHub → 빌리빌리 → 샤오홍슈 웹 로그인",
+    "version": "0.1.90",
+    "notes": "중드쇼츠·중드유통 자막을 뒤 상자 가운데에",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.89/app-0.1.89.zip",
-      "size": 34325543
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.90/app-0.1.90.zip",
+      "size": 34328512
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "xxqU/FIKlbc5d55dGGOVGw=="
+        "salt": "IXALXnFYPS4uQo8wlxJpNg=="
       },
-      "token": "gAAAAABq4udsiMVA7cYAMQwBC56F_Y4gkMb5E6DsKr260vmABUmTRUy8pqx5lYeU2RieITyAt0-HD6dQVUoBGjg5lTwnReSAXvpRglg-6R323f1hta1VyDgdW0gVu5yVy6RCqUCL08OLdPqUsDNfosCJlQSHuQ9R7p0MrcNwYbMTXezEoif5ba8vvV2VZEHWlF2x9DWabHbAYEo7W0TvqWGEFfaXXPnKHi8PS7-6r1dnLiOIBRc6dosg5XXU9LINMVhze8KYE1oYvvg36C692gSFmFBSZ_4g1rRR6IkiKZzVKqeppDe4PxmbkRwYZLkWebuTeuqVUw86ueC2MRPQbHyM_DwMcGYELCrThkpfxvvyfqz_HJwCtke9qo3ncpyMt6dIc52NrgnRAQOI7vyIWkMb0WwP2IZNYOTvafvRJokFDoVeODEQHs_vF9Weu5tjXmIuyC8RnRv3"
+      "token": "gAAAAABq4umiQgjbY5g6IlWUU9yYOu2x0JgL2VYKpd_y_RLExqIu0I0vy0AYzEXjmZkWe9g2Ngc2-EH2J0O27PVid7cOCq72ar848Ht6AybK3L_NFIwFBxhdhdggPTlckanxZhzfdtQfMTqYcw3CbOUMzKchNshEJizPKN3QmcsjC1jRlmooxzB_g747FNo_hQM4A-7igzVTlAldeNbJru3vTRNvMS_p442RuJAFYTQkCovRBQTPKx2Q3XYfhtL5KkuVCayiRDGk4mW1QPKr4lx0jduviIMmC-tf2uDPybXCANvuuPkQTfMm9nbi11m2MU2j5JiO_P-C_m5zxFNsMj8wrLwdkAOACcsjyGsVJZ593LqScZ4EEQlmoSd-kYeVOOk0bgGy3OLH6Wv-B_6EbtD_lCjhUocY26z1BXEk14bNec6l3AwqV8Z_DBsAv3o4Gr9CezWGEtEk"
     },
-    "published_at": "2026-10-29 15:27:55"
+    "published_at": "2026-10-29 15:37:22"
   }
 }
