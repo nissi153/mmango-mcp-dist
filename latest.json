@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.100",
-    "notes": "플리-롱폼 카페 형식(기본): 가진 음원 + 사진 한 장 + 노란 손글씨 playlist + LED 이퀄라이저, 인물 뒤 분홍 Playlist 썸네일",
+    "version": "0.1.101",
+    "notes": "Codex 그림을 ~/.codex/generated_images 에 쌓지 않고 편 폴더(images/codex)로 옮긴다",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.100/app-0.1.100.zip",
-      "size": 35493905
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.101/app-0.1.101.zip",
+      "size": 35497211
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "qR4B1w45vasrcvgaIZxJNw=="
+        "salt": "OR2kRb488uPOU3V7qLhfxg=="
       },
-      "token": "gAAAAABq5CoCm49cpBDxQhu3pz_mRzes4_khqnYcwPhBjBVpqthQIGWd6D97RAf62pGVjJl1rCNEEAozHSx-t2pEZxQLFO58ikFSCbdBcS7VmDm1WRp4SNMp31c60djNP-THVAJW1AvzjX59QBaQiu-ctjwd6QnG612FkFew5oAriN1J64-u6TDjK2M79Lc5Bbmx8UkpwzQ__K97tflMgy4mo-vaDnCMkGSY5qRlMw_6ZqmwP_7rnpH82UMxL7W0JDaQDGexdvlVCpimMcUTA7vm3i9R8UhXn80KN-K_pwHvwIVm9w7u5RFo57G-c_wsFA_0X6-bqO7a3s-6Drc6arekwzd7EsnAxwWHSha7opV4AKtkZTtVpM21L3zh4hA4zunQhhHp_rqdL97m7DEAruEGF9Gr0HDpsDz2kYo_c_Vyd5tzRr-PLKPRS_DMV8N3ciGxTr4ttvUM"
+      "token": "gAAAAABq5CxoZcHysGWYFAvneWpgpY2IRMyju4ppEU4m56qlfDTgo-TvdFOHe0f4rYw-YQqpyPUt4zh66zVP1iJyfWQW6HdApikBs0SICDWnhcZbGsKIxly9P68V7bCkKWgPuJqla3nAA0cnVk0YhdwXGxDMs8FfXp35-sw3IsjZzpQOutvMA9_cCAayKPQQwJVKgoOCDUjNHC9O-IlpsU0RipWtLqEjzFE7HlNPze4jtM9ud7sq2bCCew7-58mR2VMRwDaL2mtvE9nz7XH98P1gZiMnSoLRJkjtHjeEqzgWzQwjveFvKFc6InZjJxLmN7TdBqLxsJO7t-Ud0sKPjCLGtAYcyurbtNOkXkoTx5LTuaifE3VrgWBW7rJyNhy5aSaCdYBxvB7klMjlI_rrllDMEeZ4P_X6-siMSGiN4mXKbl0tR1tiVUaqKTCnipj2CDYq3e1TbKVq"
     },
-    "published_at": "2026-10-30 14:24:18"
+    "published_at": "2026-10-30 14:34:32"
   }
 }
