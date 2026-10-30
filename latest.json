@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.97",
-    "notes": "중드변환·중드쇼츠 글꼴 변경: 제목 주아 · 자막 프리텐다드 Bold",
+    "version": "0.1.98",
+    "notes": "프리셋 이름 정리(쇼핑·3D공학·인생·성경·중드·3D기계-롱폼·성경해설-롱폼)",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.97/app-0.1.97.zip",
-      "size": 35209135
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.98/app-0.1.98.zip",
+      "size": 35208811
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "LdA1EZsTvGCGareYddcMQw=="
+        "salt": "Z1klCXrtVDyqwlGFAVziPw=="
       },
-      "token": "gAAAAABq5Ahpuh6zHxLepnDdZTfpilnlHxYdq8jlCiyfv85y5mcXP7XC4vBPG9QXeefz2Jh3bvAJ_BsXweHz4GVTmewqV0B3_iq3zXXgjttnItY694fzQRCizFp9nmeFakIKVbufWXSCu4fxEpUg7bPOn08jBr0T53FguMRS45SxnXxPCpBS_4Qq6EXwKCul62S2iMAuNJEaJI1Wy9kxjd6QDJT4dA4LTFjbE4TX_S7eJC6WUMOVVroEHej7L0fMMbH7j9w8LOBjQyWDcf0I7f3BnVollfF5dou7SV9PUaDy7DUL_BD7YuO6lgWlbxd9-fY99hK9VBb1dXtgsJdo7LSeLYE0d_X92I2kZ8zWD4XVRLKvUstjy1bJdJrNp7KhGkg0lOqEe8THxgTTdT0u-nKKNQtSj5vrpeYteXOdBBsSez6z7AW9GJ3nXBRLjSp9H2EAO5cxt_o-"
+      "token": "gAAAAABq5A8dD-TeBL1zwreF_R0Q-q0QkQCajUE3bDO-LFQ1_RjYtakw0S24HiC-lWlPwzpKT3nf07eSa3iXtLjiJu_TWusoo8Pl_PaOQH9kowCarOZ-iXgkp1Vwy1Jh324PuYFAQEvVWodzJmI2cdYRrZeElwndvIh5z2NDl3dYQAdtjAbfXQ9oLunUVESl3ybWEkfITovATn7vIvt2lQy9LprLkcatkOwNP574nsV6IUrRODx-6yFhrV8U4uYpGIweKAifvq0yBci7bHcxE6p7lg863z9tVNigBNCNbKQlhrnQGCvfRwCUsHQHoEZYhUG-pZdkHfXZA0jnuJW_es5OJsGsvye4hKuuw1Sv5ODToL3D0MYYQjX6lAHLEZi7OxR7LBHJ_3SlTAKtrbpsHHvUqx1JnckYLMZnI3ClzrcmjjEqEFe-mgMk_iArpWlVchh4MFqpd11E"
     },
-    "published_at": "2026-10-30 12:00:57"
+    "published_at": "2026-10-30 12:29:33"
   }
 }
