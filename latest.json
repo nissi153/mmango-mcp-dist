@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.1.98",
-    "notes": "프리셋 이름 정리(쇼핑·3D공학·인생·성경·중드·3D기계-롱폼·성경해설-롱폼)",
+    "version": "0.1.99",
+    "notes": "그림 생성 1순위를 Codex CLI(ChatGPT 이미지)로 — 안 되면 Flow",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.98/app-0.1.98.zip",
-      "size": 35208811
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.1.99/app-0.1.99.zip",
+      "size": 35280955
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "Z1klCXrtVDyqwlGFAVziPw=="
+        "salt": "cg9yN8sLj6tkTXAAiMlU1g=="
       },
-      "token": "gAAAAABq5A8dD-TeBL1zwreF_R0Q-q0QkQCajUE3bDO-LFQ1_RjYtakw0S24HiC-lWlPwzpKT3nf07eSa3iXtLjiJu_TWusoo8Pl_PaOQH9kowCarOZ-iXgkp1Vwy1Jh324PuYFAQEvVWodzJmI2cdYRrZeElwndvIh5z2NDl3dYQAdtjAbfXQ9oLunUVESl3ybWEkfITovATn7vIvt2lQy9LprLkcatkOwNP574nsV6IUrRODx-6yFhrV8U4uYpGIweKAifvq0yBci7bHcxE6p7lg863z9tVNigBNCNbKQlhrnQGCvfRwCUsHQHoEZYhUG-pZdkHfXZA0jnuJW_es5OJsGsvye4hKuuw1Sv5ODToL3D0MYYQjX6lAHLEZi7OxR7LBHJ_3SlTAKtrbpsHHvUqx1JnckYLMZnI3ClzrcmjjEqEFe-mgMk_iArpWlVchh4MFqpd11E"
+      "token": "gAAAAABq5B7Kj733a7nhC1R0mYUDWIV0Ru7RaQUeYjlk20Kwb7CWYof2YlgRuoXKw2MwWIkiOzBEPnwVHSTktUMZEx7zQgNypUMjSytCrfBs0vDAYraq0Xf5Hj2kN_nYd3QbUS98NYwUAp0j6BD1vPw__DtTKxxhv7-4ve9UrMzoaHrcktuACOrJSvnCHndEUKwD9bxCx5mI57ANPQw--Gro3xHNcZw-hrNPjGd2gzaVYUqOGoujayFAit21uD0LOjRLowZ6iC4xObO60BADi5FsVTttEWQf2J6T76r6169sTq1SjLZl3gqfJ_UothxHwXFM8ldvA8robrPQvP2pcCVoC_TdZmiwJjPdeEcob5OXf98-DJcPq1C5wdNR3_e73OCzi73lKK6yAHgnfvSjrfrRr8sCpJKNOa1zy3Ys52OyOySi_1CdRsIIkaWVGQRdI4elTWhcTOvk"
     },
-    "published_at": "2026-10-30 12:29:33"
+    "published_at": "2026-10-30 13:36:26"
   }
 }
