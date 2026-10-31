@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.0",
-    "notes": "0.2.0 — 3D기계-롱폼: 처음 1분은 모두 영상, 그 뒤 그림 4·영상 1 차례",
+    "version": "0.2.1",
+    "notes": "0.2.1 — 영어건강-롱폼: 처음 1분은 모두 영상, 그 뒤 그림 4·영상 1 차례",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.0/app-0.2.0.zip",
-      "size": 35503671
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.1/app-0.2.1.zip",
+      "size": 35506769
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "DHkNmpiCWf2nSNIf8z8C2Q=="
+        "salt": "UGZ6GEm1ifCGpviAzNjd/g=="
       },
-      "token": "gAAAAABq5g4EWYYYYruEOTBd4AOEKKorm7lTKSkw--ro3wRs93en_DVYlSIjWkgmI-HTwxLxUqwu6STZaJinIfRHUpAs2XQWqcwu8uPKu5omPKS-eekTJz5uyUIICBYC4zzYwWjhMvgtMelO306iQh0v3stZQnHIg1Ccqlzj0LUNVEBnI96_EabQIUXXDpjRHLVSJIxtQwyGxU04UJrhHtn-COpeYJn8ZkzTxa05QzIEwrD2geVXXlTDR9YM1NlzZJyvTW5R1JvFgupHLDY7X52uHWaXPflyu-qVyK6Gfo0ZAhWAj0sboGIjzGwTCcSkAInIxWK7gawD-0LYTAlP0H_s0WYc4eAvq0I7pfZo9a6CqEr3Zr2kCEpvT59oJ9ZfXV4sGis6zETiR07RvxHp-XNc5-DLnFpLQ-I_gn6SQLJRooq0VzpKBlv7nTu4R4ep56VYG2Ab-rqH"
+      "token": "gAAAAABq5hLBSoTBOt26O7YYwyaPVTVWbetZSfYOQqsy_RNETbLb-17rZDYKaLnxHvZApJIH-xqYJe1Z25LL-jWFk3hwmkyHMIBIWlbIS-DL_0TAZRVzsSAb08C4xUWfS2-4LHNEVy59i-Qn5ZwDoWvnGXjEYMvljIPuuSf_hbH99A1HiJyYKqHAYCLK2y2_gsektIFThFocvV3T_4dRpjBLZwf4uLghyJTm5MGUwrn6ad3dn0OuCL_aqKB8cAG7-OtAiVgUEZYnfPuvvAlqpEdoX9tPeGHeByxSyZzmw7sDtpRs3f7OUWZb6ydtugLq_JK2H2fdR0Nu1qM4fzsaMNaQwztNSlYaBzHfb7EpjhEeaVFK0BEMBjE3nloFVJbhXtt7aTrivRkKYiZmzmNEh2VwiFTf1ck6eQsklcz5nKKzTys88xZ0q2wjlW-MYxtXxYU2CY4lhCbR"
     },
-    "published_at": "2026-11-01 00:49:24"
+    "published_at": "2026-11-01 01:09:37"
   }
 }
