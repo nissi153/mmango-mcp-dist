@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.2",
-    "notes": "서버형 지키기: 로그인 7일(자동 갱신)·기기 3대 묶기·동시 접속은 마지막 로그인 하나·이상 사용 자동 차단·사용자별 워터마크",
+    "version": "0.2.3",
+    "notes": "등급: starter 는 쇼핑 쇼츠만, pro 는 모든 프리셋",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.2/app-0.2.2.zip",
-      "size": 35514348
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.3/app-0.2.3.zip",
+      "size": 35517720
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "6yiI+9fCyOpggDUStXmfwQ=="
+        "salt": "9FRgk0KfIcl64DSv27pxHw=="
       },
-      "token": "gAAAAABq8mYcFwwgWBAI8xYAhnng288WGDbJJzj7AcbMDyFHXyH31qYuH3y0OY5x_kAdXLXrJVTMaFmNGOK1kw490bbhFMSqMj89sNDnFeEL5kVTibdfkMQlR89UzWIfMOjdnCMhJGlaKunQ5ZPqMmNYuWBWfoel1a1TYvv_PJeofac324fHAsNKVmyvwIGmci4ywOJZlbeQf7708xRZ1DQUoPAYN04AaDqGUXgUYKu6jQEg7XKbjK2s5rvamJPKcmCnC51d0DHXXYWwB7_M6_yctWK-ezaRHn5nBfTgIvcZGBDdnW-lJjWd_NfeTblEL0EsHwzhFYDbsJwFdKY1l4--Rip4B8f47ZgYLCv7QE5Kur1afMXq4EN58CduDj1PkOP561e8eKXzwr9xHo0hpV4oxn4gDUZ9ThsDrzzy7htUzg4G7TKlfh_gu0B1gdGj2tqRAeDcLhIh"
+      "token": "gAAAAABq8vORMyvl5gxHVlm20SR6oB81x8Ha86Alc-9tOnMxCCSqO5L2_A12Gw8JQuZrld4gglRdpeUrLAra4gbbmWzEseIB3MMGAiewoHA8TWcE68PXoskVTv8ivNcWWJbFLA4xugYv-QgVKBJkxVgLIn9_c7kPjOKrppp1fqqrJ-Ab9UCTpJzics6-x_S8fDPKq2s1gX6lt4j8IQXhHHS5gxmPvLJqfraF2-GjTuQWkQsHLcTLrac2HBOkmMI0KWQwl9nsjIHtj6ahVnsodRvLy65il2rD5QsoR-jAtHmVjpltRVA_Cv0nyewVEtTklWcAkKrr3u972OU1egRMw74ghumLlrJ9Q540r95wI2Qq7u8eUf7oGPSMfH9TN6ikhvakgv5OlTD-SOIGjD6Q2zLtryPBt_giz8Y_PuEKnXeRfpU2Ey1s_YiyTe-aboqRV2qAhvgftJ24"
     },
-    "published_at": "2026-11-10 09:32:27"
+    "published_at": "2026-11-10 19:36:01"
   }
 }
