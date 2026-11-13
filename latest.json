@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.4",
-    "notes": "플리-롱폼: 카페 형식도 Lyria 3(Gemini 앱 음악 만들기·크롬) 로 곡 생성 — 실측 절차 안내, 설명란 Lyria 출처·합성 표시",
+    "version": "0.2.5",
+    "notes": "Flow 보수적 주문(한 번에 하나·20초 간격·8번마다 3분 쉼·막히면 1시간 주문 멈춤) + Flow 가 막히면 EvoLink 우회를 사용자에게 묻기",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.4/app-0.2.4.zip",
-      "size": 35527167
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.5/app-0.2.5.zip",
+      "size": 35603112
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "9Yla9RyNsjFkmeVgbFrV/g=="
+        "salt": "uEiY9Ui6Q7B9wcogfRlwfQ=="
       },
-      "token": "gAAAAABq9lUOm0UYY0gXT7Ke2B13wFZqGDRr069wNIuCg5nwHY-seyyWxcwVW7Tk9BzhLMDag5ojq50hdjl_EMMPJc5aAYkCLxUlVwTBa2y4N6gPdtmR70q_NIEXat5ZZkJ7bMKFH5kWd-xS0TjzQKItQkE8l4cHg3QjJDMd31FmaO-JE9yZ2pCJ4H9O5-r7pqeCJiOdtHafiI1QvMDVeGLIpRH4epiki4Z-LVZbo-Z-ei2NLz4aCiUPfhW5cBCyuJHBGre7dpwkOxZBREwiHoKCSyGb4iYjEOzj-ceS9ktOKrc6wYdlj6Bl4TfmnRcG0rz3ZIMWWf79T6sNoMHo6zlZVjIqSJ8WVeYjY7hXKJEmDHYWeIO76dbBav0TWw8liCfhL7FfZhe_mtDLPbqFLH5tVNC5xz-wlSp9G9mxAJHjQC3tEULSNJKUZhthiOmW0QsX4KOvI5VO"
+      "token": "gAAAAABq9n0exZydlden5YaosCElsg6xPIp6gB5UbriIruhqSbACfzgyF6bGbBfjW26YakZbAzhYHVS64AIo78_4QE4-psdXAq3E_OuSTg0VvPDuAo7r31oTxJcHWbYlaivGuGEfjR3ik9RJIFlV5rKqIOK69tE6wZReOFRscUr64WdsWnsycVsOlYWcTRw_jtV5TPo35rTSXuEkK_Tg9jGA6foF_GQMnfL1ZA3V6xeMKGmKwVj2Sd2804QRBrz_F53ns-c5tF_2lBm_XfTSZtDZspO1yOSZi-7BCjaHzhBlPdb4JzVxSZ83KFbi9Yh8bQ7IdJOsQFtT4D-JKamgnE85FYpZu5MqEq71vUqBwIQduiuTK0_7Pj0s6ipmzx2CwUZC2yvOE43OFo6ym9OW8uPAngPhSzaiJDwICCcKdVrEE0x1ka8Qv-9vrY4s4GHMd3KX-2EwMad8"
     },
-    "published_at": "2026-11-13 09:08:46"
+    "published_at": "2026-11-13 11:59:42"
   }
 }
