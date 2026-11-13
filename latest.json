@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.3",
-    "notes": "등급: starter 는 쇼핑 쇼츠만, pro 는 모든 프리셋",
+    "version": "0.2.4",
+    "notes": "플리-롱폼: 카페 형식도 Lyria 3(Gemini 앱 음악 만들기·크롬) 로 곡 생성 — 실측 절차 안내, 설명란 Lyria 출처·합성 표시",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.3/app-0.2.3.zip",
-      "size": 35517720
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.4/app-0.2.4.zip",
+      "size": 35527167
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "9FRgk0KfIcl64DSv27pxHw=="
+        "salt": "9Yla9RyNsjFkmeVgbFrV/g=="
       },
-      "token": "gAAAAABq8vORMyvl5gxHVlm20SR6oB81x8Ha86Alc-9tOnMxCCSqO5L2_A12Gw8JQuZrld4gglRdpeUrLAra4gbbmWzEseIB3MMGAiewoHA8TWcE68PXoskVTv8ivNcWWJbFLA4xugYv-QgVKBJkxVgLIn9_c7kPjOKrppp1fqqrJ-Ab9UCTpJzics6-x_S8fDPKq2s1gX6lt4j8IQXhHHS5gxmPvLJqfraF2-GjTuQWkQsHLcTLrac2HBOkmMI0KWQwl9nsjIHtj6ahVnsodRvLy65il2rD5QsoR-jAtHmVjpltRVA_Cv0nyewVEtTklWcAkKrr3u972OU1egRMw74ghumLlrJ9Q540r95wI2Qq7u8eUf7oGPSMfH9TN6ikhvakgv5OlTD-SOIGjD6Q2zLtryPBt_giz8Y_PuEKnXeRfpU2Ey1s_YiyTe-aboqRV2qAhvgftJ24"
+      "token": "gAAAAABq9lUOm0UYY0gXT7Ke2B13wFZqGDRr069wNIuCg5nwHY-seyyWxcwVW7Tk9BzhLMDag5ojq50hdjl_EMMPJc5aAYkCLxUlVwTBa2y4N6gPdtmR70q_NIEXat5ZZkJ7bMKFH5kWd-xS0TjzQKItQkE8l4cHg3QjJDMd31FmaO-JE9yZ2pCJ4H9O5-r7pqeCJiOdtHafiI1QvMDVeGLIpRH4epiki4Z-LVZbo-Z-ei2NLz4aCiUPfhW5cBCyuJHBGre7dpwkOxZBREwiHoKCSyGb4iYjEOzj-ceS9ktOKrc6wYdlj6Bl4TfmnRcG0rz3ZIMWWf79T6sNoMHo6zlZVjIqSJ8WVeYjY7hXKJEmDHYWeIO76dbBav0TWw8liCfhL7FfZhe_mtDLPbqFLH5tVNC5xz-wlSp9G9mxAJHjQC3tEULSNJKUZhthiOmW0QsX4KOvI5VO"
     },
-    "published_at": "2026-11-10 19:36:01"
+    "published_at": "2026-11-13 09:08:46"
   }
 }
