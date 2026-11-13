@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.9",
-    "notes": "AI 영상 기본: Flow 프로젝트 주소 + Claude in Chrome → EvoLink, Flow Kit 은 말할 때만",
+    "version": "0.2.10",
+    "notes": "EvoLink 무음 컷을 가장 싼 Veo 3.1 Lite 로",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.9/app-0.2.9.zip",
-      "size": 35655463
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.10/app-0.2.10.zip",
+      "size": 35661251
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "riQQHS6IY1gSrCAn9dhKZw=="
+        "salt": "UkgyYRiT0ZA+Nu4bvwXIDw=="
       },
-      "token": "gAAAAABq9wc2NLca7hGHVUIxv8JvaQXJdsJy4VaH8wO3vTFwuTe9DX7uhDZTLZU6uUMR4kwooaXwjHiaRRlXgbNlS4iW47tH-F0xugD6k0cdkLtKHlp3COk6MaNxLQNZdowbmo1J5AYprW3c6oDZigjTltUKkq0GmpP7b3itI39KpaO2vWW1JCvnUwt3oFPDphM23dUQz8FujeNVbNL5mCoRkB9D2ZchvqU2leh75kPT7OuPnwmgJZCdKNmMl9hiAQoOaQwXzaDcPokERKV_W5FwHoitfmQtA2fSHO2reAukkKKzVwYIBS9qJDKEpezUvQCZKLbzoDjeCW1m0twmW_nxozEnuHreVuImiP-wr5s4xQKk1FaKtN6957mIIgT1DxGqZEuOEdca1cmKfZWulO6hTJvMfj6AhFWoxmGfiTX6ZfTYkj1Xl5jdlXQa-4RhAxYzQFO4oGMm"
+      "token": "gAAAAABq91H0hocN3IDDrlECNiiofMPQ6Y3LZYebFo3ETwu7HnVpqFn7AUvLMYN_JQ9Mfv3Tp05081-70oS8lzUpk4OUCPl_GzkCg6bFMzmmPeZzbzj1DdQMkdShrORyZurq5SXANzEJwDeGpUi-gyzOFyp98jfjIyUikfdwX8HRMVKPDsR6Q-aXveMLgL5eQPE5D2bESLRh3UUfcATrXTD6Uz4peaK9qL91d6zkoJrNgBNF_jD9awDK5rSinRdm2DqiikEF4H4Xbe4l4skBlL-eQHejhZMdKpH-_hU5v5EiM4fP6xzb0XKMJSHrKQuTIaOHA5GlWsbiVdkfyk5dfPi8oU5u76Hi7dra8Qyk-zSxiKn2FAzgEiJmjESc52l3nTMQI1OoruFVoKhv__AyG1Z6kpvlajOavpMyLlKnr75RYKWwpIzMVwo_ga4r0Yyh4CJ9QVD4lQlT"
     },
-    "published_at": "2026-11-13 21:48:51"
+    "published_at": "2026-11-14 03:07:48"
   }
 }
