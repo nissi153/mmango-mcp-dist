@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.5",
-    "notes": "Flow 보수적 주문(한 번에 하나·20초 간격·8번마다 3분 쉼·막히면 1시간 주문 멈춤) + Flow 가 막히면 EvoLink 우회를 사용자에게 묻기",
+    "version": "0.2.6",
+    "notes": "프리셋 글꼴은 배포판에 실린 것만 — 생성형 편집 기본 맑은 고딕 제거, 정치 Draw 스타일 도현",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.5/app-0.2.5.zip",
-      "size": 35603112
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.6/app-0.2.6.zip",
+      "size": 35603102
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "uEiY9Ui6Q7B9wcogfRlwfQ=="
+        "salt": "KXy4jbtu3PW0tWmTw3/Ytg=="
       },
-      "token": "gAAAAABq9n0exZydlden5YaosCElsg6xPIp6gB5UbriIruhqSbACfzgyF6bGbBfjW26YakZbAzhYHVS64AIo78_4QE4-psdXAq3E_OuSTg0VvPDuAo7r31oTxJcHWbYlaivGuGEfjR3ik9RJIFlV5rKqIOK69tE6wZReOFRscUr64WdsWnsycVsOlYWcTRw_jtV5TPo35rTSXuEkK_Tg9jGA6foF_GQMnfL1ZA3V6xeMKGmKwVj2Sd2804QRBrz_F53ns-c5tF_2lBm_XfTSZtDZspO1yOSZi-7BCjaHzhBlPdb4JzVxSZ83KFbi9Yh8bQ7IdJOsQFtT4D-JKamgnE85FYpZu5MqEq71vUqBwIQduiuTK0_7Pj0s6ipmzx2CwUZC2yvOE43OFo6ym9OW8uPAngPhSzaiJDwICCcKdVrEE0x1ka8Qv-9vrY4s4GHMd3KX-2EwMad8"
+      "token": "gAAAAABq9pPvamk0fJumZWSJ3HJBwITM7bfHKOENFHb9G2wO5GskQiTUlwsJLTHNWww6rmGWLhUKja71vl8tTwVRWXpvieXPi9irU_fYgpq3RzdpgjWr18kc2XXzJguFX1gjFlsC1J9cY4urdAptqhfWS72rJviydPPNlKrYDuRakhds95gzpGIJN5ljeJ5eDxxB6Q_t6fdJ5KeIfT1hGlV6V9s1lbmqni4Hb2ZSOHPFu2TZHx8OqDVi2QOYZMfRBuq2IsQ2H26yiOlINSmzdEwMhghOmY0Rh2u7qsgMgAgqR1dDKfPyVh1C3yjWMBZUi6onXFSvD00YXjut92heMpSVJGrTM8y2UTfSQffhScT2Ss6WzuYvDYdsbad5gKaKoE7I7YQECgCzr-ABDtvcB9Nxpp8lWo2ucaubhnCB7zxh5CgTvTRteiz4eV5zWqxzb3umF2t82iLG"
     },
-    "published_at": "2026-11-13 11:59:42"
+    "published_at": "2026-11-13 13:37:03"
   }
 }
