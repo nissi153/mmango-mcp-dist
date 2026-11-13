@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.7",
-    "notes": "AI 그림·영상 기본 엔진을 Claude in Chrome 으로 — 안 되면 EvoLink, Flow Kit 은 특별히 말할 때만",
+    "version": "0.2.8",
+    "notes": "로그인 완료·실패 화면을 깔끔한 안내 화면으로",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.7/app-0.2.7.zip",
-      "size": 35652999
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.8/app-0.2.8.zip",
+      "size": 35654511
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "Ksg0Ol8/BWyfNDraHT4G1Q=="
+        "salt": "8wB5yurhXU6q//lDZg77CA=="
       },
-      "token": "gAAAAABq9q8g140_G9kehlrG4YH5bV8bLJ4LP0p7Dx15Dsunv8tXN_DMceZDkI_MpjMycVLiKna6Nbz81ab4aMEgpwpMMN099H0uYf93PpU8ev3DoU0hQGjdb8vLkkqSAVv-xeuC3L4GmCkgqhc5KMi96xbLCbXErmJEVfziYE2D9sTEqekTVA4h1ZJBkxUEhuyIbN1Re2vLUS3Xmi3ymsaQt736C0WDk1tpVnkffYbBYyrgycjAHTZr0ouUyAQeYtWNU9YKlE0rj04qQKZ1iad5IAXiltC_WNS0MvBC_UvcoxPhS-uZbVu5pOv2s-OBXmqcOS-PvBJI8410oLJE6yFZIdzwNuAXX4Ac-M7WQBkkgCchA2RIkNln8bsPlm07PygGRF5G5WAjkJL-ibNbMvIUwwc_FXdYR3jbqSRlNmdonM8Lmym5bJhjEoF12ohfFeDHI9rAVF4D"
+      "token": "gAAAAABq9vNkKnpNN9Y9PMXunoxL0vxOABvGHS3np6A0h9YbUX92eet_zOHwKJCWeQkpja0k2bK6g6-W8yeEJ23-y3zw7s2xizFHXJkOBVtLlXgSfNd6d_eu5jnmr6xyBaSEaYaMooPTJrkcSzqRGsRNumWNnRnGOJ-Yn0aj3vJopbRVz5douJglj4fYlwoa_KnEiZgfZCG8JcDk8CIQhkuzZQFZA3xirtTk5EHpo8Xyzpqokhm0T1OV3dlBRtVkrsziLRco_ude0yuL0uFuoabFHCLIKV1WaajnHXio8JwbVcsql3PIZLgg-Xit4K7ADnxP0hZ89A9zwoL_TF-QRc8fgJ9LqUXPeR0VOXRcINJEoVL_7lrCuD_MeN1ed9LtlU4LBPh5bKPvA6FeKJoV18ptZgtPTEVuqcpmqnQkzyARhh2u2Jmb-LcFdM3ydf9iBIzSpSG7C-vf"
     },
-    "published_at": "2026-11-13 15:33:04"
+    "published_at": "2026-11-13 20:24:20"
   }
 }
