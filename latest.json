@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.11",
-    "notes": "쇼핑 소재에서 빌리빌리를 뺐습니다 — TikHub(도우인·틱톡·샤오홍슈)로만 받습니다",
+    "version": "0.2.12",
+    "notes": "쇼핑 소재 찾기가 시간 초과로 안 끝나던 것 — 받은 영상은 다시 안 받고, 도우인 한 편은 TikHub 한 번(45초)만, 찾기 전체 240초 상한",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.11/app-0.2.11.zip",
-      "size": 35660091
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.12/app-0.2.12.zip",
+      "size": 35663089
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "i65O3XxQHPgpe7orrO63kQ=="
+        "salt": "oqPYRAbGmO4rVBeAbjUx1A=="
       },
-      "token": "gAAAAABq-FsBft9XiH68GZ8Zwy02qWoqub7p9VyJfW6vUTzPU6F-1q9_YyDpuTGdWMqegN0GxfAhSo5eBOAEU94DJxe7xvGPQ0mPOXYmxVEZHGnXhnsjlUDHSqrKxG5OesRiGxnAWfElnDm8kUStHzRbEt4fGcV_8tP_s72tV7eala7Q6HTXuQHZU9a2gd6jikD92aWrZqokCb2WC_vTwPwYgLFmD5DyemVI_xKLtMBqtHFCY6xIv9j1EazaL774IkXnFwtbKMMxqmMFMgea0cA6DyO1Q57L0OnzJfwcfTQxDDjtW_baVBC75SNz6sX6hozQYZnQlJGV0D-9GRuWj-Q9BF1ejzxdKuuhqXzvFH1jLsFG9KrZ0D9M_ARXQjJJjjppT0FJ_XqUxmvVYlmym0rzOqglVVg9F_9AqbfILU0EU2NHvzXa02yF-rRSiAJaTZE2dTaPR3hu"
+      "token": "gAAAAABq-GDvv9bxs8Wm-PR0sH5E7l06W4Nc8acdGcK7h0LoC0l1_l8gAUOGfO02ex7Vpi6fvSyuGEEGuQ_Rl-YfDj2uwmSv6bexSS3Ry3IcJbCHkRvSY5K9QngD_RC9B19O7KLFVZAnKkGJa8fSjflTJDIFsEtRCPTeuefKKCGpY7xZ4UQDoUi1RZRaTjO-U1nhN-RKbzXyV_vtyNLfZXCatvk6DCNFA2Su66TOmJBRuopDk3hCrVULLg1punfpntDxeiKRW_QgZrJ8ewVtdsPyU_frZpH0_Ti_ZolLJ1h0YA1GrfIVjcw4F8neDNhO6K5BScPZpVvdiuOArPZAwbY936rB6O_7iQXkTk7d3s5fztwWAgiFYmQ51szVjNLvSpZFgIIf9nWZsWjtSYADL15XmIGShlvhy8n3eiQz-Un_N1rqN2wQsNVl8m-aW-lvIvxsXVi6S9DF"
     },
-    "published_at": "2026-11-14 21:58:40"
+    "published_at": "2026-11-14 22:23:59"
   }
 }
