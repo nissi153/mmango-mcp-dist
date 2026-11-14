@@ -13,11 +13,11 @@
   "sealed": "gAAAAABqqV9e9UhWDlcot2ymaRnCa9HdqMJEcttcBygq65gtzOh5l_nGckh_Zb7kt4Di7znmsfesvLjyMTCqpZM4uskxeFDus3qXn_7DgSFxuuqgXnBcRJIyvpu4krywcg4R1EdGpD3vCrw-4U3O6Hj3GKKmtiRHjUph7NRbQfNGjLwKGOEb5An5RJynpRIcr_GZIjgHkRrZICHOBS9tr26RaaOYC4ATuPbrCryCjGDCPw6uQFA_Ppdnc1mQMLg9J4pAGInZx-wnXrxtGxJE-NtGtP_Ky-B0vj4rdgC_O84G1j8E0s5oIfJFWFZ_Xga50lazPS8DQbb6Obj-d3B94XVJma-W-SQt8yi_OlTveRAFMexrR2TtTCQgOQp3gbmZbc35yh-uuXKSZaYqvvjCLSom5Du1TXMyGmdMboV0EUaZlYMUhBFsSnM7UZnmhJrDgEKC-cARU5yQ",
   "published_at": "2026-09-16 00:08:14",
   "locked": {
-    "version": "0.2.10",
-    "notes": "EvoLink 무음 컷을 가장 싼 Veo 3.1 Lite 로",
+    "version": "0.2.11",
+    "notes": "쇼핑 소재에서 빌리빌리를 뺐습니다 — TikHub(도우인·틱톡·샤오홍슈)로만 받습니다",
     "app": {
-      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.10/app-0.2.10.zip",
-      "size": 35661251
+      "url": "https://github.com/nissi153/mmango-mcp-dist/releases/download/v0.2.11/app-0.2.11.zip",
+      "size": 35660091
     },
     "runtime": {
       "fingerprint": "109c564f52889dd1",
@@ -30,10 +30,10 @@
         "n": 32768,
         "r": 8,
         "p": 1,
-        "salt": "UkgyYRiT0ZA+Nu4bvwXIDw=="
+        "salt": "i65O3XxQHPgpe7orrO63kQ=="
       },
-      "token": "gAAAAABq91H0hocN3IDDrlECNiiofMPQ6Y3LZYebFo3ETwu7HnVpqFn7AUvLMYN_JQ9Mfv3Tp05081-70oS8lzUpk4OUCPl_GzkCg6bFMzmmPeZzbzj1DdQMkdShrORyZurq5SXANzEJwDeGpUi-gyzOFyp98jfjIyUikfdwX8HRMVKPDsR6Q-aXveMLgL5eQPE5D2bESLRh3UUfcATrXTD6Uz4peaK9qL91d6zkoJrNgBNF_jD9awDK5rSinRdm2DqiikEF4H4Xbe4l4skBlL-eQHejhZMdKpH-_hU5v5EiM4fP6xzb0XKMJSHrKQuTIaOHA5GlWsbiVdkfyk5dfPi8oU5u76Hi7dra8Qyk-zSxiKn2FAzgEiJmjESc52l3nTMQI1OoruFVoKhv__AyG1Z6kpvlajOavpMyLlKnr75RYKWwpIzMVwo_ga4r0Yyh4CJ9QVD4lQlT"
+      "token": "gAAAAABq-FsBft9XiH68GZ8Zwy02qWoqub7p9VyJfW6vUTzPU6F-1q9_YyDpuTGdWMqegN0GxfAhSo5eBOAEU94DJxe7xvGPQ0mPOXYmxVEZHGnXhnsjlUDHSqrKxG5OesRiGxnAWfElnDm8kUStHzRbEt4fGcV_8tP_s72tV7eala7Q6HTXuQHZU9a2gd6jikD92aWrZqokCb2WC_vTwPwYgLFmD5DyemVI_xKLtMBqtHFCY6xIv9j1EazaL774IkXnFwtbKMMxqmMFMgea0cA6DyO1Q57L0OnzJfwcfTQxDDjtW_baVBC75SNz6sX6hozQYZnQlJGV0D-9GRuWj-Q9BF1ejzxdKuuhqXzvFH1jLsFG9KrZ0D9M_ARXQjJJjjppT0FJ_XqUxmvVYlmym0rzOqglVVg9F_9AqbfILU0EU2NHvzXa02yF-rRSiAJaTZE2dTaPR3hu"
     },
-    "published_at": "2026-11-14 03:07:48"
+    "published_at": "2026-11-14 21:58:40"
   }
 }
